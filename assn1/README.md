@@ -63,6 +63,7 @@ bash top-generator.sh
 
 ## Description of bash script for Question1:
 The bash script calls 2 python files data.py and modified_neighbors.py.
+
 data.py:
 * downloads the raw data and process to make data.json which contains all relevant information.
 * **NOTE**: If data.json is already present in the directory then it does not fetch the raw data again. So, if you want the data to be fetched again then delete data.json.
