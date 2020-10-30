@@ -1,0 +1,5312 @@
+{
+    "101|adilabad|telangana": [
+        "219|chandrapur|maharashtra",
+        "453|komaram_bheem|telangana",
+        "552|nanded|maharashtra",
+        "564|nirmal|telangana",
+        "809|yavatmal|maharashtra"
+    ],
+    "102|agar_malwa|madhya_pradesh": [
+        "382|jhalawar|rajasthan",
+        "626|rajgarh|madhya_pradesh",
+        "638|ratlam|madhya_pradesh",
+        "678|shajapur|madhya_pradesh",
+        "762|ujjain|madhya_pradesh"
+    ],
+    "103|agra|uttar_pradesh": [
+        "182|bharatpur|rajasthan",
+        "186|bhind|madhya_pradesh",
+        "270|dholpur|rajasthan",
+        "294|etah|uttar_pradesh",
+        "295|etawah|uttar_pradesh",
+        "304|firozabad|uttar_pradesh",
+        "343|hathras|uttar_pradesh",
+        "516|mathura|uttar_pradesh",
+        "529|morena|madhya_pradesh"
+    ],
+    "104|ahmedabad|gujarat": [
+        "122|anand|gujarat",
+        "184|bhavnagar|gujarat",
+        "201|botad|gujarat",
+        "309|gandhinagar|gujarat",
+        "436|kheda|gujarat",
+        "522|mehsana|gujarat",
+        "729|surendranagar|gujarat"
+    ],
+    "105|ahmednagar|maharashtra": [
+        "135|aurangabad|maharashtra",
+        "171|beed|maharashtra",
+        "558|nashik|maharashtra",
+        "575|osmanabad|maharashtra",
+        "613|pune|maharashtra",
+        "707|solapur|maharashtra",
+        "738|thane|maharashtra"
+    ],
+    "106|aizawl|mizoram": [
+        "210|cachar|assam",
+        "215|champhai|mizoram",
+        "449|kolasib|mizoram",
+        "492|lunglei|mizoram",
+        "509|mamit|mizoram",
+        "601|pherzawl|manipur",
+        "674|serchhip|mizoram"
+    ],
+    "107|ajmer|rajasthan": [
+        "185|bhilwara|rajasthan",
+        "361|jaipur|rajasthan",
+        "544|nagaur|rajasthan",
+        "581|pali|rajasthan",
+        "630|rajsamand|rajasthan",
+        "754|tonk|rajasthan"
+    ],
+    "108|akola|maharashtra": [
+        "118|amravati|maharashtra",
+        "206|buldhana|maharashtra",
+        "791|washim|maharashtra"
+    ],
+    "109|alappuzha|kerala": [
+        "292|ernakulam|kerala",
+        "452|kollam|kerala",
+        "460|kottayam|kerala",
+        "592|pathanamthitta|kerala"
+    ],
+    "110|aligarh|uttar_pradesh": [
+        "203|budaun|uttar_pradesh",
+        "205|bulandshahr|uttar_pradesh",
+        "314|gautam_buddha_nagar|uttar_pradesh",
+        "343|hathras|uttar_pradesh",
+        "425|kasganj|uttar_pradesh",
+        "516|mathura|uttar_pradesh",
+        "582|palwal|haryana",
+        "661|sambhal|uttar_pradesh"
+    ],
+    "111|alipurduar|west_bengal": [
+        "238|cooch_behar|west_bengal",
+        "369|jalpaiguri|west_bengal",
+        "447|kokrajhar|assam"
+    ],
+    "112|alirajpur|madhya_pradesh": [
+        "167|barwani|madhya_pradesh",
+        "227|chhota_udaipur|gujarat",
+        "242|dahod|gujarat",
+        "265|dhar|madhya_pradesh",
+        "380|jhabua|madhya_pradesh",
+        "553|nandurbar|maharashtra"
+    ],
+    "113|almora|uttarakhand": [
+        "139|bageshwar|uttarakhand",
+        "213|chamoli|uttarakhand",
+        "214|champawat|uttarakhand",
+        "546|nainital|uttarakhand",
+        "596|pauri_garhwal|uttarakhand",
+        "603|pithoragarh|uttarakhand"
+    ],
+    "114|alwar|rajasthan": [
+        "182|bharatpur|rajasthan",
+        "253|dausa|rajasthan",
+        "361|jaipur|rajasthan",
+        "501|mahendragarh|haryana",
+        "574|nuh|haryana",
+        "643|rewari|haryana"
+    ],
+    "115|ambala|haryana": [
+        "469|kurukshetra|haryana",
+        "583|panchkula|haryana",
+        "594|patiala|punjab",
+        "649|s.a.s._nagar|punjab",
+        "698|sirmaur|himachal_pradesh",
+        "808|yamunanagar|haryana"
+    ],
+    "116|ambedkar_nagar|uttar_pradesh": [
+        "136|ayodhya|uttar_pradesh",
+        "137|azamgarh|uttar_pradesh",
+        "169|basti|uttar_pradesh",
+        "327|gorakhpur|uttar_pradesh",
+        "665|sant_kabir_nagar|uttar_pradesh",
+        "724|sultanpur|uttar_pradesh"
+    ],
+    "117|amethi|uttar_pradesh": [
+        "136|ayodhya|uttar_pradesh",
+        "159|barabanki|uttar_pradesh",
+        "606|pratapgarh|uttar_pradesh",
+        "619|rae_bareli|uttar_pradesh",
+        "724|sultanpur|uttar_pradesh"
+    ],
+    "118|amravati|maharashtra": [
+        "108|akola|maharashtra",
+        "176|betul|madhya_pradesh",
+        "206|buldhana|maharashtra",
+        "208|burhanpur|madhya_pradesh",
+        "226|chhindwara|madhya_pradesh",
+        "434|khandwa|madhya_pradesh",
+        "545|nagpur|maharashtra",
+        "790|wardha|maharashtra",
+        "791|washim|maharashtra",
+        "809|yavatmal|maharashtra"
+    ],
+    "119|amreli|gujarat": [
+        "184|bhavnagar|gujarat",
+        "201|botad|gujarat",
+        "318|gir_somnath|gujarat",
+        "392|junagadh|gujarat",
+        "627|rajkot|gujarat"
+    ],
+    "120|amritsar|punjab": [
+        "331|gurdaspur|punjab",
+        "415|kapurthala|punjab",
+        "734|tarn_taran|punjab"
+    ],
+    "121|amroha|uttar_pradesh": [
+        "192|bijnor|uttar_pradesh",
+        "205|bulandshahr|uttar_pradesh",
+        "338|hapur|uttar_pradesh",
+        "521|meerut|uttar_pradesh",
+        "527|moradabad|uttar_pradesh",
+        "661|sambhal|uttar_pradesh"
+    ],
+    "122|anand|gujarat": [
+        "104|ahmedabad|gujarat",
+        "183|bharuch|gujarat",
+        "436|kheda|gujarat",
+        "775|vadodara|gujarat"
+    ],
+    "123|anantapur|andhra_pradesh": [
+        "146|ballari|karnataka",
+        "228|chikkaballapura|karnataka",
+        "231|chitradurga|karnataka",
+        "233|chittoor|andhra_pradesh",
+        "468|kurnool|andhra_pradesh",
+        "756|tumakuru|karnataka",
+        "805|y.s.r._kadapa|andhra_pradesh"
+    ],
+    "124|anantnag|jammu_and_kashmir": [
+        "279|doda|jammu_and_kashmir",
+        "308|ganderbal|jammu_and_kashmir",
+        "419|kargil|ladakh",
+        "443|kishtwar|jammu_and_kashmir",
+        "465|kulgam|jammu_and_kashmir",
+        "611|pulwama|jammu_and_kashmir",
+        "633|ramban|jammu_and_kashmir",
+        "687|shopiyan|jammu_and_kashmir",
+        "721|srinagar|jammu_and_kashmir"
+    ],
+    "125|angul|odisha": [
+        "202|boudh|odisha",
+        "240|cuttack|odisha",
+        "257|deogarh|odisha",
+        "269|dhenkanal|odisha",
+        "431|kendujhar|odisha",
+        "561|nayagarh|odisha",
+        "660|sambalpur|odisha",
+        "722|subarnapur|odisha",
+        "725|sundargarh|odisha"
+    ],
+    "126|anjaw|arunachal_pradesh": [
+        "220|changlang|arunachal_pradesh",
+        "484|lohit|arunachal_pradesh"
+    ],
+    "127|anuppur|madhya_pradesh": [
+        "194|bilaspur|chhattisgarh",
+        "277|dindori|madhya_pradesh",
+        "458|koriya|chhattisgarh",
+        "533|mungeli|chhattisgarh",
+        "675|shahdol|madhya_pradesh",
+        "764|umaria|madhya_pradesh"
+    ],
+    "128|araria|bihar": [
+        "442|kishanganj|bihar",
+        "493|madhepura|bihar",
+        "617|purnia|bihar",
+        "726|supaul|bihar"
+    ],
+    "129|aravalli|gujarat": [
+        "281|dungarpur|rajasthan",
+        "309|gandhinagar|gujarat",
+        "436|kheda|gujarat",
+        "502|mahisagar|gujarat",
+        "651|sabarkantha|gujarat",
+        "757|udaipur|rajasthan"
+    ],
+    "130|ariyalur|tamil_nadu": [
+        "239|cuddalore|tamil_nadu",
+        "598|perambalur|tamil_nadu",
+        "739|thanjavur|tamil_nadu",
+        "750|tiruchirappalli|tamil_nadu"
+    ],
+    "131|arwal|bihar": [
+        "134|aurangabad|bihar",
+        "188|bhojpur|bihar",
+        "315|gaya|bihar",
+        "379|jehanabad|bihar",
+        "595|patna|bihar",
+        "646|rohtas|bihar"
+    ],
+    "132|ashoknagar|madhya_pradesh": [
+        "329|guna|madhya_pradesh",
+        "477|lalitpur|uttar_pradesh",
+        "652|sagar|madhya_pradesh",
+        "686|shivpuri|madhya_pradesh",
+        "780|vidisha|madhya_pradesh"
+    ],
+    "133|auraiya|uttar_pradesh": [
+        "295|etawah|uttar_pradesh",
+        "365|jalaun|uttar_pradesh",
+        "410|kannauj|uttar_pradesh",
+        "412|kanpur_dehat|uttar_pradesh"
+    ],
+    "134|aurangabad|bihar": [
+        "131|arwal|bihar",
+        "315|gaya|bihar",
+        "579|palamu|jharkhand",
+        "646|rohtas|bihar"
+    ],
+    "135|aurangabad|maharashtra": [
+        "105|ahmednagar|maharashtra",
+        "171|beed|maharashtra",
+        "366|jalgaon|maharashtra",
+        "367|jalna|maharashtra",
+        "558|nashik|maharashtra"
+    ],
+    "136|ayodhya|uttar_pradesh": [
+        "116|ambedkar_nagar|uttar_pradesh",
+        "117|amethi|uttar_pradesh",
+        "159|barabanki|uttar_pradesh",
+        "169|basti|uttar_pradesh",
+        "324|gonda|uttar_pradesh",
+        "724|sultanpur|uttar_pradesh"
+    ],
+    "137|azamgarh|uttar_pradesh": [
+        "116|ambedkar_nagar|uttar_pradesh",
+        "317|ghazipur|uttar_pradesh",
+        "327|gorakhpur|uttar_pradesh",
+        "377|jaunpur|uttar_pradesh",
+        "517|mau|uttar_pradesh",
+        "724|sultanpur|uttar_pradesh"
+    ],
+    "138|bagalkote|karnataka": [
+        "173|belagavi|karnataka",
+        "305|gadag|karnataka",
+        "455|koppal|karnataka",
+        "620|raichur|karnataka",
+        "781|vijayapura|karnataka"
+    ],
+    "139|bageshwar|uttarakhand": [
+        "113|almora|uttarakhand",
+        "213|chamoli|uttarakhand",
+        "603|pithoragarh|uttarakhand"
+    ],
+    "140|baghpat|uttar_pradesh": [
+        "256|delhi|delhi",
+        "316|ghaziabad|uttar_pradesh",
+        "521|meerut|uttar_pradesh",
+        "536|muzaffarnagar|uttar_pradesh",
+        "585|panipat|haryana",
+        "679|shamli|uttar_pradesh",
+        "709|sonipat|haryana"
+    ],
+    "141|bahraich|uttar_pradesh": [
+        "159|barabanki|uttar_pradesh",
+        "324|gonda|uttar_pradesh",
+        "475|lakhimpur_kheri|uttar_pradesh",
+        "688|shrawasti|uttar_pradesh",
+        "702|sitapur|uttar_pradesh"
+    ],
+    "142|baksa|assam": [
+        "166|barpeta|assam",
+        "230|chirang|assam",
+        "251|darrang|assam",
+        "404|kamrup|assam",
+        "548|nalbari|assam",
+        "758|udalguri|assam"
+    ],
+    "143|balaghat|madhya_pradesh": [
+        "181|bhandara|maharashtra",
+        "325|gondia|maharashtra",
+        "393|kabeerdham|chhattisgarh",
+        "512|mandla|madhya_pradesh",
+        "545|nagpur|maharashtra",
+        "628|rajnandgaon|chhattisgarh",
+        "673|seoni|madhya_pradesh"
+    ],
+    "144|balangir|odisha": [
+        "163|bargarh|odisha",
+        "202|boudh|odisha",
+        "398|kalahandi|odisha",
+        "407|kandhamal|odisha",
+        "573|nuapada|odisha",
+        "722|subarnapur|odisha"
+    ],
+    "145|balasore|odisha": [
+        "179|bhadrak|odisha",
+        "384|jhargram|west_bengal",
+        "431|kendujhar|odisha",
+        "518|mayurbhanj|odisha",
+        "590|paschim_medinipur|west_bengal",
+        "615|purba_medinipur|west_bengal"
+    ],
+    "146|ballari|karnataka": [
+        "123|anantapur|andhra_pradesh",
+        "231|chitradurga|karnataka",
+        "254|davanagere|karnataka",
+        "305|gadag|karnataka",
+        "344|haveri|karnataka",
+        "455|koppal|karnataka",
+        "468|kurnool|andhra_pradesh",
+        "620|raichur|karnataka"
+    ],
+    "147|ballia|uttar_pradesh": [
+        "188|bhojpur|bihar",
+        "209|buxar|bihar",
+        "259|deoria|uttar_pradesh",
+        "317|ghazipur|uttar_pradesh",
+        "517|mau|uttar_pradesh",
+        "667|saran|bihar",
+        "705|siwan|bihar"
+    ],
+    "148|balod|chhattisgarh": [
+        "263|dhamtari|chhattisgarh",
+        "282|durg|chhattisgarh",
+        "628|rajnandgaon|chhattisgarh",
+        "771|uttar_bastar_kanker|chhattisgarh"
+    ],
+    "149|baloda_bazar|chhattisgarh": [
+        "152|bametara|chhattisgarh",
+        "194|bilaspur|chhattisgarh",
+        "375|janjgir_champa|chhattisgarh",
+        "499|mahasamund|chhattisgarh",
+        "533|mungeli|chhattisgarh",
+        "622|raigarh|chhattisgarh",
+        "623|raipur|chhattisgarh"
+    ],
+    "150|balrampur|chhattisgarh": [
+        "312|garhwa|jharkhand",
+        "328|gumla|jharkhand",
+        "376|jashpur|chhattisgarh",
+        "478|latehar|jharkhand",
+        "696|singrauli|madhya_pradesh",
+        "708|sonbhadra|uttar_pradesh",
+        "727|surajpur|chhattisgarh",
+        "730|surguja|chhattisgarh"
+    ],
+    "151|balrampur|uttar_pradesh": [
+        "324|gonda|uttar_pradesh",
+        "688|shrawasti|uttar_pradesh",
+        "690|siddharthnagar|uttar_pradesh"
+    ],
+    "152|bametara|chhattisgarh": [
+        "149|baloda_bazar|chhattisgarh",
+        "282|durg|chhattisgarh",
+        "393|kabeerdham|chhattisgarh",
+        "533|mungeli|chhattisgarh",
+        "623|raipur|chhattisgarh",
+        "628|rajnandgaon|chhattisgarh"
+    ],
+    "153|banaskantha|gujarat": [
+        "368|jalore|rajasthan",
+        "472|kutch|gujarat",
+        "522|mehsana|gujarat",
+        "591|patan|gujarat",
+        "651|sabarkantha|gujarat",
+        "699|sirohi|rajasthan"
+    ],
+    "154|banda|uttar_pradesh": [
+        "225|chhatarpur|madhya_pradesh",
+        "232|chitrakoot|uttar_pradesh",
+        "301|fatehpur|uttar_pradesh",
+        "335|hamirpur|uttar_pradesh",
+        "503|mahoba|uttar_pradesh",
+        "586|panna|madhya_pradesh",
+        "669|satna|madhya_pradesh"
+    ],
+    "155|bandipora|jammu_and_kashmir": [
+        "160|baramulla|jammu_and_kashmir",
+        "308|ganderbal|jammu_and_kashmir",
+        "419|kargil|ladakh",
+        "467|kupwara|jammu_and_kashmir",
+        "721|srinagar|jammu_and_kashmir"
+    ],
+    "156|banka|bihar": [
+        "180|bhagalpur|bihar",
+        "258|deoghar|jharkhand",
+        "280|dumka|jharkhand",
+        "321|godda|jharkhand",
+        "373|jamui|bihar",
+        "534|munger|bihar"
+    ],
+    "157|bankura|west_bengal": [
+        "349|hooghly|west_bengal",
+        "384|jhargram|west_bengal",
+        "589|paschim_bardhaman|west_bengal",
+        "590|paschim_medinipur|west_bengal",
+        "614|purba_bardhaman|west_bengal",
+        "618|purulia|west_bengal"
+    ],
+    "158|banswara|rajasthan": [
+        "242|dahod|gujarat",
+        "281|dungarpur|rajasthan",
+        "380|jhabua|madhya_pradesh",
+        "502|mahisagar|gujarat",
+        "607|pratapgarh|rajasthan",
+        "638|ratlam|madhya_pradesh"
+    ],
+    "159|barabanki|uttar_pradesh": [
+        "117|amethi|uttar_pradesh",
+        "136|ayodhya|uttar_pradesh",
+        "141|bahraich|uttar_pradesh",
+        "324|gonda|uttar_pradesh",
+        "490|lucknow|uttar_pradesh",
+        "619|rae_bareli|uttar_pradesh",
+        "702|sitapur|uttar_pradesh"
+    ],
+    "160|baramulla|jammu_and_kashmir": [
+        "155|bandipora|jammu_and_kashmir",
+        "204|budgam|jammu_and_kashmir",
+        "467|kupwara|jammu_and_kashmir",
+        "612|punch|jammu_and_kashmir",
+        "721|srinagar|jammu_and_kashmir"
+    ],
+    "161|baran|rajasthan": [
+        "329|guna|madhya_pradesh",
+        "382|jhalawar|rajasthan",
+        "459|kota|rajasthan",
+        "682|sheopur|madhya_pradesh",
+        "686|shivpuri|madhya_pradesh"
+    ],
+    "162|bareilly|uttar_pradesh": [
+        "203|budaun|uttar_pradesh",
+        "602|pilibhit|uttar_pradesh",
+        "635|rampur|uttar_pradesh",
+        "677|shahjahanpur|uttar_pradesh",
+        "759|udham_singh_nagar|uttarakhand"
+    ],
+    "163|bargarh|odisha": [
+        "144|balangir|odisha",
+        "385|jharsuguda|odisha",
+        "499|mahasamund|chhattisgarh",
+        "573|nuapada|odisha",
+        "622|raigarh|chhattisgarh",
+        "660|sambalpur|odisha",
+        "722|subarnapur|odisha"
+    ],
+    "164|barmer|rajasthan": [
+        "362|jaisalmer|rajasthan",
+        "368|jalore|rajasthan",
+        "389|jodhpur|rajasthan",
+        "472|kutch|gujarat",
+        "581|pali|rajasthan"
+    ],
+    "165|barnala|punjab": [
+        "170|bathinda|punjab",
+        "491|ludhiana|punjab",
+        "515|mansa|punjab",
+        "524|moga|punjab",
+        "664|sangrur|punjab"
+    ],
+    "166|barpeta|assam": [
+        "142|baksa|assam",
+        "200|bongaigaon|assam",
+        "230|chirang|assam",
+        "320|goalpara|assam",
+        "404|kamrup|assam",
+        "548|nalbari|assam"
+    ],
+    "167|barwani|madhya_pradesh": [
+        "112|alirajpur|madhya_pradesh",
+        "265|dhar|madhya_pradesh",
+        "272|dhule|maharashtra",
+        "366|jalgaon|maharashtra",
+        "435|khargone|madhya_pradesh",
+        "553|nandurbar|maharashtra"
+    ],
+    "168|bastar|chhattisgarh": [
+        "243|dakshin_bastar_dantewada|chhattisgarh",
+        "454|kondagaon|chhattisgarh",
+        "456|koraput|odisha",
+        "508|malkangiri|odisha",
+        "539|nabarangapur|odisha",
+        "723|sukma|chhattisgarh"
+    ],
+    "169|basti|uttar_pradesh": [
+        "116|ambedkar_nagar|uttar_pradesh",
+        "136|ayodhya|uttar_pradesh",
+        "324|gonda|uttar_pradesh",
+        "665|sant_kabir_nagar|uttar_pradesh",
+        "690|siddharthnagar|uttar_pradesh"
+    ],
+    "170|bathinda|punjab": [
+        "165|barnala|punjab",
+        "297|faridkot|punjab",
+        "515|mansa|punjab",
+        "524|moga|punjab",
+        "700|sirsa|haryana",
+        "719|sri_muktsar_sahib|punjab"
+    ],
+    "171|beed|maharashtra": [
+        "105|ahmednagar|maharashtra",
+        "135|aurangabad|maharashtra",
+        "367|jalna|maharashtra",
+        "479|latur|maharashtra",
+        "575|osmanabad|maharashtra",
+        "588|parbhani|maharashtra"
+    ],
+    "172|begusarai|bihar": [
+        "432|khagaria|bihar",
+        "476|lakhisarai|bihar",
+        "534|munger|bihar",
+        "595|patna|bihar",
+        "658|samastipur|bihar"
+    ],
+    "173|belagavi|karnataka": [
+        "138|bagalkote|karnataka",
+        "267|dharwad|karnataka",
+        "305|gadag|karnataka",
+        "450|kolhapur|maharashtra",
+        "570|north_goa|goa",
+        "663|sangli|maharashtra",
+        "695|sindhudurg|maharashtra",
+        "773|uttara_kannada|karnataka",
+        "781|vijayapura|karnataka"
+    ],
+    "174|bengaluru_rural|karnataka": [
+        "175|bengaluru_urban|karnataka",
+        "228|chikkaballapura|karnataka",
+        "448|kolar|karnataka",
+        "464|krishnagiri|tamil_nadu",
+        "631|ramanagara|karnataka",
+        "756|tumakuru|karnataka"
+    ],
+    "175|bengaluru_urban|karnataka": [
+        "174|bengaluru_rural|karnataka",
+        "464|krishnagiri|tamil_nadu",
+        "631|ramanagara|karnataka"
+    ],
+    "176|betul|madhya_pradesh": [
+        "118|amravati|maharashtra",
+        "226|chhindwara|madhya_pradesh",
+        "339|harda|madhya_pradesh",
+        "350|hoshangabad|madhya_pradesh",
+        "434|khandwa|madhya_pradesh"
+    ],
+    "177|bhadohi|uttar_pradesh": [
+        "377|jaunpur|uttar_pradesh",
+        "523|mirzapur|uttar_pradesh",
+        "608|prayagraj|uttar_pradesh",
+        "778|varanasi|uttar_pradesh"
+    ],
+    "178|bhadradri_kothagudem|telangana": [
+        "191|bijapur|chhattisgarh",
+        "285|east_godavari|andhra_pradesh",
+        "433|khammam|telangana",
+        "496|mahabubabad|telangana",
+        "531|mulugu|telangana",
+        "723|sukma|chhattisgarh",
+        "795|west_godavari|andhra_pradesh"
+    ],
+    "179|bhadrak|odisha": [
+        "145|balasore|odisha",
+        "363|jajpur|odisha",
+        "430|kendrapara|odisha",
+        "431|kendujhar|odisha"
+    ],
+    "180|bhagalpur|bihar": [
+        "156|banka|bihar",
+        "321|godda|jharkhand",
+        "427|katihar|bihar",
+        "432|khagaria|bihar",
+        "493|madhepura|bihar",
+        "534|munger|bihar",
+        "617|purnia|bihar",
+        "655|sahibganj|jharkhand"
+    ],
+    "181|bhandara|maharashtra": [
+        "143|balaghat|madhya_pradesh",
+        "219|chandrapur|maharashtra",
+        "306|gadchiroli|maharashtra",
+        "325|gondia|maharashtra",
+        "545|nagpur|maharashtra"
+    ],
+    "182|bharatpur|rajasthan": [
+        "103|agra|uttar_pradesh",
+        "114|alwar|rajasthan",
+        "253|dausa|rajasthan",
+        "270|dholpur|rajasthan",
+        "417|karauli|rajasthan",
+        "516|mathura|uttar_pradesh",
+        "574|nuh|haryana"
+    ],
+    "183|bharuch|gujarat": [
+        "122|anand|gujarat",
+        "556|narmada|gujarat",
+        "728|surat|gujarat",
+        "775|vadodara|gujarat"
+    ],
+    "184|bhavnagar|gujarat": [
+        "104|ahmedabad|gujarat",
+        "119|amreli|gujarat",
+        "201|botad|gujarat"
+    ],
+    "185|bhilwara|rajasthan": [
+        "107|ajmer|rajasthan",
+        "207|bundi|rajasthan",
+        "234|chittorgarh|rajasthan",
+        "562|neemuch|madhya_pradesh",
+        "630|rajsamand|rajasthan",
+        "754|tonk|rajasthan"
+    ],
+    "186|bhind|madhya_pradesh": [
+        "103|agra|uttar_pradesh",
+        "252|datia|madhya_pradesh",
+        "295|etawah|uttar_pradesh",
+        "333|gwalior|madhya_pradesh",
+        "365|jalaun|uttar_pradesh",
+        "383|jhansi|uttar_pradesh",
+        "529|morena|madhya_pradesh"
+    ],
+    "187|bhiwani|haryana": [
+        "222|charkhi_dadri|haryana",
+        "236|churu|rajasthan",
+        "337|hanumangarh|rajasthan",
+        "347|hisar|haryana",
+        "386|jhunjhunu|rajasthan",
+        "501|mahendragarh|haryana",
+        "645|rohtak|haryana"
+    ],
+    "188|bhojpur|bihar": [
+        "131|arwal|bihar",
+        "147|ballia|uttar_pradesh",
+        "209|buxar|bihar",
+        "595|patna|bihar",
+        "646|rohtas|bihar",
+        "667|saran|bihar"
+    ],
+    "189|bhopal|madhya_pradesh": [
+        "329|guna|madhya_pradesh",
+        "624|raisen|madhya_pradesh",
+        "626|rajgarh|madhya_pradesh",
+        "671|sehore|madhya_pradesh",
+        "780|vidisha|madhya_pradesh"
+    ],
+    "190|bidar|karnataka": [
+        "397|kalaburagi|karnataka",
+        "401|kamareddy|telangana",
+        "479|latur|maharashtra",
+        "552|nanded|maharashtra",
+        "575|osmanabad|maharashtra",
+        "662|sangareddy|telangana"
+    ],
+    "191|bijapur|chhattisgarh": [
+        "178|bhadradri_kothagudem|telangana",
+        "243|dakshin_bastar_dantewada|chhattisgarh",
+        "306|gadchiroli|maharashtra",
+        "378|jayashankar_bhupalapally|telangana",
+        "531|mulugu|telangana",
+        "555|narayanpur|chhattisgarh",
+        "723|sukma|chhattisgarh"
+    ],
+    "192|bijnor|uttar_pradesh": [
+        "121|amroha|uttar_pradesh",
+        "341|haridwar|uttarakhand",
+        "521|meerut|uttar_pradesh",
+        "527|moradabad|uttar_pradesh",
+        "536|muzaffarnagar|uttar_pradesh",
+        "546|nainital|uttarakhand",
+        "596|pauri_garhwal|uttarakhand",
+        "759|udham_singh_nagar|uttarakhand"
+    ],
+    "193|bikaner|rajasthan": [
+        "236|churu|rajasthan",
+        "310|ganganagar|rajasthan",
+        "337|hanumangarh|rajasthan",
+        "362|jaisalmer|rajasthan",
+        "389|jodhpur|rajasthan",
+        "544|nagaur|rajasthan"
+    ],
+    "194|bilaspur|chhattisgarh": [
+        "127|anuppur|madhya_pradesh",
+        "149|baloda_bazar|chhattisgarh",
+        "375|janjgir_champa|chhattisgarh",
+        "457|korba|chhattisgarh",
+        "458|koriya|chhattisgarh",
+        "533|mungeli|chhattisgarh"
+    ],
+    "195|bilaspur|himachal_pradesh": [
+        "336|hamirpur|himachal_pradesh",
+        "511|mandi|himachal_pradesh",
+        "648|rupnagar|punjab",
+        "706|solan|himachal_pradesh",
+        "765|una|himachal_pradesh"
+    ],
+    "196|birbhum|west_bengal": [
+        "280|dumka|jharkhand",
+        "372|jamtara|jharkhand",
+        "535|murshidabad|west_bengal",
+        "577|pakur|jharkhand",
+        "589|paschim_bardhaman|west_bengal",
+        "614|purba_bardhaman|west_bengal"
+    ],
+    "197|bishnupur|manipur": [
+        "235|churachandpur|manipur",
+        "356|imphal_west|manipur",
+        "396|kakching|manipur",
+        "408|kangpokpi|manipur",
+        "567|noney|manipur"
+    ],
+    "198|biswanath|assam": [
+        "322|golaghat|assam",
+        "474|lakhimpur|assam",
+        "541|nagaon|assam",
+        "576|pakke_kessang|arunachal_pradesh",
+        "587|papum_pare|arunachal_pradesh",
+        "710|sonitpur|assam"
+    ],
+    "199|bokaro|jharkhand": [
+        "264|dhanbad|jharkhand",
+        "319|giridih|jharkhand",
+        "345|hazaribagh|jharkhand",
+        "618|purulia|west_bengal",
+        "634|ramgarh|jharkhand"
+    ],
+    "200|bongaigaon|assam": [
+        "166|barpeta|assam",
+        "230|chirang|assam",
+        "271|dhubri|assam",
+        "320|goalpara|assam",
+        "447|kokrajhar|assam"
+    ],
+    "201|botad|gujarat": [
+        "104|ahmedabad|gujarat",
+        "119|amreli|gujarat",
+        "184|bhavnagar|gujarat",
+        "627|rajkot|gujarat",
+        "729|surendranagar|gujarat"
+    ],
+    "202|boudh|odisha": [
+        "125|angul|odisha",
+        "144|balangir|odisha",
+        "407|kandhamal|odisha",
+        "561|nayagarh|odisha",
+        "722|subarnapur|odisha"
+    ],
+    "203|budaun|uttar_pradesh": [
+        "110|aligarh|uttar_pradesh",
+        "162|bareilly|uttar_pradesh",
+        "298|farrukhabad|uttar_pradesh",
+        "425|kasganj|uttar_pradesh",
+        "527|moradabad|uttar_pradesh",
+        "635|rampur|uttar_pradesh",
+        "661|sambhal|uttar_pradesh",
+        "677|shahjahanpur|uttar_pradesh"
+    ],
+    "204|budgam|jammu_and_kashmir": [
+        "160|baramulla|jammu_and_kashmir",
+        "465|kulgam|jammu_and_kashmir",
+        "611|pulwama|jammu_and_kashmir",
+        "612|punch|jammu_and_kashmir",
+        "687|shopiyan|jammu_and_kashmir",
+        "721|srinagar|jammu_and_kashmir"
+    ],
+    "205|bulandshahr|uttar_pradesh": [
+        "110|aligarh|uttar_pradesh",
+        "121|amroha|uttar_pradesh",
+        "314|gautam_buddha_nagar|uttar_pradesh",
+        "338|hapur|uttar_pradesh",
+        "661|sambhal|uttar_pradesh"
+    ],
+    "206|buldhana|maharashtra": [
+        "108|akola|maharashtra",
+        "118|amravati|maharashtra",
+        "208|burhanpur|madhya_pradesh",
+        "366|jalgaon|maharashtra",
+        "367|jalna|maharashtra",
+        "588|parbhani|maharashtra",
+        "791|washim|maharashtra"
+    ],
+    "207|bundi|rajasthan": [
+        "185|bhilwara|rajasthan",
+        "234|chittorgarh|rajasthan",
+        "459|kota|rajasthan",
+        "670|sawai_madhopur|rajasthan",
+        "754|tonk|rajasthan"
+    ],
+    "208|burhanpur|madhya_pradesh": [
+        "118|amravati|maharashtra",
+        "206|buldhana|maharashtra",
+        "366|jalgaon|maharashtra",
+        "434|khandwa|madhya_pradesh",
+        "435|khargone|madhya_pradesh"
+    ],
+    "209|buxar|bihar": [
+        "147|ballia|uttar_pradesh",
+        "188|bhojpur|bihar",
+        "317|ghazipur|uttar_pradesh",
+        "394|kaimur|bihar",
+        "646|rohtas|bihar"
+    ],
+    "210|cachar|assam": [
+        "106|aizawl|mizoram",
+        "274|dima_hasao|assam",
+        "286|east_jaintia_hills|meghalaya",
+        "334|hailakandi|assam",
+        "388|jiribam|manipur",
+        "420|karimganj|assam",
+        "449|kolasib|mizoram",
+        "601|pherzawl|manipur",
+        "732|tamenglong|manipur"
+    ],
+    "211|chamarajanagara|karnataka": [
+        "266|dharmapuri|tamil_nadu",
+        "293|erode|tamil_nadu",
+        "464|krishnagiri|tamil_nadu",
+        "514|mandya|karnataka",
+        "538|mysuru|karnataka",
+        "563|nilgiris|tamil_nadu",
+        "631|ramanagara|karnataka",
+        "657|salem|tamil_nadu",
+        "792|wayanad|kerala"
+    ],
+    "212|chamba|himachal_pradesh": [
+        "279|doda|jammu_and_kashmir",
+        "409|kangra|himachal_pradesh",
+        "426|kathua|jammu_and_kashmir",
+        "443|kishtwar|jammu_and_kashmir",
+        "473|lahaul_and_spiti|himachal_pradesh",
+        "593|pathankot|punjab"
+    ],
+    "213|chamoli|uttarakhand": [
+        "113|almora|uttarakhand",
+        "139|bageshwar|uttarakhand",
+        "596|pauri_garhwal|uttarakhand",
+        "603|pithoragarh|uttarakhand",
+        "647|rudraprayag|uttarakhand",
+        "774|uttarkashi|uttarakhand"
+    ],
+    "214|champawat|uttarakhand": [
+        "113|almora|uttarakhand",
+        "546|nainital|uttarakhand",
+        "603|pithoragarh|uttarakhand",
+        "759|udham_singh_nagar|uttarakhand"
+    ],
+    "215|champhai|mizoram": [
+        "106|aizawl|mizoram",
+        "601|pherzawl|manipur",
+        "674|serchhip|mizoram"
+    ],
+    "216|chandauli|uttar_pradesh": [
+        "317|ghazipur|uttar_pradesh",
+        "394|kaimur|bihar",
+        "523|mirzapur|uttar_pradesh",
+        "708|sonbhadra|uttar_pradesh",
+        "778|varanasi|uttar_pradesh"
+    ],
+    "217|chandel|manipur": [
+        "235|churachandpur|manipur",
+        "396|kakching|manipur",
+        "737|tengnoupal|manipur"
+    ],
+    "218|chandigarh|chandigarh": [
+        "583|panchkula|haryana",
+        "649|s.a.s._nagar|punjab"
+    ],
+    "219|chandrapur|maharashtra": [
+        "101|adilabad|telangana",
+        "181|bhandara|maharashtra",
+        "306|gadchiroli|maharashtra",
+        "453|komaram_bheem|telangana",
+        "545|nagpur|maharashtra",
+        "790|wardha|maharashtra",
+        "809|yavatmal|maharashtra"
+    ],
+    "220|changlang|arunachal_pradesh": [
+        "126|anjaw|arunachal_pradesh",
+        "484|lohit|arunachal_pradesh",
+        "551|namsai|arunachal_pradesh",
+        "748|tinsukia|assam",
+        "749|tirap|arunachal_pradesh"
+    ],
+    "221|charaideo|assam": [
+        "273|dibrugarh|assam",
+        "485|longding|arunachal_pradesh",
+        "526|mon|nagaland",
+        "704|sivasagar|assam"
+    ],
+    "222|charkhi_dadri|haryana": [
+        "187|bhiwani|haryana",
+        "381|jhajjar|haryana",
+        "501|mahendragarh|haryana",
+        "645|rohtak|haryana"
+    ],
+    "223|chatra|jharkhand": [
+        "315|gaya|bihar",
+        "345|hazaribagh|jharkhand",
+        "478|latehar|jharkhand",
+        "579|palamu|jharkhand",
+        "636|ranchi|jharkhand"
+    ],
+    "224|chennai|tamil_nadu": [
+        "406|kancheepuram|tamil_nadu",
+        "741|thiruvallur|tamil_nadu"
+    ],
+    "225|chhatarpur|madhya_pradesh": [
+        "154|banda|uttar_pradesh",
+        "247|damoh|madhya_pradesh",
+        "383|jhansi|uttar_pradesh",
+        "477|lalitpur|uttar_pradesh",
+        "503|mahoba|uttar_pradesh",
+        "586|panna|madhya_pradesh",
+        "652|sagar|madhya_pradesh",
+        "747|tikamgarh|madhya_pradesh"
+    ],
+    "226|chhindwara|madhya_pradesh": [
+        "118|amravati|maharashtra",
+        "176|betul|madhya_pradesh",
+        "350|hoshangabad|madhya_pradesh",
+        "545|nagpur|maharashtra",
+        "557|narsinghpur|madhya_pradesh",
+        "673|seoni|madhya_pradesh"
+    ],
+    "227|chhota_udaipur|gujarat": [
+        "112|alirajpur|madhya_pradesh",
+        "242|dahod|gujarat",
+        "553|nandurbar|maharashtra",
+        "556|narmada|gujarat",
+        "584|panchmahal|gujarat",
+        "775|vadodara|gujarat"
+    ],
+    "228|chikkaballapura|karnataka": [
+        "123|anantapur|andhra_pradesh",
+        "174|bengaluru_rural|karnataka",
+        "233|chittoor|andhra_pradesh",
+        "448|kolar|karnataka",
+        "756|tumakuru|karnataka"
+    ],
+    "229|chikkamagaluru|karnataka": [
+        "231|chitradurga|karnataka",
+        "245|dakshina_kannada|karnataka",
+        "254|davanagere|karnataka",
+        "342|hassan|karnataka",
+        "685|shivamogga|karnataka",
+        "756|tumakuru|karnataka",
+        "761|udupi|karnataka"
+    ],
+    "230|chirang|assam": [
+        "142|baksa|assam",
+        "166|barpeta|assam",
+        "200|bongaigaon|assam",
+        "447|kokrajhar|assam"
+    ],
+    "231|chitradurga|karnataka": [
+        "123|anantapur|andhra_pradesh",
+        "146|ballari|karnataka",
+        "229|chikkamagaluru|karnataka",
+        "254|davanagere|karnataka",
+        "756|tumakuru|karnataka"
+    ],
+    "232|chitrakoot|uttar_pradesh": [
+        "154|banda|uttar_pradesh",
+        "301|fatehpur|uttar_pradesh",
+        "429|kaushambi|uttar_pradesh",
+        "608|prayagraj|uttar_pradesh",
+        "642|rewa|madhya_pradesh",
+        "669|satna|madhya_pradesh"
+    ],
+    "233|chittoor|andhra_pradesh": [
+        "123|anantapur|andhra_pradesh",
+        "228|chikkaballapura|karnataka",
+        "448|kolar|karnataka",
+        "464|krishnagiri|tamil_nadu",
+        "650|s.p.s._nellore|andhra_pradesh",
+        "741|thiruvallur|tamil_nadu",
+        "779|vellore|tamil_nadu",
+        "805|y.s.r._kadapa|andhra_pradesh"
+    ],
+    "234|chittorgarh|rajasthan": [
+        "185|bhilwara|rajasthan",
+        "207|bundi|rajasthan",
+        "459|kota|rajasthan",
+        "513|mandsaur|madhya_pradesh",
+        "562|neemuch|madhya_pradesh",
+        "607|pratapgarh|rajasthan",
+        "630|rajsamand|rajasthan",
+        "757|udaipur|rajasthan"
+    ],
+    "235|churachandpur|manipur": [
+        "197|bishnupur|manipur",
+        "217|chandel|manipur",
+        "396|kakching|manipur",
+        "567|noney|manipur",
+        "601|pherzawl|manipur"
+    ],
+    "236|churu|rajasthan": [
+        "187|bhiwani|haryana",
+        "193|bikaner|rajasthan",
+        "337|hanumangarh|rajasthan",
+        "386|jhunjhunu|rajasthan",
+        "544|nagaur|rajasthan",
+        "693|sikar|rajasthan"
+    ],
+    "237|coimbatore|tamil_nadu": [
+        "292|ernakulam|kerala",
+        "293|erode|tamil_nadu",
+        "354|idukki|kerala",
+        "563|nilgiris|tamil_nadu",
+        "578|palakkad|kerala",
+        "746|thrissur|kerala",
+        "752|tiruppur|tamil_nadu"
+    ],
+    "238|cooch_behar|west_bengal": [
+        "111|alipurduar|west_bengal",
+        "271|dhubri|assam",
+        "369|jalpaiguri|west_bengal",
+        "447|kokrajhar|assam"
+    ],
+    "239|cuddalore|tamil_nadu": [
+        "130|ariyalur|tamil_nadu",
+        "400|kallakurichi|tamil_nadu",
+        "542|nagapattinam|tamil_nadu",
+        "598|perambalur|tamil_nadu",
+        "609|puducherry|puducherry",
+        "739|thanjavur|tamil_nadu",
+        "783|viluppuram|tamil_nadu"
+    ],
+    "240|cuttack|odisha": [
+        "125|angul|odisha",
+        "269|dhenkanal|odisha",
+        "359|jagatsinghpur|odisha",
+        "363|jajpur|odisha",
+        "430|kendrapara|odisha",
+        "437|khordha|odisha",
+        "561|nayagarh|odisha",
+        "616|puri|odisha"
+    ],
+    "241|dadra_and_nagar_haveli|dadra_and_nagar_haveli_and_daman_and_diu": [
+        "580|palghar|maharashtra",
+        "777|valsad|gujarat"
+    ],
+    "242|dahod|gujarat": [
+        "112|alirajpur|madhya_pradesh",
+        "158|banswara|rajasthan",
+        "227|chhota_udaipur|gujarat",
+        "380|jhabua|madhya_pradesh",
+        "502|mahisagar|gujarat",
+        "584|panchmahal|gujarat"
+    ],
+    "243|dakshin_bastar_dantewada|chhattisgarh": [
+        "168|bastar|chhattisgarh",
+        "191|bijapur|chhattisgarh",
+        "454|kondagaon|chhattisgarh",
+        "555|narayanpur|chhattisgarh",
+        "723|sukma|chhattisgarh"
+    ],
+    "244|dakshin_dinajpur|west_bengal": [
+        "507|malda|west_bengal",
+        "772|uttar_dinajpur|west_bengal"
+    ],
+    "245|dakshina_kannada|karnataka": [
+        "229|chikkamagaluru|karnataka",
+        "342|hassan|karnataka",
+        "424|kasaragod|kerala",
+        "444|kodagu|karnataka",
+        "761|udupi|karnataka"
+    ],
+    "246|daman|dadra_and_nagar_haveli_and_daman_and_diu": [
+        "777|valsad|gujarat"
+    ],
+    "247|damoh|madhya_pradesh": [
+        "225|chhatarpur|madhya_pradesh",
+        "358|jabalpur|madhya_pradesh",
+        "428|katni|madhya_pradesh",
+        "557|narsinghpur|madhya_pradesh",
+        "586|panna|madhya_pradesh",
+        "652|sagar|madhya_pradesh"
+    ],
+    "248|dang|gujarat": [
+        "272|dhule|maharashtra",
+        "558|nashik|maharashtra",
+        "559|navsari|gujarat",
+        "733|tapi|gujarat"
+    ],
+    "249|darbhanga|bihar": [
+        "494|madhubani|bihar",
+        "537|muzaffarpur|bihar",
+        "654|saharsa|bihar",
+        "658|samastipur|bihar",
+        "701|sitamarhi|bihar"
+    ],
+    "250|darjeeling|west_bengal": [
+        "369|jalpaiguri|west_bengal",
+        "399|kalimpong|west_bengal",
+        "442|kishanganj|bihar",
+        "715|south_sikkim|sikkim",
+        "772|uttar_dinajpur|west_bengal",
+        "801|west_sikkim|sikkim"
+    ],
+    "251|darrang|assam": [
+        "142|baksa|assam",
+        "404|kamrup|assam",
+        "405|kamrup_metropolitan|assam",
+        "530|morigaon|assam",
+        "710|sonitpur|assam",
+        "758|udalguri|assam"
+    ],
+    "252|datia|madhya_pradesh": [
+        "186|bhind|madhya_pradesh",
+        "333|gwalior|madhya_pradesh",
+        "383|jhansi|uttar_pradesh",
+        "477|lalitpur|uttar_pradesh",
+        "686|shivpuri|madhya_pradesh"
+    ],
+    "253|dausa|rajasthan": [
+        "114|alwar|rajasthan",
+        "182|bharatpur|rajasthan",
+        "361|jaipur|rajasthan",
+        "417|karauli|rajasthan",
+        "670|sawai_madhopur|rajasthan",
+        "754|tonk|rajasthan"
+    ],
+    "254|davanagere|karnataka": [
+        "146|ballari|karnataka",
+        "229|chikkamagaluru|karnataka",
+        "231|chitradurga|karnataka",
+        "344|haveri|karnataka",
+        "685|shivamogga|karnataka"
+    ],
+    "255|dehradun|uttarakhand": [
+        "341|haridwar|uttarakhand",
+        "596|pauri_garhwal|uttarakhand",
+        "653|saharanpur|uttar_pradesh",
+        "684|shimla|himachal_pradesh",
+        "698|sirmaur|himachal_pradesh",
+        "736|tehri_garhwal|uttarakhand",
+        "774|uttarkashi|uttarakhand"
+    ],
+    "256|delhi|delhi": [
+        "140|baghpat|uttar_pradesh",
+        "296|faridabad|haryana",
+        "314|gautam_buddha_nagar|uttar_pradesh",
+        "316|ghaziabad|uttar_pradesh",
+        "332|gurugram|haryana",
+        "381|jhajjar|haryana",
+        "709|sonipat|haryana"
+    ],
+    "257|deogarh|odisha": [
+        "125|angul|odisha",
+        "660|sambalpur|odisha",
+        "725|sundargarh|odisha"
+    ],
+    "258|deoghar|jharkhand": [
+        "156|banka|bihar",
+        "280|dumka|jharkhand",
+        "319|giridih|jharkhand",
+        "372|jamtara|jharkhand",
+        "373|jamui|bihar"
+    ],
+    "259|deoria|uttar_pradesh": [
+        "147|ballia|uttar_pradesh",
+        "326|gopalganj|bihar",
+        "327|gorakhpur|uttar_pradesh",
+        "471|kushinagar|uttar_pradesh",
+        "517|mau|uttar_pradesh",
+        "705|siwan|bihar"
+    ],
+    "260|devbhumi_dwarka|gujarat": [
+        "371|jamnagar|gujarat",
+        "604|porbandar|gujarat"
+    ],
+    "261|dewas|madhya_pradesh": [
+        "339|harda|madhya_pradesh",
+        "357|indore|madhya_pradesh",
+        "434|khandwa|madhya_pradesh",
+        "435|khargone|madhya_pradesh",
+        "671|sehore|madhya_pradesh",
+        "678|shajapur|madhya_pradesh",
+        "762|ujjain|madhya_pradesh"
+    ],
+    "262|dhalai|tripura": [
+        "323|gomati|tripura",
+        "438|khowai|tripura",
+        "572|north_tripura|tripura",
+        "767|unokoti|tripura"
+    ],
+    "263|dhamtari|chhattisgarh": [
+        "148|balod|chhattisgarh",
+        "282|durg|chhattisgarh",
+        "313|gariaband|chhattisgarh",
+        "454|kondagaon|chhattisgarh",
+        "539|nabarangapur|odisha",
+        "623|raipur|chhattisgarh",
+        "771|uttar_bastar_kanker|chhattisgarh"
+    ],
+    "264|dhanbad|jharkhand": [
+        "199|bokaro|jharkhand",
+        "319|giridih|jharkhand",
+        "372|jamtara|jharkhand",
+        "589|paschim_bardhaman|west_bengal",
+        "618|purulia|west_bengal"
+    ],
+    "265|dhar|madhya_pradesh": [
+        "112|alirajpur|madhya_pradesh",
+        "167|barwani|madhya_pradesh",
+        "357|indore|madhya_pradesh",
+        "380|jhabua|madhya_pradesh",
+        "435|khargone|madhya_pradesh",
+        "638|ratlam|madhya_pradesh",
+        "762|ujjain|madhya_pradesh"
+    ],
+    "266|dharmapuri|tamil_nadu": [
+        "211|chamarajanagara|karnataka",
+        "293|erode|tamil_nadu",
+        "400|kallakurichi|tamil_nadu",
+        "464|krishnagiri|tamil_nadu",
+        "657|salem|tamil_nadu",
+        "753|tiruvannamalai|tamil_nadu"
+    ],
+    "267|dharwad|karnataka": [
+        "173|belagavi|karnataka",
+        "305|gadag|karnataka",
+        "344|haveri|karnataka",
+        "773|uttara_kannada|karnataka"
+    ],
+    "268|dhemaji|assam": [
+        "273|dibrugarh|assam",
+        "289|east_siang|arunachal_pradesh",
+        "403|kamle|arunachal_pradesh",
+        "474|lakhimpur|assam",
+        "487|lower_dibang_valley|arunachal_pradesh",
+        "488|lower_siang|arunachal_pradesh",
+        "748|tinsukia|assam"
+    ],
+    "269|dhenkanal|odisha": [
+        "125|angul|odisha",
+        "240|cuttack|odisha",
+        "363|jajpur|odisha",
+        "431|kendujhar|odisha"
+    ],
+    "270|dholpur|rajasthan": [
+        "103|agra|uttar_pradesh",
+        "182|bharatpur|rajasthan",
+        "417|karauli|rajasthan",
+        "529|morena|madhya_pradesh"
+    ],
+    "271|dhubri|assam": [
+        "200|bongaigaon|assam",
+        "238|cooch_behar|west_bengal",
+        "320|goalpara|assam",
+        "447|kokrajhar|assam",
+        "714|south_salmara_mankachar|assam"
+    ],
+    "272|dhule|maharashtra": [
+        "167|barwani|madhya_pradesh",
+        "248|dang|gujarat",
+        "366|jalgaon|maharashtra",
+        "553|nandurbar|maharashtra",
+        "558|nashik|maharashtra",
+        "733|tapi|gujarat"
+    ],
+    "273|dibrugarh|assam": [
+        "221|charaideo|assam",
+        "268|dhemaji|assam",
+        "474|lakhimpur|assam",
+        "485|longding|arunachal_pradesh",
+        "505|majuli|assam",
+        "704|sivasagar|assam",
+        "748|tinsukia|assam",
+        "749|tirap|arunachal_pradesh"
+    ],
+    "274|dima_hasao|assam": [
+        "210|cachar|assam",
+        "286|east_jaintia_hills|meghalaya",
+        "348|hojai|assam",
+        "418|karbi_anglong|assam",
+        "599|peren|nagaland",
+        "732|tamenglong|manipur",
+        "796|west_jaintia_hills|meghalaya",
+        "798|west_karbi_anglong|assam"
+    ],
+    "275|dimapur|nagaland": [
+        "322|golaghat|assam",
+        "418|karbi_anglong|assam",
+        "446|kohima|nagaland",
+        "599|peren|nagaland"
+    ],
+    "276|dindigul|tamil_nadu": [
+        "354|idukki|kerala",
+        "423|karur|tamil_nadu",
+        "495|madurai|tamil_nadu",
+        "740|theni|tamil_nadu",
+        "750|tiruchirappalli|tamil_nadu",
+        "752|tiruppur|tamil_nadu"
+    ],
+    "277|dindori|madhya_pradesh": [
+        "127|anuppur|madhya_pradesh",
+        "358|jabalpur|madhya_pradesh",
+        "393|kabeerdham|chhattisgarh",
+        "512|mandla|madhya_pradesh",
+        "533|mungeli|chhattisgarh",
+        "764|umaria|madhya_pradesh"
+    ],
+    "278|diu|dadra_and_nagar_haveli_and_daman_and_diu": [
+        "318|gir_somnath|gujarat"
+    ],
+    "279|doda|jammu_and_kashmir": [
+        "124|anantnag|jammu_and_kashmir",
+        "212|chamba|himachal_pradesh",
+        "426|kathua|jammu_and_kashmir",
+        "443|kishtwar|jammu_and_kashmir",
+        "633|ramban|jammu_and_kashmir",
+        "760|udhampur|jammu_and_kashmir"
+    ],
+    "280|dumka|jharkhand": [
+        "156|banka|bihar",
+        "196|birbhum|west_bengal",
+        "258|deoghar|jharkhand",
+        "321|godda|jharkhand",
+        "372|jamtara|jharkhand",
+        "577|pakur|jharkhand"
+    ],
+    "281|dungarpur|rajasthan": [
+        "129|aravalli|gujarat",
+        "158|banswara|rajasthan",
+        "502|mahisagar|gujarat",
+        "607|pratapgarh|rajasthan",
+        "757|udaipur|rajasthan"
+    ],
+    "282|durg|chhattisgarh": [
+        "148|balod|chhattisgarh",
+        "152|bametara|chhattisgarh",
+        "263|dhamtari|chhattisgarh",
+        "623|raipur|chhattisgarh",
+        "628|rajnandgaon|chhattisgarh"
+    ],
+    "283|east_champaran|bihar": [
+        "326|gopalganj|bihar",
+        "537|muzaffarpur|bihar",
+        "681|sheohar|bihar",
+        "701|sitamarhi|bihar",
+        "793|west_champaran|bihar"
+    ],
+    "284|east_garo_hills|meghalaya": [
+        "569|north_garo_hills|meghalaya",
+        "712|south_garo_hills|meghalaya",
+        "794|west_garo_hills|meghalaya",
+        "799|west_khasi_hills|meghalaya"
+    ],
+    "285|east_godavari|andhra_pradesh": [
+        "178|bhadradri_kothagudem|telangana",
+        "508|malkangiri|odisha",
+        "723|sukma|chhattisgarh",
+        "785|visakhapatnam|andhra_pradesh",
+        "795|west_godavari|andhra_pradesh"
+    ],
+    "286|east_jaintia_hills|meghalaya": [
+        "210|cachar|assam",
+        "274|dima_hasao|assam",
+        "796|west_jaintia_hills|meghalaya"
+    ],
+    "287|east_kameng|arunachal_pradesh": [
+        "470|kurung_kumey|arunachal_pradesh",
+        "576|pakke_kessang|arunachal_pradesh",
+        "587|papum_pare|arunachal_pradesh",
+        "735|tawang|arunachal_pradesh",
+        "797|west_kameng|arunachal_pradesh"
+    ],
+    "288|east_khasi_hills|meghalaya": [
+        "644|ribhoi|meghalaya",
+        "718|south_west_khasi_hills|meghalaya",
+        "796|west_jaintia_hills|meghalaya",
+        "799|west_khasi_hills|meghalaya"
+    ],
+    "289|east_siang|arunachal_pradesh": [
+        "268|dhemaji|assam",
+        "487|lower_dibang_valley|arunachal_pradesh",
+        "488|lower_siang|arunachal_pradesh",
+        "689|siang|arunachal_pradesh",
+        "748|tinsukia|assam",
+        "769|upper_siang|arunachal_pradesh"
+    ],
+    "290|east_sikkim|sikkim": [
+        "399|kalimpong|west_bengal",
+        "571|north_sikkim|sikkim",
+        "715|south_sikkim|sikkim"
+    ],
+    "291|east_singhbhum|jharkhand": [
+        "384|jhargram|west_bengal",
+        "518|mayurbhanj|odisha",
+        "618|purulia|west_bengal",
+        "666|saraikela-kharsawan|jharkhand"
+    ],
+    "292|ernakulam|kerala": [
+        "109|alappuzha|kerala",
+        "237|coimbatore|tamil_nadu",
+        "354|idukki|kerala",
+        "460|kottayam|kerala",
+        "746|thrissur|kerala"
+    ],
+    "293|erode|tamil_nadu": [
+        "211|chamarajanagara|karnataka",
+        "237|coimbatore|tamil_nadu",
+        "266|dharmapuri|tamil_nadu",
+        "423|karur|tamil_nadu",
+        "550|namakkal|tamil_nadu",
+        "563|nilgiris|tamil_nadu",
+        "657|salem|tamil_nadu",
+        "752|tiruppur|tamil_nadu"
+    ],
+    "294|etah|uttar_pradesh": [
+        "103|agra|uttar_pradesh",
+        "298|farrukhabad|uttar_pradesh",
+        "304|firozabad|uttar_pradesh",
+        "343|hathras|uttar_pradesh",
+        "425|kasganj|uttar_pradesh",
+        "504|mainpuri|uttar_pradesh"
+    ],
+    "295|etawah|uttar_pradesh": [
+        "103|agra|uttar_pradesh",
+        "133|auraiya|uttar_pradesh",
+        "186|bhind|madhya_pradesh",
+        "304|firozabad|uttar_pradesh",
+        "365|jalaun|uttar_pradesh",
+        "410|kannauj|uttar_pradesh",
+        "504|mainpuri|uttar_pradesh"
+    ],
+    "296|faridabad|haryana": [
+        "256|delhi|delhi",
+        "314|gautam_buddha_nagar|uttar_pradesh",
+        "332|gurugram|haryana",
+        "582|palwal|haryana"
+    ],
+    "297|faridkot|punjab": [
+        "170|bathinda|punjab",
+        "303|ferozepur|punjab",
+        "524|moga|punjab",
+        "719|sri_muktsar_sahib|punjab"
+    ],
+    "298|farrukhabad|uttar_pradesh": [
+        "203|budaun|uttar_pradesh",
+        "294|etah|uttar_pradesh",
+        "340|hardoi|uttar_pradesh",
+        "410|kannauj|uttar_pradesh",
+        "425|kasganj|uttar_pradesh",
+        "504|mainpuri|uttar_pradesh",
+        "677|shahjahanpur|uttar_pradesh"
+    ],
+    "299|fatehabad|haryana": [
+        "337|hanumangarh|rajasthan",
+        "347|hisar|haryana",
+        "387|jind|haryana",
+        "515|mansa|punjab",
+        "664|sangrur|punjab",
+        "700|sirsa|haryana"
+    ],
+    "300|fatehgarh_sahib|punjab": [
+        "491|ludhiana|punjab",
+        "594|patiala|punjab",
+        "648|rupnagar|punjab",
+        "649|s.a.s._nagar|punjab",
+        "664|sangrur|punjab"
+    ],
+    "301|fatehpur|uttar_pradesh": [
+        "154|banda|uttar_pradesh",
+        "232|chitrakoot|uttar_pradesh",
+        "335|hamirpur|uttar_pradesh",
+        "413|kanpur_nagar|uttar_pradesh",
+        "429|kaushambi|uttar_pradesh",
+        "606|pratapgarh|uttar_pradesh",
+        "619|rae_bareli|uttar_pradesh",
+        "766|unnao|uttar_pradesh"
+    ],
+    "302|fazilka|punjab": [
+        "303|ferozepur|punjab",
+        "310|ganganagar|rajasthan",
+        "337|hanumangarh|rajasthan",
+        "719|sri_muktsar_sahib|punjab"
+    ],
+    "303|ferozepur|punjab": [
+        "297|faridkot|punjab",
+        "302|fazilka|punjab",
+        "364|jalandhar|punjab",
+        "415|kapurthala|punjab",
+        "524|moga|punjab",
+        "719|sri_muktsar_sahib|punjab",
+        "734|tarn_taran|punjab"
+    ],
+    "304|firozabad|uttar_pradesh": [
+        "103|agra|uttar_pradesh",
+        "294|etah|uttar_pradesh",
+        "295|etawah|uttar_pradesh",
+        "504|mainpuri|uttar_pradesh"
+    ],
+    "305|gadag|karnataka": [
+        "138|bagalkote|karnataka",
+        "146|ballari|karnataka",
+        "173|belagavi|karnataka",
+        "267|dharwad|karnataka",
+        "344|haveri|karnataka",
+        "455|koppal|karnataka"
+    ],
+    "306|gadchiroli|maharashtra": [
+        "181|bhandara|maharashtra",
+        "191|bijapur|chhattisgarh",
+        "219|chandrapur|maharashtra",
+        "325|gondia|maharashtra",
+        "378|jayashankar_bhupalapally|telangana",
+        "453|komaram_bheem|telangana",
+        "510|mancherial|telangana",
+        "555|narayanpur|chhattisgarh",
+        "628|rajnandgaon|chhattisgarh",
+        "771|uttar_bastar_kanker|chhattisgarh"
+    ],
+    "307|gajapati|odisha": [
+        "311|ganjam|odisha",
+        "407|kandhamal|odisha",
+        "640|rayagada|odisha",
+        "720|srikakulam|andhra_pradesh"
+    ],
+    "308|ganderbal|jammu_and_kashmir": [
+        "124|anantnag|jammu_and_kashmir",
+        "155|bandipora|jammu_and_kashmir",
+        "419|kargil|ladakh",
+        "721|srinagar|jammu_and_kashmir"
+    ],
+    "309|gandhinagar|gujarat": [
+        "104|ahmedabad|gujarat",
+        "129|aravalli|gujarat",
+        "436|kheda|gujarat",
+        "522|mehsana|gujarat",
+        "651|sabarkantha|gujarat"
+    ],
+    "310|ganganagar|rajasthan": [
+        "193|bikaner|rajasthan",
+        "302|fazilka|punjab",
+        "337|hanumangarh|rajasthan"
+    ],
+    "311|ganjam|odisha": [
+        "307|gajapati|odisha",
+        "407|kandhamal|odisha",
+        "437|khordha|odisha",
+        "561|nayagarh|odisha",
+        "616|puri|odisha",
+        "720|srikakulam|andhra_pradesh"
+    ],
+    "312|garhwa|jharkhand": [
+        "150|balrampur|chhattisgarh",
+        "478|latehar|jharkhand",
+        "579|palamu|jharkhand",
+        "646|rohtas|bihar",
+        "708|sonbhadra|uttar_pradesh"
+    ],
+    "313|gariaband|chhattisgarh": [
+        "263|dhamtari|chhattisgarh",
+        "398|kalahandi|odisha",
+        "499|mahasamund|chhattisgarh",
+        "539|nabarangapur|odisha",
+        "573|nuapada|odisha",
+        "623|raipur|chhattisgarh"
+    ],
+    "314|gautam_buddha_nagar|uttar_pradesh": [
+        "110|aligarh|uttar_pradesh",
+        "205|bulandshahr|uttar_pradesh",
+        "256|delhi|delhi",
+        "296|faridabad|haryana",
+        "316|ghaziabad|uttar_pradesh",
+        "338|hapur|uttar_pradesh",
+        "582|palwal|haryana"
+    ],
+    "315|gaya|bihar": [
+        "131|arwal|bihar",
+        "134|aurangabad|bihar",
+        "223|chatra|jharkhand",
+        "345|hazaribagh|jharkhand",
+        "379|jehanabad|bihar",
+        "445|koderma|jharkhand",
+        "547|nalanda|bihar",
+        "560|nawada|bihar",
+        "579|palamu|jharkhand"
+    ],
+    "316|ghaziabad|uttar_pradesh": [
+        "140|baghpat|uttar_pradesh",
+        "256|delhi|delhi",
+        "314|gautam_buddha_nagar|uttar_pradesh",
+        "338|hapur|uttar_pradesh",
+        "521|meerut|uttar_pradesh"
+    ],
+    "317|ghazipur|uttar_pradesh": [
+        "137|azamgarh|uttar_pradesh",
+        "147|ballia|uttar_pradesh",
+        "209|buxar|bihar",
+        "216|chandauli|uttar_pradesh",
+        "377|jaunpur|uttar_pradesh",
+        "394|kaimur|bihar",
+        "517|mau|uttar_pradesh",
+        "778|varanasi|uttar_pradesh"
+    ],
+    "318|gir_somnath|gujarat": [
+        "119|amreli|gujarat",
+        "278|diu|dadra_and_nagar_haveli_and_daman_and_diu",
+        "392|junagadh|gujarat"
+    ],
+    "319|giridih|jharkhand": [
+        "199|bokaro|jharkhand",
+        "258|deoghar|jharkhand",
+        "264|dhanbad|jharkhand",
+        "345|hazaribagh|jharkhand",
+        "372|jamtara|jharkhand",
+        "373|jamui|bihar",
+        "445|koderma|jharkhand",
+        "560|nawada|bihar"
+    ],
+    "320|goalpara|assam": [
+        "166|barpeta|assam",
+        "200|bongaigaon|assam",
+        "271|dhubri|assam",
+        "404|kamrup|assam",
+        "569|north_garo_hills|meghalaya",
+        "714|south_salmara_mankachar|assam",
+        "794|west_garo_hills|meghalaya"
+    ],
+    "321|godda|jharkhand": [
+        "156|banka|bihar",
+        "180|bhagalpur|bihar",
+        "280|dumka|jharkhand",
+        "577|pakur|jharkhand",
+        "655|sahibganj|jharkhand"
+    ],
+    "322|golaghat|assam": [
+        "198|biswanath|assam",
+        "275|dimapur|nagaland",
+        "391|jorhat|assam",
+        "418|karbi_anglong|assam",
+        "446|kohima|nagaland",
+        "474|lakhimpur|assam",
+        "505|majuli|assam",
+        "541|nagaon|assam",
+        "804|wokha|nagaland"
+    ],
+    "323|gomati|tripura": [
+        "262|dhalai|tripura",
+        "438|khowai|tripura",
+        "697|sipahijala|tripura",
+        "716|south_tripura|tripura"
+    ],
+    "324|gonda|uttar_pradesh": [
+        "136|ayodhya|uttar_pradesh",
+        "141|bahraich|uttar_pradesh",
+        "151|balrampur|uttar_pradesh",
+        "159|barabanki|uttar_pradesh",
+        "169|basti|uttar_pradesh",
+        "688|shrawasti|uttar_pradesh",
+        "690|siddharthnagar|uttar_pradesh"
+    ],
+    "325|gondia|maharashtra": [
+        "143|balaghat|madhya_pradesh",
+        "181|bhandara|maharashtra",
+        "306|gadchiroli|maharashtra",
+        "628|rajnandgaon|chhattisgarh"
+    ],
+    "326|gopalganj|bihar": [
+        "259|deoria|uttar_pradesh",
+        "283|east_champaran|bihar",
+        "471|kushinagar|uttar_pradesh",
+        "537|muzaffarpur|bihar",
+        "667|saran|bihar",
+        "705|siwan|bihar",
+        "793|west_champaran|bihar"
+    ],
+    "327|gorakhpur|uttar_pradesh": [
+        "116|ambedkar_nagar|uttar_pradesh",
+        "137|azamgarh|uttar_pradesh",
+        "259|deoria|uttar_pradesh",
+        "471|kushinagar|uttar_pradesh",
+        "498|maharajganj|uttar_pradesh",
+        "517|mau|uttar_pradesh",
+        "665|sant_kabir_nagar|uttar_pradesh",
+        "690|siddharthnagar|uttar_pradesh"
+    ],
+    "328|gumla|jharkhand": [
+        "150|balrampur|chhattisgarh",
+        "376|jashpur|chhattisgarh",
+        "439|khunti|jharkhand",
+        "478|latehar|jharkhand",
+        "483|lohardaga|jharkhand",
+        "636|ranchi|jharkhand",
+        "694|simdega|jharkhand"
+    ],
+    "329|guna|madhya_pradesh": [
+        "132|ashoknagar|madhya_pradesh",
+        "161|baran|rajasthan",
+        "189|bhopal|madhya_pradesh",
+        "382|jhalawar|rajasthan",
+        "626|rajgarh|madhya_pradesh",
+        "686|shivpuri|madhya_pradesh",
+        "780|vidisha|madhya_pradesh"
+    ],
+    "330|guntur|andhra_pradesh": [
+        "463|krishna|andhra_pradesh",
+        "543|nagarkurnool|telangana",
+        "549|nalgonda|telangana",
+        "605|prakasam|andhra_pradesh",
+        "731|suryapet|telangana"
+    ],
+    "331|gurdaspur|punjab": [
+        "120|amritsar|punjab",
+        "351|hoshiarpur|punjab",
+        "409|kangra|himachal_pradesh",
+        "415|kapurthala|punjab",
+        "593|pathankot|punjab"
+    ],
+    "332|gurugram|haryana": [
+        "256|delhi|delhi",
+        "296|faridabad|haryana",
+        "381|jhajjar|haryana",
+        "574|nuh|haryana",
+        "582|palwal|haryana",
+        "643|rewari|haryana"
+    ],
+    "333|gwalior|madhya_pradesh": [
+        "186|bhind|madhya_pradesh",
+        "252|datia|madhya_pradesh",
+        "529|morena|madhya_pradesh",
+        "686|shivpuri|madhya_pradesh"
+    ],
+    "334|hailakandi|assam": [
+        "210|cachar|assam",
+        "420|karimganj|assam",
+        "449|kolasib|mizoram",
+        "509|mamit|mizoram"
+    ],
+    "335|hamirpur|uttar_pradesh": [
+        "154|banda|uttar_pradesh",
+        "301|fatehpur|uttar_pradesh",
+        "365|jalaun|uttar_pradesh",
+        "383|jhansi|uttar_pradesh",
+        "412|kanpur_dehat|uttar_pradesh",
+        "413|kanpur_nagar|uttar_pradesh",
+        "503|mahoba|uttar_pradesh"
+    ],
+    "336|hamirpur|himachal_pradesh": [
+        "195|bilaspur|himachal_pradesh",
+        "409|kangra|himachal_pradesh",
+        "511|mandi|himachal_pradesh",
+        "765|una|himachal_pradesh"
+    ],
+    "337|hanumangarh|rajasthan": [
+        "187|bhiwani|haryana",
+        "193|bikaner|rajasthan",
+        "236|churu|rajasthan",
+        "299|fatehabad|haryana",
+        "302|fazilka|punjab",
+        "310|ganganagar|rajasthan",
+        "347|hisar|haryana",
+        "700|sirsa|haryana",
+        "719|sri_muktsar_sahib|punjab"
+    ],
+    "338|hapur|uttar_pradesh": [
+        "121|amroha|uttar_pradesh",
+        "205|bulandshahr|uttar_pradesh",
+        "314|gautam_buddha_nagar|uttar_pradesh",
+        "316|ghaziabad|uttar_pradesh",
+        "521|meerut|uttar_pradesh"
+    ],
+    "339|harda|madhya_pradesh": [
+        "176|betul|madhya_pradesh",
+        "261|dewas|madhya_pradesh",
+        "350|hoshangabad|madhya_pradesh",
+        "434|khandwa|madhya_pradesh",
+        "671|sehore|madhya_pradesh"
+    ],
+    "340|hardoi|uttar_pradesh": [
+        "298|farrukhabad|uttar_pradesh",
+        "410|kannauj|uttar_pradesh",
+        "413|kanpur_nagar|uttar_pradesh",
+        "475|lakhimpur_kheri|uttar_pradesh",
+        "490|lucknow|uttar_pradesh",
+        "677|shahjahanpur|uttar_pradesh",
+        "702|sitapur|uttar_pradesh",
+        "766|unnao|uttar_pradesh"
+    ],
+    "341|haridwar|uttarakhand": [
+        "192|bijnor|uttar_pradesh",
+        "255|dehradun|uttarakhand",
+        "536|muzaffarnagar|uttar_pradesh",
+        "596|pauri_garhwal|uttarakhand",
+        "653|saharanpur|uttar_pradesh"
+    ],
+    "342|hassan|karnataka": [
+        "229|chikkamagaluru|karnataka",
+        "245|dakshina_kannada|karnataka",
+        "444|kodagu|karnataka",
+        "514|mandya|karnataka",
+        "538|mysuru|karnataka",
+        "756|tumakuru|karnataka"
+    ],
+    "343|hathras|uttar_pradesh": [
+        "103|agra|uttar_pradesh",
+        "110|aligarh|uttar_pradesh",
+        "294|etah|uttar_pradesh",
+        "425|kasganj|uttar_pradesh",
+        "516|mathura|uttar_pradesh"
+    ],
+    "344|haveri|karnataka": [
+        "146|ballari|karnataka",
+        "254|davanagere|karnataka",
+        "267|dharwad|karnataka",
+        "305|gadag|karnataka",
+        "685|shivamogga|karnataka",
+        "773|uttara_kannada|karnataka"
+    ],
+    "345|hazaribagh|jharkhand": [
+        "199|bokaro|jharkhand",
+        "223|chatra|jharkhand",
+        "315|gaya|bihar",
+        "319|giridih|jharkhand",
+        "445|koderma|jharkhand",
+        "634|ramgarh|jharkhand",
+        "636|ranchi|jharkhand"
+    ],
+    "346|hingoli|maharashtra": [
+        "552|nanded|maharashtra",
+        "588|parbhani|maharashtra",
+        "791|washim|maharashtra",
+        "809|yavatmal|maharashtra"
+    ],
+    "347|hisar|haryana": [
+        "187|bhiwani|haryana",
+        "299|fatehabad|haryana",
+        "337|hanumangarh|rajasthan",
+        "387|jind|haryana",
+        "645|rohtak|haryana"
+    ],
+    "348|hojai|assam": [
+        "274|dima_hasao|assam",
+        "418|karbi_anglong|assam",
+        "541|nagaon|assam",
+        "798|west_karbi_anglong|assam"
+    ],
+    "349|hooghly|west_bengal": [
+        "157|bankura|west_bengal",
+        "352|howrah|west_bengal",
+        "540|nadia|west_bengal",
+        "568|north_24_parganas|west_bengal",
+        "590|paschim_medinipur|west_bengal",
+        "614|purba_bardhaman|west_bengal"
+    ],
+    "350|hoshangabad|madhya_pradesh": [
+        "176|betul|madhya_pradesh",
+        "226|chhindwara|madhya_pradesh",
+        "339|harda|madhya_pradesh",
+        "557|narsinghpur|madhya_pradesh",
+        "624|raisen|madhya_pradesh",
+        "671|sehore|madhya_pradesh"
+    ],
+    "351|hoshiarpur|punjab": [
+        "331|gurdaspur|punjab",
+        "364|jalandhar|punjab",
+        "409|kangra|himachal_pradesh",
+        "415|kapurthala|punjab",
+        "648|rupnagar|punjab",
+        "676|shahid_bhagat_singh_nagar|punjab",
+        "765|una|himachal_pradesh"
+    ],
+    "352|howrah|west_bengal": [
+        "349|hooghly|west_bengal",
+        "451|kolkata|west_bengal",
+        "568|north_24_parganas|west_bengal",
+        "590|paschim_medinipur|west_bengal",
+        "615|purba_medinipur|west_bengal",
+        "711|south_24_parganas|west_bengal"
+    ],
+    "353|hyderabad|telangana": [
+        "520|medchal_malkajgiri|telangana",
+        "637|ranga_reddy|telangana"
+    ],
+    "354|idukki|kerala": [
+        "237|coimbatore|tamil_nadu",
+        "276|dindigul|tamil_nadu",
+        "292|ernakulam|kerala",
+        "460|kottayam|kerala",
+        "592|pathanamthitta|kerala",
+        "740|theni|tamil_nadu",
+        "751|tirunelveli|tamil_nadu",
+        "752|tiruppur|tamil_nadu",
+        "784|virudhunagar|tamil_nadu"
+    ],
+    "355|imphal_east|manipur": [
+        "356|imphal_west|manipur",
+        "408|kangpokpi|manipur",
+        "745|thoubal|manipur"
+    ],
+    "356|imphal_west|manipur": [
+        "197|bishnupur|manipur",
+        "355|imphal_east|manipur",
+        "396|kakching|manipur",
+        "408|kangpokpi|manipur",
+        "745|thoubal|manipur"
+    ],
+    "357|indore|madhya_pradesh": [
+        "261|dewas|madhya_pradesh",
+        "265|dhar|madhya_pradesh",
+        "435|khargone|madhya_pradesh",
+        "762|ujjain|madhya_pradesh"
+    ],
+    "358|jabalpur|madhya_pradesh": [
+        "247|damoh|madhya_pradesh",
+        "277|dindori|madhya_pradesh",
+        "428|katni|madhya_pradesh",
+        "512|mandla|madhya_pradesh",
+        "557|narsinghpur|madhya_pradesh",
+        "673|seoni|madhya_pradesh",
+        "764|umaria|madhya_pradesh"
+    ],
+    "359|jagatsinghpur|odisha": [
+        "240|cuttack|odisha",
+        "430|kendrapara|odisha",
+        "616|puri|odisha"
+    ],
+    "360|jagtial|telangana": [
+        "421|karimnagar|telangana",
+        "510|mancherial|telangana",
+        "564|nirmal|telangana",
+        "566|nizamabad|telangana",
+        "597|peddapalli|telangana",
+        "625|rajanna_sircilla|telangana"
+    ],
+    "361|jaipur|rajasthan": [
+        "107|ajmer|rajasthan",
+        "114|alwar|rajasthan",
+        "253|dausa|rajasthan",
+        "501|mahendragarh|haryana",
+        "544|nagaur|rajasthan",
+        "693|sikar|rajasthan",
+        "754|tonk|rajasthan"
+    ],
+    "362|jaisalmer|rajasthan": [
+        "164|barmer|rajasthan",
+        "193|bikaner|rajasthan",
+        "389|jodhpur|rajasthan"
+    ],
+    "363|jajpur|odisha": [
+        "179|bhadrak|odisha",
+        "240|cuttack|odisha",
+        "269|dhenkanal|odisha",
+        "430|kendrapara|odisha",
+        "431|kendujhar|odisha"
+    ],
+    "364|jalandhar|punjab": [
+        "303|ferozepur|punjab",
+        "351|hoshiarpur|punjab",
+        "415|kapurthala|punjab",
+        "491|ludhiana|punjab",
+        "524|moga|punjab",
+        "676|shahid_bhagat_singh_nagar|punjab"
+    ],
+    "365|jalaun|uttar_pradesh": [
+        "133|auraiya|uttar_pradesh",
+        "186|bhind|madhya_pradesh",
+        "295|etawah|uttar_pradesh",
+        "335|hamirpur|uttar_pradesh",
+        "383|jhansi|uttar_pradesh",
+        "412|kanpur_dehat|uttar_pradesh"
+    ],
+    "366|jalgaon|maharashtra": [
+        "135|aurangabad|maharashtra",
+        "167|barwani|madhya_pradesh",
+        "206|buldhana|maharashtra",
+        "208|burhanpur|madhya_pradesh",
+        "272|dhule|maharashtra",
+        "367|jalna|maharashtra",
+        "435|khargone|madhya_pradesh",
+        "558|nashik|maharashtra"
+    ],
+    "367|jalna|maharashtra": [
+        "135|aurangabad|maharashtra",
+        "171|beed|maharashtra",
+        "206|buldhana|maharashtra",
+        "366|jalgaon|maharashtra",
+        "588|parbhani|maharashtra"
+    ],
+    "368|jalore|rajasthan": [
+        "153|banaskantha|gujarat",
+        "164|barmer|rajasthan",
+        "472|kutch|gujarat",
+        "581|pali|rajasthan",
+        "699|sirohi|rajasthan"
+    ],
+    "369|jalpaiguri|west_bengal": [
+        "111|alipurduar|west_bengal",
+        "238|cooch_behar|west_bengal",
+        "250|darjeeling|west_bengal",
+        "399|kalimpong|west_bengal"
+    ],
+    "370|jammu|jammu_and_kashmir": [
+        "629|rajouri|jammu_and_kashmir",
+        "641|reasi|jammu_and_kashmir",
+        "659|samba|jammu_and_kashmir",
+        "760|udhampur|jammu_and_kashmir"
+    ],
+    "371|jamnagar|gujarat": [
+        "260|devbhumi_dwarka|gujarat",
+        "528|morbi|gujarat",
+        "604|porbandar|gujarat",
+        "627|rajkot|gujarat"
+    ],
+    "372|jamtara|jharkhand": [
+        "196|birbhum|west_bengal",
+        "258|deoghar|jharkhand",
+        "264|dhanbad|jharkhand",
+        "280|dumka|jharkhand",
+        "319|giridih|jharkhand",
+        "589|paschim_bardhaman|west_bengal"
+    ],
+    "373|jamui|bihar": [
+        "156|banka|bihar",
+        "258|deoghar|jharkhand",
+        "319|giridih|jharkhand",
+        "476|lakhisarai|bihar",
+        "534|munger|bihar",
+        "560|nawada|bihar",
+        "680|sheikhpura|bihar"
+    ],
+    "374|jangaon|telangana": [
+        "496|mahabubabad|telangana",
+        "691|siddipet|telangana",
+        "731|suryapet|telangana",
+        "788|warangal_rural|telangana",
+        "789|warangal_urban|telangana",
+        "806|yadadri_bhuvanagiri|telangana"
+    ],
+    "375|janjgir_champa|chhattisgarh": [
+        "149|baloda_bazar|chhattisgarh",
+        "194|bilaspur|chhattisgarh",
+        "457|korba|chhattisgarh",
+        "622|raigarh|chhattisgarh"
+    ],
+    "376|jashpur|chhattisgarh": [
+        "150|balrampur|chhattisgarh",
+        "328|gumla|jharkhand",
+        "622|raigarh|chhattisgarh",
+        "694|simdega|jharkhand",
+        "725|sundargarh|odisha",
+        "730|surguja|chhattisgarh"
+    ],
+    "377|jaunpur|uttar_pradesh": [
+        "137|azamgarh|uttar_pradesh",
+        "177|bhadohi|uttar_pradesh",
+        "317|ghazipur|uttar_pradesh",
+        "606|pratapgarh|uttar_pradesh",
+        "608|prayagraj|uttar_pradesh",
+        "724|sultanpur|uttar_pradesh",
+        "778|varanasi|uttar_pradesh"
+    ],
+    "378|jayashankar_bhupalapally|telangana": [
+        "191|bijapur|chhattisgarh",
+        "306|gadchiroli|maharashtra",
+        "421|karimnagar|telangana",
+        "510|mancherial|telangana",
+        "531|mulugu|telangana",
+        "597|peddapalli|telangana",
+        "788|warangal_rural|telangana",
+        "789|warangal_urban|telangana"
+    ],
+    "379|jehanabad|bihar": [
+        "131|arwal|bihar",
+        "315|gaya|bihar",
+        "547|nalanda|bihar",
+        "595|patna|bihar"
+    ],
+    "380|jhabua|madhya_pradesh": [
+        "112|alirajpur|madhya_pradesh",
+        "158|banswara|rajasthan",
+        "242|dahod|gujarat",
+        "265|dhar|madhya_pradesh",
+        "638|ratlam|madhya_pradesh"
+    ],
+    "381|jhajjar|haryana": [
+        "222|charkhi_dadri|haryana",
+        "256|delhi|delhi",
+        "332|gurugram|haryana",
+        "501|mahendragarh|haryana",
+        "643|rewari|haryana",
+        "645|rohtak|haryana",
+        "709|sonipat|haryana"
+    ],
+    "382|jhalawar|rajasthan": [
+        "102|agar_malwa|madhya_pradesh",
+        "161|baran|rajasthan",
+        "329|guna|madhya_pradesh",
+        "459|kota|rajasthan",
+        "513|mandsaur|madhya_pradesh",
+        "626|rajgarh|madhya_pradesh",
+        "638|ratlam|madhya_pradesh"
+    ],
+    "383|jhansi|uttar_pradesh": [
+        "186|bhind|madhya_pradesh",
+        "225|chhatarpur|madhya_pradesh",
+        "252|datia|madhya_pradesh",
+        "335|hamirpur|uttar_pradesh",
+        "365|jalaun|uttar_pradesh",
+        "477|lalitpur|uttar_pradesh",
+        "503|mahoba|uttar_pradesh",
+        "565|niwari|madhya_pradesh",
+        "686|shivpuri|madhya_pradesh",
+        "747|tikamgarh|madhya_pradesh"
+    ],
+    "384|jhargram|west_bengal": [
+        "145|balasore|odisha",
+        "157|bankura|west_bengal",
+        "291|east_singhbhum|jharkhand",
+        "518|mayurbhanj|odisha",
+        "590|paschim_medinipur|west_bengal",
+        "618|purulia|west_bengal"
+    ],
+    "385|jharsuguda|odisha": [
+        "163|bargarh|odisha",
+        "622|raigarh|chhattisgarh",
+        "660|sambalpur|odisha",
+        "725|sundargarh|odisha"
+    ],
+    "386|jhunjhunu|rajasthan": [
+        "187|bhiwani|haryana",
+        "236|churu|rajasthan",
+        "501|mahendragarh|haryana",
+        "693|sikar|rajasthan"
+    ],
+    "387|jind|haryana": [
+        "299|fatehabad|haryana",
+        "347|hisar|haryana",
+        "395|kaithal|haryana",
+        "422|karnal|haryana",
+        "585|panipat|haryana",
+        "594|patiala|punjab",
+        "645|rohtak|haryana",
+        "664|sangrur|punjab",
+        "709|sonipat|haryana"
+    ],
+    "388|jiribam|manipur": [
+        "210|cachar|assam",
+        "567|noney|manipur",
+        "601|pherzawl|manipur",
+        "732|tamenglong|manipur"
+    ],
+    "389|jodhpur|rajasthan": [
+        "164|barmer|rajasthan",
+        "193|bikaner|rajasthan",
+        "362|jaisalmer|rajasthan",
+        "544|nagaur|rajasthan",
+        "581|pali|rajasthan"
+    ],
+    "390|jogulamba_gadwal|telangana": [
+        "468|kurnool|andhra_pradesh",
+        "554|narayanpet|telangana",
+        "620|raichur|karnataka",
+        "787|wanaparthy|telangana"
+    ],
+    "391|jorhat|assam": [
+        "322|golaghat|assam",
+        "505|majuli|assam",
+        "525|mokokchung|nagaland",
+        "704|sivasagar|assam",
+        "804|wokha|nagaland"
+    ],
+    "392|junagadh|gujarat": [
+        "119|amreli|gujarat",
+        "318|gir_somnath|gujarat",
+        "604|porbandar|gujarat",
+        "627|rajkot|gujarat"
+    ],
+    "393|kabeerdham|chhattisgarh": [
+        "143|balaghat|madhya_pradesh",
+        "152|bametara|chhattisgarh",
+        "277|dindori|madhya_pradesh",
+        "512|mandla|madhya_pradesh",
+        "533|mungeli|chhattisgarh",
+        "628|rajnandgaon|chhattisgarh"
+    ],
+    "394|kaimur|bihar": [
+        "209|buxar|bihar",
+        "216|chandauli|uttar_pradesh",
+        "317|ghazipur|uttar_pradesh",
+        "646|rohtas|bihar",
+        "708|sonbhadra|uttar_pradesh"
+    ],
+    "395|kaithal|haryana": [
+        "387|jind|haryana",
+        "422|karnal|haryana",
+        "469|kurukshetra|haryana",
+        "594|patiala|punjab"
+    ],
+    "396|kakching|manipur": [
+        "197|bishnupur|manipur",
+        "217|chandel|manipur",
+        "235|churachandpur|manipur",
+        "356|imphal_west|manipur",
+        "737|tengnoupal|manipur",
+        "745|thoubal|manipur"
+    ],
+    "397|kalaburagi|karnataka": [
+        "190|bidar|karnataka",
+        "554|narayanpet|telangana",
+        "575|osmanabad|maharashtra",
+        "662|sangareddy|telangana",
+        "707|solapur|maharashtra",
+        "781|vijayapura|karnataka",
+        "782|vikarabad|telangana",
+        "807|yadgir|karnataka"
+    ],
+    "398|kalahandi|odisha": [
+        "144|balangir|odisha",
+        "313|gariaband|chhattisgarh",
+        "407|kandhamal|odisha",
+        "456|koraput|odisha",
+        "539|nabarangapur|odisha",
+        "573|nuapada|odisha",
+        "640|rayagada|odisha"
+    ],
+    "399|kalimpong|west_bengal": [
+        "250|darjeeling|west_bengal",
+        "290|east_sikkim|sikkim",
+        "369|jalpaiguri|west_bengal",
+        "715|south_sikkim|sikkim"
+    ],
+    "400|kallakurichi|tamil_nadu": [
+        "239|cuddalore|tamil_nadu",
+        "266|dharmapuri|tamil_nadu",
+        "598|perambalur|tamil_nadu",
+        "657|salem|tamil_nadu",
+        "753|tiruvannamalai|tamil_nadu",
+        "783|viluppuram|tamil_nadu"
+    ],
+    "401|kamareddy|telangana": [
+        "190|bidar|karnataka",
+        "519|medak|telangana",
+        "552|nanded|maharashtra",
+        "566|nizamabad|telangana",
+        "625|rajanna_sircilla|telangana",
+        "662|sangareddy|telangana",
+        "691|siddipet|telangana"
+    ],
+    "402|kamjong|manipur": [
+        "408|kangpokpi|manipur",
+        "737|tengnoupal|manipur",
+        "763|ukhrul|manipur"
+    ],
+    "403|kamle|arunachal_pradesh": [
+        "268|dhemaji|assam",
+        "462|kra_daadi|arunachal_pradesh",
+        "474|lakhimpur|assam",
+        "488|lower_siang|arunachal_pradesh",
+        "489|lower_subansiri|arunachal_pradesh",
+        "587|papum_pare|arunachal_pradesh",
+        "770|upper_subansiri|arunachal_pradesh"
+    ],
+    "404|kamrup|assam": [
+        "142|baksa|assam",
+        "166|barpeta|assam",
+        "251|darrang|assam",
+        "320|goalpara|assam",
+        "405|kamrup_metropolitan|assam",
+        "548|nalbari|assam",
+        "569|north_garo_hills|meghalaya",
+        "644|ribhoi|meghalaya",
+        "799|west_khasi_hills|meghalaya"
+    ],
+    "405|kamrup_metropolitan|assam": [
+        "251|darrang|assam",
+        "404|kamrup|assam",
+        "530|morigaon|assam",
+        "644|ribhoi|meghalaya"
+    ],
+    "406|kancheepuram|tamil_nadu": [
+        "224|chennai|tamil_nadu",
+        "741|thiruvallur|tamil_nadu",
+        "753|tiruvannamalai|tamil_nadu",
+        "779|vellore|tamil_nadu",
+        "783|viluppuram|tamil_nadu"
+    ],
+    "407|kandhamal|odisha": [
+        "144|balangir|odisha",
+        "202|boudh|odisha",
+        "307|gajapati|odisha",
+        "311|ganjam|odisha",
+        "398|kalahandi|odisha",
+        "561|nayagarh|odisha",
+        "640|rayagada|odisha"
+    ],
+    "408|kangpokpi|manipur": [
+        "197|bishnupur|manipur",
+        "355|imphal_east|manipur",
+        "356|imphal_west|manipur",
+        "402|kamjong|manipur",
+        "567|noney|manipur",
+        "672|senapati|manipur",
+        "732|tamenglong|manipur",
+        "737|tengnoupal|manipur",
+        "745|thoubal|manipur",
+        "763|ukhrul|manipur"
+    ],
+    "409|kangra|himachal_pradesh": [
+        "212|chamba|himachal_pradesh",
+        "331|gurdaspur|punjab",
+        "336|hamirpur|himachal_pradesh",
+        "351|hoshiarpur|punjab",
+        "466|kullu|himachal_pradesh",
+        "473|lahaul_and_spiti|himachal_pradesh",
+        "511|mandi|himachal_pradesh",
+        "593|pathankot|punjab",
+        "765|una|himachal_pradesh"
+    ],
+    "410|kannauj|uttar_pradesh": [
+        "133|auraiya|uttar_pradesh",
+        "295|etawah|uttar_pradesh",
+        "298|farrukhabad|uttar_pradesh",
+        "340|hardoi|uttar_pradesh",
+        "412|kanpur_dehat|uttar_pradesh",
+        "413|kanpur_nagar|uttar_pradesh",
+        "504|mainpuri|uttar_pradesh"
+    ],
+    "411|kannur|kerala": [
+        "424|kasaragod|kerala",
+        "444|kodagu|karnataka",
+        "461|kozhikode|kerala",
+        "500|mahe|puducherry",
+        "792|wayanad|kerala"
+    ],
+    "412|kanpur_dehat|uttar_pradesh": [
+        "133|auraiya|uttar_pradesh",
+        "335|hamirpur|uttar_pradesh",
+        "365|jalaun|uttar_pradesh",
+        "410|kannauj|uttar_pradesh",
+        "413|kanpur_nagar|uttar_pradesh"
+    ],
+    "413|kanpur_nagar|uttar_pradesh": [
+        "301|fatehpur|uttar_pradesh",
+        "335|hamirpur|uttar_pradesh",
+        "340|hardoi|uttar_pradesh",
+        "410|kannauj|uttar_pradesh",
+        "412|kanpur_dehat|uttar_pradesh",
+        "766|unnao|uttar_pradesh"
+    ],
+    "414|kanyakumari|tamil_nadu": [
+        "742|thiruvananthapuram|kerala",
+        "751|tirunelveli|tamil_nadu"
+    ],
+    "415|kapurthala|punjab": [
+        "120|amritsar|punjab",
+        "303|ferozepur|punjab",
+        "331|gurdaspur|punjab",
+        "351|hoshiarpur|punjab",
+        "364|jalandhar|punjab",
+        "676|shahid_bhagat_singh_nagar|punjab",
+        "734|tarn_taran|punjab"
+    ],
+    "416|karaikal|puducherry": [
+        "542|nagapattinam|tamil_nadu",
+        "743|thiruvarur|tamil_nadu"
+    ],
+    "417|karauli|rajasthan": [
+        "182|bharatpur|rajasthan",
+        "253|dausa|rajasthan",
+        "270|dholpur|rajasthan",
+        "529|morena|madhya_pradesh",
+        "670|sawai_madhopur|rajasthan",
+        "682|sheopur|madhya_pradesh"
+    ],
+    "418|karbi_anglong|assam": [
+        "274|dima_hasao|assam",
+        "275|dimapur|nagaland",
+        "322|golaghat|assam",
+        "348|hojai|assam",
+        "541|nagaon|assam",
+        "599|peren|nagaland"
+    ],
+    "419|kargil|ladakh": [
+        "124|anantnag|jammu_and_kashmir",
+        "155|bandipora|jammu_and_kashmir",
+        "308|ganderbal|jammu_and_kashmir",
+        "443|kishtwar|jammu_and_kashmir",
+        "473|lahaul_and_spiti|himachal_pradesh",
+        "481|leh|ladakh"
+    ],
+    "420|karimganj|assam": [
+        "210|cachar|assam",
+        "334|hailakandi|assam",
+        "509|mamit|mizoram",
+        "572|north_tripura|tripura"
+    ],
+    "421|karimnagar|telangana": [
+        "360|jagtial|telangana",
+        "378|jayashankar_bhupalapally|telangana",
+        "597|peddapalli|telangana",
+        "625|rajanna_sircilla|telangana",
+        "691|siddipet|telangana",
+        "789|warangal_urban|telangana"
+    ],
+    "422|karnal|haryana": [
+        "387|jind|haryana",
+        "395|kaithal|haryana",
+        "469|kurukshetra|haryana",
+        "585|panipat|haryana",
+        "653|saharanpur|uttar_pradesh",
+        "679|shamli|uttar_pradesh",
+        "808|yamunanagar|haryana"
+    ],
+    "423|karur|tamil_nadu": [
+        "276|dindigul|tamil_nadu",
+        "293|erode|tamil_nadu",
+        "550|namakkal|tamil_nadu",
+        "750|tiruchirappalli|tamil_nadu",
+        "752|tiruppur|tamil_nadu"
+    ],
+    "424|kasaragod|kerala": [
+        "245|dakshina_kannada|karnataka",
+        "411|kannur|kerala",
+        "444|kodagu|karnataka"
+    ],
+    "425|kasganj|uttar_pradesh": [
+        "110|aligarh|uttar_pradesh",
+        "203|budaun|uttar_pradesh",
+        "294|etah|uttar_pradesh",
+        "298|farrukhabad|uttar_pradesh",
+        "343|hathras|uttar_pradesh"
+    ],
+    "426|kathua|jammu_and_kashmir": [
+        "212|chamba|himachal_pradesh",
+        "279|doda|jammu_and_kashmir",
+        "593|pathankot|punjab",
+        "659|samba|jammu_and_kashmir",
+        "760|udhampur|jammu_and_kashmir"
+    ],
+    "427|katihar|bihar": [
+        "180|bhagalpur|bihar",
+        "507|malda|west_bengal",
+        "617|purnia|bihar",
+        "655|sahibganj|jharkhand",
+        "772|uttar_dinajpur|west_bengal"
+    ],
+    "428|katni|madhya_pradesh": [
+        "247|damoh|madhya_pradesh",
+        "358|jabalpur|madhya_pradesh",
+        "586|panna|madhya_pradesh",
+        "669|satna|madhya_pradesh",
+        "764|umaria|madhya_pradesh"
+    ],
+    "429|kaushambi|uttar_pradesh": [
+        "232|chitrakoot|uttar_pradesh",
+        "301|fatehpur|uttar_pradesh",
+        "606|pratapgarh|uttar_pradesh",
+        "608|prayagraj|uttar_pradesh",
+        "619|rae_bareli|uttar_pradesh"
+    ],
+    "430|kendrapara|odisha": [
+        "179|bhadrak|odisha",
+        "240|cuttack|odisha",
+        "359|jagatsinghpur|odisha",
+        "363|jajpur|odisha"
+    ],
+    "431|kendujhar|odisha": [
+        "125|angul|odisha",
+        "145|balasore|odisha",
+        "179|bhadrak|odisha",
+        "269|dhenkanal|odisha",
+        "363|jajpur|odisha",
+        "518|mayurbhanj|odisha",
+        "725|sundargarh|odisha",
+        "802|west_singhbhum|jharkhand"
+    ],
+    "432|khagaria|bihar": [
+        "172|begusarai|bihar",
+        "180|bhagalpur|bihar",
+        "493|madhepura|bihar",
+        "534|munger|bihar",
+        "654|saharsa|bihar",
+        "658|samastipur|bihar"
+    ],
+    "433|khammam|telangana": [
+        "178|bhadradri_kothagudem|telangana",
+        "463|krishna|andhra_pradesh",
+        "496|mahabubabad|telangana",
+        "731|suryapet|telangana",
+        "795|west_godavari|andhra_pradesh"
+    ],
+    "434|khandwa|madhya_pradesh": [
+        "118|amravati|maharashtra",
+        "176|betul|madhya_pradesh",
+        "208|burhanpur|madhya_pradesh",
+        "261|dewas|madhya_pradesh",
+        "339|harda|madhya_pradesh",
+        "435|khargone|madhya_pradesh"
+    ],
+    "435|khargone|madhya_pradesh": [
+        "167|barwani|madhya_pradesh",
+        "208|burhanpur|madhya_pradesh",
+        "261|dewas|madhya_pradesh",
+        "265|dhar|madhya_pradesh",
+        "357|indore|madhya_pradesh",
+        "366|jalgaon|maharashtra",
+        "434|khandwa|madhya_pradesh"
+    ],
+    "436|kheda|gujarat": [
+        "104|ahmedabad|gujarat",
+        "122|anand|gujarat",
+        "129|aravalli|gujarat",
+        "309|gandhinagar|gujarat",
+        "502|mahisagar|gujarat",
+        "584|panchmahal|gujarat",
+        "775|vadodara|gujarat"
+    ],
+    "437|khordha|odisha": [
+        "240|cuttack|odisha",
+        "311|ganjam|odisha",
+        "561|nayagarh|odisha",
+        "616|puri|odisha"
+    ],
+    "438|khowai|tripura": [
+        "262|dhalai|tripura",
+        "323|gomati|tripura",
+        "697|sipahijala|tripura",
+        "803|west_tripura|tripura"
+    ],
+    "439|khunti|jharkhand": [
+        "328|gumla|jharkhand",
+        "636|ranchi|jharkhand",
+        "666|saraikela-kharsawan|jharkhand",
+        "694|simdega|jharkhand",
+        "802|west_singhbhum|jharkhand"
+    ],
+    "440|kinnaur|himachal_pradesh": [
+        "466|kullu|himachal_pradesh",
+        "473|lahaul_and_spiti|himachal_pradesh",
+        "684|shimla|himachal_pradesh",
+        "774|uttarkashi|uttarakhand"
+    ],
+    "441|kiphire|nagaland": [
+        "600|phek|nagaland",
+        "755|tuensang|nagaland",
+        "810|zunheboto|nagaland"
+    ],
+    "442|kishanganj|bihar": [
+        "128|araria|bihar",
+        "250|darjeeling|west_bengal",
+        "617|purnia|bihar",
+        "772|uttar_dinajpur|west_bengal"
+    ],
+    "443|kishtwar|jammu_and_kashmir": [
+        "124|anantnag|jammu_and_kashmir",
+        "212|chamba|himachal_pradesh",
+        "279|doda|jammu_and_kashmir",
+        "419|kargil|ladakh",
+        "473|lahaul_and_spiti|himachal_pradesh"
+    ],
+    "444|kodagu|karnataka": [
+        "245|dakshina_kannada|karnataka",
+        "342|hassan|karnataka",
+        "411|kannur|kerala",
+        "424|kasaragod|kerala",
+        "538|mysuru|karnataka",
+        "792|wayanad|kerala"
+    ],
+    "445|koderma|jharkhand": [
+        "315|gaya|bihar",
+        "319|giridih|jharkhand",
+        "345|hazaribagh|jharkhand",
+        "560|nawada|bihar"
+    ],
+    "446|kohima|nagaland": [
+        "275|dimapur|nagaland",
+        "322|golaghat|assam",
+        "599|peren|nagaland",
+        "600|phek|nagaland",
+        "672|senapati|manipur",
+        "804|wokha|nagaland",
+        "810|zunheboto|nagaland"
+    ],
+    "447|kokrajhar|assam": [
+        "111|alipurduar|west_bengal",
+        "200|bongaigaon|assam",
+        "230|chirang|assam",
+        "238|cooch_behar|west_bengal",
+        "271|dhubri|assam"
+    ],
+    "448|kolar|karnataka": [
+        "174|bengaluru_rural|karnataka",
+        "228|chikkaballapura|karnataka",
+        "233|chittoor|andhra_pradesh",
+        "464|krishnagiri|tamil_nadu"
+    ],
+    "449|kolasib|mizoram": [
+        "106|aizawl|mizoram",
+        "210|cachar|assam",
+        "334|hailakandi|assam",
+        "509|mamit|mizoram"
+    ],
+    "450|kolhapur|maharashtra": [
+        "173|belagavi|karnataka",
+        "639|ratnagiri|maharashtra",
+        "663|sangli|maharashtra",
+        "695|sindhudurg|maharashtra"
+    ],
+    "451|kolkata|west_bengal": [
+        "352|howrah|west_bengal",
+        "568|north_24_parganas|west_bengal",
+        "711|south_24_parganas|west_bengal"
+    ],
+    "452|kollam|kerala": [
+        "109|alappuzha|kerala",
+        "592|pathanamthitta|kerala",
+        "742|thiruvananthapuram|kerala",
+        "751|tirunelveli|tamil_nadu"
+    ],
+    "453|komaram_bheem|telangana": [
+        "101|adilabad|telangana",
+        "219|chandrapur|maharashtra",
+        "306|gadchiroli|maharashtra",
+        "510|mancherial|telangana",
+        "564|nirmal|telangana"
+    ],
+    "454|kondagaon|chhattisgarh": [
+        "168|bastar|chhattisgarh",
+        "243|dakshin_bastar_dantewada|chhattisgarh",
+        "263|dhamtari|chhattisgarh",
+        "539|nabarangapur|odisha",
+        "555|narayanpur|chhattisgarh",
+        "771|uttar_bastar_kanker|chhattisgarh"
+    ],
+    "455|koppal|karnataka": [
+        "138|bagalkote|karnataka",
+        "146|ballari|karnataka",
+        "305|gadag|karnataka",
+        "620|raichur|karnataka"
+    ],
+    "456|koraput|odisha": [
+        "168|bastar|chhattisgarh",
+        "398|kalahandi|odisha",
+        "508|malkangiri|odisha",
+        "539|nabarangapur|odisha",
+        "640|rayagada|odisha",
+        "785|visakhapatnam|andhra_pradesh",
+        "786|vizianagaram|andhra_pradesh"
+    ],
+    "457|korba|chhattisgarh": [
+        "194|bilaspur|chhattisgarh",
+        "375|janjgir_champa|chhattisgarh",
+        "458|koriya|chhattisgarh",
+        "622|raigarh|chhattisgarh",
+        "727|surajpur|chhattisgarh",
+        "730|surguja|chhattisgarh"
+    ],
+    "458|koriya|chhattisgarh": [
+        "127|anuppur|madhya_pradesh",
+        "194|bilaspur|chhattisgarh",
+        "457|korba|chhattisgarh",
+        "675|shahdol|madhya_pradesh",
+        "692|sidhi|madhya_pradesh",
+        "696|singrauli|madhya_pradesh",
+        "727|surajpur|chhattisgarh"
+    ],
+    "459|kota|rajasthan": [
+        "161|baran|rajasthan",
+        "207|bundi|rajasthan",
+        "234|chittorgarh|rajasthan",
+        "382|jhalawar|rajasthan",
+        "513|mandsaur|madhya_pradesh",
+        "670|sawai_madhopur|rajasthan",
+        "682|sheopur|madhya_pradesh"
+    ],
+    "460|kottayam|kerala": [
+        "109|alappuzha|kerala",
+        "292|ernakulam|kerala",
+        "354|idukki|kerala",
+        "592|pathanamthitta|kerala"
+    ],
+    "461|kozhikode|kerala": [
+        "411|kannur|kerala",
+        "500|mahe|puducherry",
+        "506|malappuram|kerala",
+        "792|wayanad|kerala"
+    ],
+    "462|kra_daadi|arunachal_pradesh": [
+        "403|kamle|arunachal_pradesh",
+        "470|kurung_kumey|arunachal_pradesh",
+        "489|lower_subansiri|arunachal_pradesh",
+        "587|papum_pare|arunachal_pradesh",
+        "770|upper_subansiri|arunachal_pradesh"
+    ],
+    "463|krishna|andhra_pradesh": [
+        "330|guntur|andhra_pradesh",
+        "433|khammam|telangana",
+        "731|suryapet|telangana",
+        "795|west_godavari|andhra_pradesh"
+    ],
+    "464|krishnagiri|tamil_nadu": [
+        "174|bengaluru_rural|karnataka",
+        "175|bengaluru_urban|karnataka",
+        "211|chamarajanagara|karnataka",
+        "233|chittoor|andhra_pradesh",
+        "266|dharmapuri|tamil_nadu",
+        "448|kolar|karnataka",
+        "631|ramanagara|karnataka",
+        "753|tiruvannamalai|tamil_nadu",
+        "779|vellore|tamil_nadu"
+    ],
+    "465|kulgam|jammu_and_kashmir": [
+        "124|anantnag|jammu_and_kashmir",
+        "204|budgam|jammu_and_kashmir",
+        "612|punch|jammu_and_kashmir",
+        "629|rajouri|jammu_and_kashmir",
+        "633|ramban|jammu_and_kashmir",
+        "641|reasi|jammu_and_kashmir",
+        "687|shopiyan|jammu_and_kashmir"
+    ],
+    "466|kullu|himachal_pradesh": [
+        "409|kangra|himachal_pradesh",
+        "440|kinnaur|himachal_pradesh",
+        "473|lahaul_and_spiti|himachal_pradesh",
+        "511|mandi|himachal_pradesh",
+        "684|shimla|himachal_pradesh"
+    ],
+    "467|kupwara|jammu_and_kashmir": [
+        "155|bandipora|jammu_and_kashmir",
+        "160|baramulla|jammu_and_kashmir"
+    ],
+    "468|kurnool|andhra_pradesh": [
+        "123|anantapur|andhra_pradesh",
+        "146|ballari|karnataka",
+        "390|jogulamba_gadwal|telangana",
+        "543|nagarkurnool|telangana",
+        "605|prakasam|andhra_pradesh",
+        "620|raichur|karnataka",
+        "787|wanaparthy|telangana",
+        "805|y.s.r._kadapa|andhra_pradesh"
+    ],
+    "469|kurukshetra|haryana": [
+        "115|ambala|haryana",
+        "395|kaithal|haryana",
+        "422|karnal|haryana",
+        "594|patiala|punjab",
+        "808|yamunanagar|haryana"
+    ],
+    "470|kurung_kumey|arunachal_pradesh": [
+        "287|east_kameng|arunachal_pradesh",
+        "462|kra_daadi|arunachal_pradesh",
+        "587|papum_pare|arunachal_pradesh",
+        "770|upper_subansiri|arunachal_pradesh"
+    ],
+    "471|kushinagar|uttar_pradesh": [
+        "259|deoria|uttar_pradesh",
+        "326|gopalganj|bihar",
+        "327|gorakhpur|uttar_pradesh",
+        "498|maharajganj|uttar_pradesh",
+        "793|west_champaran|bihar"
+    ],
+    "472|kutch|gujarat": [
+        "153|banaskantha|gujarat",
+        "164|barmer|rajasthan",
+        "368|jalore|rajasthan",
+        "528|morbi|gujarat",
+        "591|patan|gujarat",
+        "729|surendranagar|gujarat"
+    ],
+    "473|lahaul_and_spiti|himachal_pradesh": [
+        "212|chamba|himachal_pradesh",
+        "409|kangra|himachal_pradesh",
+        "419|kargil|ladakh",
+        "440|kinnaur|himachal_pradesh",
+        "443|kishtwar|jammu_and_kashmir",
+        "466|kullu|himachal_pradesh",
+        "481|leh|ladakh"
+    ],
+    "474|lakhimpur|assam": [
+        "198|biswanath|assam",
+        "268|dhemaji|assam",
+        "273|dibrugarh|assam",
+        "322|golaghat|assam",
+        "403|kamle|arunachal_pradesh",
+        "505|majuli|assam",
+        "587|papum_pare|arunachal_pradesh"
+    ],
+    "475|lakhimpur_kheri|uttar_pradesh": [
+        "141|bahraich|uttar_pradesh",
+        "340|hardoi|uttar_pradesh",
+        "602|pilibhit|uttar_pradesh",
+        "677|shahjahanpur|uttar_pradesh",
+        "702|sitapur|uttar_pradesh"
+    ],
+    "476|lakhisarai|bihar": [
+        "172|begusarai|bihar",
+        "373|jamui|bihar",
+        "534|munger|bihar",
+        "547|nalanda|bihar",
+        "595|patna|bihar",
+        "680|sheikhpura|bihar"
+    ],
+    "477|lalitpur|uttar_pradesh": [
+        "132|ashoknagar|madhya_pradesh",
+        "225|chhatarpur|madhya_pradesh",
+        "252|datia|madhya_pradesh",
+        "383|jhansi|uttar_pradesh",
+        "565|niwari|madhya_pradesh",
+        "652|sagar|madhya_pradesh",
+        "686|shivpuri|madhya_pradesh",
+        "747|tikamgarh|madhya_pradesh"
+    ],
+    "478|latehar|jharkhand": [
+        "150|balrampur|chhattisgarh",
+        "223|chatra|jharkhand",
+        "312|garhwa|jharkhand",
+        "328|gumla|jharkhand",
+        "483|lohardaga|jharkhand",
+        "579|palamu|jharkhand",
+        "636|ranchi|jharkhand"
+    ],
+    "479|latur|maharashtra": [
+        "171|beed|maharashtra",
+        "190|bidar|karnataka",
+        "552|nanded|maharashtra",
+        "575|osmanabad|maharashtra",
+        "588|parbhani|maharashtra"
+    ],
+    "480|lawngtlai|mizoram": [
+        "492|lunglei|mizoram",
+        "656|saiha|mizoram"
+    ],
+    "481|leh|ladakh": [
+        "419|kargil|ladakh",
+        "473|lahaul_and_spiti|himachal_pradesh"
+    ],
+    "482|lepa_rada|arunachal_pradesh": [
+        "488|lower_siang|arunachal_pradesh",
+        "770|upper_subansiri|arunachal_pradesh",
+        "800|west_siang|arunachal_pradesh"
+    ],
+    "483|lohardaga|jharkhand": [
+        "328|gumla|jharkhand",
+        "478|latehar|jharkhand",
+        "636|ranchi|jharkhand"
+    ],
+    "484|lohit|arunachal_pradesh": [
+        "126|anjaw|arunachal_pradesh",
+        "220|changlang|arunachal_pradesh",
+        "487|lower_dibang_valley|arunachal_pradesh",
+        "551|namsai|arunachal_pradesh",
+        "748|tinsukia|assam"
+    ],
+    "485|longding|arunachal_pradesh": [
+        "221|charaideo|assam",
+        "273|dibrugarh|assam",
+        "526|mon|nagaland",
+        "749|tirap|arunachal_pradesh"
+    ],
+    "486|longleng|nagaland": [
+        "525|mokokchung|nagaland",
+        "526|mon|nagaland",
+        "704|sivasagar|assam",
+        "755|tuensang|nagaland"
+    ],
+    "487|lower_dibang_valley|arunachal_pradesh": [
+        "268|dhemaji|assam",
+        "289|east_siang|arunachal_pradesh",
+        "484|lohit|arunachal_pradesh",
+        "748|tinsukia|assam",
+        "768|upper_dibang_valley|arunachal_pradesh",
+        "769|upper_siang|arunachal_pradesh"
+    ],
+    "488|lower_siang|arunachal_pradesh": [
+        "268|dhemaji|assam",
+        "289|east_siang|arunachal_pradesh",
+        "403|kamle|arunachal_pradesh",
+        "482|lepa_rada|arunachal_pradesh",
+        "689|siang|arunachal_pradesh",
+        "770|upper_subansiri|arunachal_pradesh",
+        "800|west_siang|arunachal_pradesh"
+    ],
+    "489|lower_subansiri|arunachal_pradesh": [
+        "403|kamle|arunachal_pradesh",
+        "462|kra_daadi|arunachal_pradesh",
+        "587|papum_pare|arunachal_pradesh"
+    ],
+    "490|lucknow|uttar_pradesh": [
+        "159|barabanki|uttar_pradesh",
+        "340|hardoi|uttar_pradesh",
+        "619|rae_bareli|uttar_pradesh",
+        "702|sitapur|uttar_pradesh",
+        "766|unnao|uttar_pradesh"
+    ],
+    "491|ludhiana|punjab": [
+        "165|barnala|punjab",
+        "300|fatehgarh_sahib|punjab",
+        "364|jalandhar|punjab",
+        "524|moga|punjab",
+        "648|rupnagar|punjab",
+        "664|sangrur|punjab",
+        "676|shahid_bhagat_singh_nagar|punjab"
+    ],
+    "492|lunglei|mizoram": [
+        "106|aizawl|mizoram",
+        "480|lawngtlai|mizoram",
+        "509|mamit|mizoram",
+        "674|serchhip|mizoram"
+    ],
+    "493|madhepura|bihar": [
+        "128|araria|bihar",
+        "180|bhagalpur|bihar",
+        "432|khagaria|bihar",
+        "617|purnia|bihar",
+        "654|saharsa|bihar",
+        "726|supaul|bihar"
+    ],
+    "494|madhubani|bihar": [
+        "249|darbhanga|bihar",
+        "654|saharsa|bihar",
+        "701|sitamarhi|bihar",
+        "726|supaul|bihar"
+    ],
+    "495|madurai|tamil_nadu": [
+        "276|dindigul|tamil_nadu",
+        "703|sivaganga|tamil_nadu",
+        "740|theni|tamil_nadu",
+        "750|tiruchirappalli|tamil_nadu",
+        "784|virudhunagar|tamil_nadu"
+    ],
+    "496|mahabubabad|telangana": [
+        "178|bhadradri_kothagudem|telangana",
+        "374|jangaon|telangana",
+        "433|khammam|telangana",
+        "531|mulugu|telangana",
+        "731|suryapet|telangana",
+        "788|warangal_rural|telangana"
+    ],
+    "497|mahabubnagar|telangana": [
+        "543|nagarkurnool|telangana",
+        "554|narayanpet|telangana",
+        "637|ranga_reddy|telangana",
+        "782|vikarabad|telangana",
+        "787|wanaparthy|telangana"
+    ],
+    "498|maharajganj|uttar_pradesh": [
+        "327|gorakhpur|uttar_pradesh",
+        "471|kushinagar|uttar_pradesh",
+        "690|siddharthnagar|uttar_pradesh",
+        "793|west_champaran|bihar"
+    ],
+    "499|mahasamund|chhattisgarh": [
+        "149|baloda_bazar|chhattisgarh",
+        "163|bargarh|odisha",
+        "313|gariaband|chhattisgarh",
+        "573|nuapada|odisha",
+        "622|raigarh|chhattisgarh",
+        "623|raipur|chhattisgarh"
+    ],
+    "500|mahe|puducherry": [
+        "411|kannur|kerala",
+        "461|kozhikode|kerala"
+    ],
+    "501|mahendragarh|haryana": [
+        "114|alwar|rajasthan",
+        "187|bhiwani|haryana",
+        "222|charkhi_dadri|haryana",
+        "361|jaipur|rajasthan",
+        "381|jhajjar|haryana",
+        "386|jhunjhunu|rajasthan",
+        "643|rewari|haryana",
+        "693|sikar|rajasthan"
+    ],
+    "502|mahisagar|gujarat": [
+        "129|aravalli|gujarat",
+        "158|banswara|rajasthan",
+        "242|dahod|gujarat",
+        "281|dungarpur|rajasthan",
+        "436|kheda|gujarat",
+        "584|panchmahal|gujarat"
+    ],
+    "503|mahoba|uttar_pradesh": [
+        "154|banda|uttar_pradesh",
+        "225|chhatarpur|madhya_pradesh",
+        "335|hamirpur|uttar_pradesh",
+        "383|jhansi|uttar_pradesh"
+    ],
+    "504|mainpuri|uttar_pradesh": [
+        "294|etah|uttar_pradesh",
+        "295|etawah|uttar_pradesh",
+        "298|farrukhabad|uttar_pradesh",
+        "304|firozabad|uttar_pradesh",
+        "410|kannauj|uttar_pradesh"
+    ],
+    "505|majuli|assam": [
+        "273|dibrugarh|assam",
+        "322|golaghat|assam",
+        "391|jorhat|assam",
+        "474|lakhimpur|assam",
+        "704|sivasagar|assam"
+    ],
+    "506|malappuram|kerala": [
+        "461|kozhikode|kerala",
+        "563|nilgiris|tamil_nadu",
+        "578|palakkad|kerala",
+        "746|thrissur|kerala",
+        "792|wayanad|kerala"
+    ],
+    "507|malda|west_bengal": [
+        "244|dakshin_dinajpur|west_bengal",
+        "427|katihar|bihar",
+        "535|murshidabad|west_bengal",
+        "655|sahibganj|jharkhand",
+        "772|uttar_dinajpur|west_bengal"
+    ],
+    "508|malkangiri|odisha": [
+        "168|bastar|chhattisgarh",
+        "285|east_godavari|andhra_pradesh",
+        "456|koraput|odisha",
+        "723|sukma|chhattisgarh",
+        "785|visakhapatnam|andhra_pradesh"
+    ],
+    "509|mamit|mizoram": [
+        "106|aizawl|mizoram",
+        "334|hailakandi|assam",
+        "420|karimganj|assam",
+        "449|kolasib|mizoram",
+        "492|lunglei|mizoram",
+        "572|north_tripura|tripura"
+    ],
+    "510|mancherial|telangana": [
+        "306|gadchiroli|maharashtra",
+        "360|jagtial|telangana",
+        "378|jayashankar_bhupalapally|telangana",
+        "453|komaram_bheem|telangana",
+        "564|nirmal|telangana",
+        "597|peddapalli|telangana"
+    ],
+    "511|mandi|himachal_pradesh": [
+        "195|bilaspur|himachal_pradesh",
+        "336|hamirpur|himachal_pradesh",
+        "409|kangra|himachal_pradesh",
+        "466|kullu|himachal_pradesh",
+        "684|shimla|himachal_pradesh",
+        "706|solan|himachal_pradesh"
+    ],
+    "512|mandla|madhya_pradesh": [
+        "143|balaghat|madhya_pradesh",
+        "277|dindori|madhya_pradesh",
+        "358|jabalpur|madhya_pradesh",
+        "393|kabeerdham|chhattisgarh",
+        "673|seoni|madhya_pradesh"
+    ],
+    "513|mandsaur|madhya_pradesh": [
+        "234|chittorgarh|rajasthan",
+        "382|jhalawar|rajasthan",
+        "459|kota|rajasthan",
+        "562|neemuch|madhya_pradesh",
+        "607|pratapgarh|rajasthan",
+        "638|ratlam|madhya_pradesh"
+    ],
+    "514|mandya|karnataka": [
+        "211|chamarajanagara|karnataka",
+        "342|hassan|karnataka",
+        "538|mysuru|karnataka",
+        "631|ramanagara|karnataka",
+        "756|tumakuru|karnataka"
+    ],
+    "515|mansa|punjab": [
+        "165|barnala|punjab",
+        "170|bathinda|punjab",
+        "299|fatehabad|haryana",
+        "664|sangrur|punjab",
+        "700|sirsa|haryana"
+    ],
+    "516|mathura|uttar_pradesh": [
+        "103|agra|uttar_pradesh",
+        "110|aligarh|uttar_pradesh",
+        "182|bharatpur|rajasthan",
+        "343|hathras|uttar_pradesh",
+        "574|nuh|haryana",
+        "582|palwal|haryana"
+    ],
+    "517|mau|uttar_pradesh": [
+        "137|azamgarh|uttar_pradesh",
+        "147|ballia|uttar_pradesh",
+        "259|deoria|uttar_pradesh",
+        "317|ghazipur|uttar_pradesh",
+        "327|gorakhpur|uttar_pradesh"
+    ],
+    "518|mayurbhanj|odisha": [
+        "145|balasore|odisha",
+        "291|east_singhbhum|jharkhand",
+        "384|jhargram|west_bengal",
+        "431|kendujhar|odisha",
+        "666|saraikela-kharsawan|jharkhand",
+        "802|west_singhbhum|jharkhand"
+    ],
+    "519|medak|telangana": [
+        "401|kamareddy|telangana",
+        "520|medchal_malkajgiri|telangana",
+        "662|sangareddy|telangana",
+        "691|siddipet|telangana"
+    ],
+    "520|medchal_malkajgiri|telangana": [
+        "353|hyderabad|telangana",
+        "519|medak|telangana",
+        "637|ranga_reddy|telangana",
+        "662|sangareddy|telangana",
+        "691|siddipet|telangana",
+        "806|yadadri_bhuvanagiri|telangana"
+    ],
+    "521|meerut|uttar_pradesh": [
+        "121|amroha|uttar_pradesh",
+        "140|baghpat|uttar_pradesh",
+        "192|bijnor|uttar_pradesh",
+        "316|ghaziabad|uttar_pradesh",
+        "338|hapur|uttar_pradesh",
+        "536|muzaffarnagar|uttar_pradesh"
+    ],
+    "522|mehsana|gujarat": [
+        "104|ahmedabad|gujarat",
+        "153|banaskantha|gujarat",
+        "309|gandhinagar|gujarat",
+        "591|patan|gujarat",
+        "651|sabarkantha|gujarat",
+        "729|surendranagar|gujarat"
+    ],
+    "523|mirzapur|uttar_pradesh": [
+        "177|bhadohi|uttar_pradesh",
+        "216|chandauli|uttar_pradesh",
+        "608|prayagraj|uttar_pradesh",
+        "642|rewa|madhya_pradesh",
+        "696|singrauli|madhya_pradesh",
+        "708|sonbhadra|uttar_pradesh",
+        "778|varanasi|uttar_pradesh"
+    ],
+    "524|moga|punjab": [
+        "165|barnala|punjab",
+        "170|bathinda|punjab",
+        "297|faridkot|punjab",
+        "303|ferozepur|punjab",
+        "364|jalandhar|punjab",
+        "491|ludhiana|punjab"
+    ],
+    "525|mokokchung|nagaland": [
+        "391|jorhat|assam",
+        "486|longleng|nagaland",
+        "704|sivasagar|assam",
+        "755|tuensang|nagaland",
+        "804|wokha|nagaland",
+        "810|zunheboto|nagaland"
+    ],
+    "526|mon|nagaland": [
+        "221|charaideo|assam",
+        "485|longding|arunachal_pradesh",
+        "486|longleng|nagaland",
+        "704|sivasagar|assam",
+        "755|tuensang|nagaland"
+    ],
+    "527|moradabad|uttar_pradesh": [
+        "121|amroha|uttar_pradesh",
+        "192|bijnor|uttar_pradesh",
+        "203|budaun|uttar_pradesh",
+        "635|rampur|uttar_pradesh",
+        "661|sambhal|uttar_pradesh",
+        "759|udham_singh_nagar|uttarakhand"
+    ],
+    "528|morbi|gujarat": [
+        "371|jamnagar|gujarat",
+        "472|kutch|gujarat",
+        "627|rajkot|gujarat",
+        "729|surendranagar|gujarat"
+    ],
+    "529|morena|madhya_pradesh": [
+        "103|agra|uttar_pradesh",
+        "186|bhind|madhya_pradesh",
+        "270|dholpur|rajasthan",
+        "333|gwalior|madhya_pradesh",
+        "417|karauli|rajasthan",
+        "682|sheopur|madhya_pradesh",
+        "686|shivpuri|madhya_pradesh"
+    ],
+    "530|morigaon|assam": [
+        "251|darrang|assam",
+        "405|kamrup_metropolitan|assam",
+        "541|nagaon|assam",
+        "644|ribhoi|meghalaya",
+        "710|sonitpur|assam",
+        "798|west_karbi_anglong|assam"
+    ],
+    "531|mulugu|telangana": [
+        "178|bhadradri_kothagudem|telangana",
+        "191|bijapur|chhattisgarh",
+        "378|jayashankar_bhupalapally|telangana",
+        "496|mahabubabad|telangana",
+        "788|warangal_rural|telangana"
+    ],
+    "532|mumbai|maharashtra": [
+        "738|thane|maharashtra"
+    ],
+    "533|mungeli|chhattisgarh": [
+        "127|anuppur|madhya_pradesh",
+        "149|baloda_bazar|chhattisgarh",
+        "152|bametara|chhattisgarh",
+        "194|bilaspur|chhattisgarh",
+        "277|dindori|madhya_pradesh",
+        "393|kabeerdham|chhattisgarh"
+    ],
+    "534|munger|bihar": [
+        "156|banka|bihar",
+        "172|begusarai|bihar",
+        "180|bhagalpur|bihar",
+        "373|jamui|bihar",
+        "432|khagaria|bihar",
+        "476|lakhisarai|bihar"
+    ],
+    "535|murshidabad|west_bengal": [
+        "196|birbhum|west_bengal",
+        "507|malda|west_bengal",
+        "540|nadia|west_bengal",
+        "577|pakur|jharkhand",
+        "614|purba_bardhaman|west_bengal",
+        "655|sahibganj|jharkhand"
+    ],
+    "536|muzaffarnagar|uttar_pradesh": [
+        "140|baghpat|uttar_pradesh",
+        "192|bijnor|uttar_pradesh",
+        "341|haridwar|uttarakhand",
+        "521|meerut|uttar_pradesh",
+        "653|saharanpur|uttar_pradesh",
+        "679|shamli|uttar_pradesh"
+    ],
+    "537|muzaffarpur|bihar": [
+        "249|darbhanga|bihar",
+        "283|east_champaran|bihar",
+        "326|gopalganj|bihar",
+        "658|samastipur|bihar",
+        "667|saran|bihar",
+        "681|sheohar|bihar",
+        "701|sitamarhi|bihar",
+        "776|vaishali|bihar"
+    ],
+    "538|mysuru|karnataka": [
+        "211|chamarajanagara|karnataka",
+        "342|hassan|karnataka",
+        "444|kodagu|karnataka",
+        "514|mandya|karnataka",
+        "792|wayanad|kerala"
+    ],
+    "539|nabarangapur|odisha": [
+        "168|bastar|chhattisgarh",
+        "263|dhamtari|chhattisgarh",
+        "313|gariaband|chhattisgarh",
+        "398|kalahandi|odisha",
+        "454|kondagaon|chhattisgarh",
+        "456|koraput|odisha"
+    ],
+    "540|nadia|west_bengal": [
+        "349|hooghly|west_bengal",
+        "535|murshidabad|west_bengal",
+        "568|north_24_parganas|west_bengal",
+        "614|purba_bardhaman|west_bengal"
+    ],
+    "541|nagaon|assam": [
+        "198|biswanath|assam",
+        "322|golaghat|assam",
+        "348|hojai|assam",
+        "418|karbi_anglong|assam",
+        "530|morigaon|assam",
+        "710|sonitpur|assam",
+        "798|west_karbi_anglong|assam"
+    ],
+    "542|nagapattinam|tamil_nadu": [
+        "239|cuddalore|tamil_nadu",
+        "416|karaikal|puducherry",
+        "739|thanjavur|tamil_nadu",
+        "743|thiruvarur|tamil_nadu"
+    ],
+    "543|nagarkurnool|telangana": [
+        "330|guntur|andhra_pradesh",
+        "468|kurnool|andhra_pradesh",
+        "497|mahabubnagar|telangana",
+        "549|nalgonda|telangana",
+        "605|prakasam|andhra_pradesh",
+        "637|ranga_reddy|telangana",
+        "787|wanaparthy|telangana"
+    ],
+    "544|nagaur|rajasthan": [
+        "107|ajmer|rajasthan",
+        "193|bikaner|rajasthan",
+        "236|churu|rajasthan",
+        "361|jaipur|rajasthan",
+        "389|jodhpur|rajasthan",
+        "581|pali|rajasthan",
+        "693|sikar|rajasthan"
+    ],
+    "545|nagpur|maharashtra": [
+        "118|amravati|maharashtra",
+        "143|balaghat|madhya_pradesh",
+        "181|bhandara|maharashtra",
+        "219|chandrapur|maharashtra",
+        "226|chhindwara|madhya_pradesh",
+        "673|seoni|madhya_pradesh",
+        "790|wardha|maharashtra"
+    ],
+    "546|nainital|uttarakhand": [
+        "113|almora|uttarakhand",
+        "192|bijnor|uttar_pradesh",
+        "214|champawat|uttarakhand",
+        "596|pauri_garhwal|uttarakhand",
+        "759|udham_singh_nagar|uttarakhand"
+    ],
+    "547|nalanda|bihar": [
+        "315|gaya|bihar",
+        "379|jehanabad|bihar",
+        "476|lakhisarai|bihar",
+        "560|nawada|bihar",
+        "595|patna|bihar",
+        "680|sheikhpura|bihar"
+    ],
+    "548|nalbari|assam": [
+        "142|baksa|assam",
+        "166|barpeta|assam",
+        "404|kamrup|assam"
+    ],
+    "549|nalgonda|telangana": [
+        "330|guntur|andhra_pradesh",
+        "543|nagarkurnool|telangana",
+        "637|ranga_reddy|telangana",
+        "731|suryapet|telangana",
+        "806|yadadri_bhuvanagiri|telangana"
+    ],
+    "550|namakkal|tamil_nadu": [
+        "293|erode|tamil_nadu",
+        "423|karur|tamil_nadu",
+        "657|salem|tamil_nadu",
+        "750|tiruchirappalli|tamil_nadu"
+    ],
+    "551|namsai|arunachal_pradesh": [
+        "220|changlang|arunachal_pradesh",
+        "484|lohit|arunachal_pradesh",
+        "748|tinsukia|assam"
+    ],
+    "552|nanded|maharashtra": [
+        "101|adilabad|telangana",
+        "190|bidar|karnataka",
+        "346|hingoli|maharashtra",
+        "401|kamareddy|telangana",
+        "479|latur|maharashtra",
+        "564|nirmal|telangana",
+        "566|nizamabad|telangana",
+        "588|parbhani|maharashtra",
+        "809|yavatmal|maharashtra"
+    ],
+    "553|nandurbar|maharashtra": [
+        "112|alirajpur|madhya_pradesh",
+        "167|barwani|madhya_pradesh",
+        "227|chhota_udaipur|gujarat",
+        "272|dhule|maharashtra",
+        "556|narmada|gujarat",
+        "733|tapi|gujarat"
+    ],
+    "554|narayanpet|telangana": [
+        "390|jogulamba_gadwal|telangana",
+        "397|kalaburagi|karnataka",
+        "497|mahabubnagar|telangana",
+        "620|raichur|karnataka",
+        "782|vikarabad|telangana",
+        "787|wanaparthy|telangana",
+        "807|yadgir|karnataka"
+    ],
+    "555|narayanpur|chhattisgarh": [
+        "191|bijapur|chhattisgarh",
+        "243|dakshin_bastar_dantewada|chhattisgarh",
+        "306|gadchiroli|maharashtra",
+        "454|kondagaon|chhattisgarh",
+        "771|uttar_bastar_kanker|chhattisgarh"
+    ],
+    "556|narmada|gujarat": [
+        "183|bharuch|gujarat",
+        "227|chhota_udaipur|gujarat",
+        "553|nandurbar|maharashtra",
+        "728|surat|gujarat",
+        "733|tapi|gujarat",
+        "775|vadodara|gujarat"
+    ],
+    "557|narsinghpur|madhya_pradesh": [
+        "226|chhindwara|madhya_pradesh",
+        "247|damoh|madhya_pradesh",
+        "350|hoshangabad|madhya_pradesh",
+        "358|jabalpur|madhya_pradesh",
+        "624|raisen|madhya_pradesh",
+        "652|sagar|madhya_pradesh",
+        "673|seoni|madhya_pradesh"
+    ],
+    "558|nashik|maharashtra": [
+        "105|ahmednagar|maharashtra",
+        "135|aurangabad|maharashtra",
+        "248|dang|gujarat",
+        "272|dhule|maharashtra",
+        "366|jalgaon|maharashtra",
+        "559|navsari|gujarat",
+        "580|palghar|maharashtra",
+        "738|thane|maharashtra",
+        "777|valsad|gujarat"
+    ],
+    "559|navsari|gujarat": [
+        "248|dang|gujarat",
+        "558|nashik|maharashtra",
+        "728|surat|gujarat",
+        "733|tapi|gujarat",
+        "777|valsad|gujarat"
+    ],
+    "560|nawada|bihar": [
+        "315|gaya|bihar",
+        "319|giridih|jharkhand",
+        "373|jamui|bihar",
+        "445|koderma|jharkhand",
+        "547|nalanda|bihar",
+        "680|sheikhpura|bihar"
+    ],
+    "561|nayagarh|odisha": [
+        "125|angul|odisha",
+        "202|boudh|odisha",
+        "240|cuttack|odisha",
+        "311|ganjam|odisha",
+        "407|kandhamal|odisha",
+        "437|khordha|odisha"
+    ],
+    "562|neemuch|madhya_pradesh": [
+        "185|bhilwara|rajasthan",
+        "234|chittorgarh|rajasthan",
+        "513|mandsaur|madhya_pradesh",
+        "607|pratapgarh|rajasthan"
+    ],
+    "563|nilgiris|tamil_nadu": [
+        "211|chamarajanagara|karnataka",
+        "237|coimbatore|tamil_nadu",
+        "293|erode|tamil_nadu",
+        "506|malappuram|kerala",
+        "578|palakkad|kerala",
+        "792|wayanad|kerala"
+    ],
+    "564|nirmal|telangana": [
+        "101|adilabad|telangana",
+        "360|jagtial|telangana",
+        "453|komaram_bheem|telangana",
+        "510|mancherial|telangana",
+        "552|nanded|maharashtra",
+        "566|nizamabad|telangana"
+    ],
+    "565|niwari|madhya_pradesh": [
+        "383|jhansi|uttar_pradesh",
+        "477|lalitpur|uttar_pradesh",
+        "747|tikamgarh|madhya_pradesh"
+    ],
+    "566|nizamabad|telangana": [
+        "360|jagtial|telangana",
+        "401|kamareddy|telangana",
+        "552|nanded|maharashtra",
+        "564|nirmal|telangana",
+        "625|rajanna_sircilla|telangana"
+    ],
+    "567|noney|manipur": [
+        "197|bishnupur|manipur",
+        "235|churachandpur|manipur",
+        "388|jiribam|manipur",
+        "408|kangpokpi|manipur",
+        "601|pherzawl|manipur",
+        "732|tamenglong|manipur"
+    ],
+    "568|north_24_parganas|west_bengal": [
+        "349|hooghly|west_bengal",
+        "352|howrah|west_bengal",
+        "451|kolkata|west_bengal",
+        "540|nadia|west_bengal",
+        "711|south_24_parganas|west_bengal"
+    ],
+    "569|north_garo_hills|meghalaya": [
+        "284|east_garo_hills|meghalaya",
+        "320|goalpara|assam",
+        "404|kamrup|assam",
+        "714|south_salmara_mankachar|assam",
+        "794|west_garo_hills|meghalaya",
+        "799|west_khasi_hills|meghalaya"
+    ],
+    "570|north_goa|goa": [
+        "173|belagavi|karnataka",
+        "695|sindhudurg|maharashtra",
+        "713|south_goa|goa",
+        "773|uttara_kannada|karnataka"
+    ],
+    "571|north_sikkim|sikkim": [
+        "290|east_sikkim|sikkim",
+        "715|south_sikkim|sikkim",
+        "801|west_sikkim|sikkim"
+    ],
+    "572|north_tripura|tripura": [
+        "262|dhalai|tripura",
+        "420|karimganj|assam",
+        "509|mamit|mizoram",
+        "767|unokoti|tripura"
+    ],
+    "573|nuapada|odisha": [
+        "144|balangir|odisha",
+        "163|bargarh|odisha",
+        "313|gariaband|chhattisgarh",
+        "398|kalahandi|odisha",
+        "499|mahasamund|chhattisgarh"
+    ],
+    "574|nuh|haryana": [
+        "114|alwar|rajasthan",
+        "182|bharatpur|rajasthan",
+        "332|gurugram|haryana",
+        "516|mathura|uttar_pradesh",
+        "582|palwal|haryana",
+        "643|rewari|haryana"
+    ],
+    "575|osmanabad|maharashtra": [
+        "105|ahmednagar|maharashtra",
+        "171|beed|maharashtra",
+        "190|bidar|karnataka",
+        "397|kalaburagi|karnataka",
+        "479|latur|maharashtra",
+        "707|solapur|maharashtra"
+    ],
+    "576|pakke_kessang|arunachal_pradesh": [
+        "198|biswanath|assam",
+        "287|east_kameng|arunachal_pradesh",
+        "587|papum_pare|arunachal_pradesh",
+        "710|sonitpur|assam",
+        "797|west_kameng|arunachal_pradesh"
+    ],
+    "577|pakur|jharkhand": [
+        "196|birbhum|west_bengal",
+        "280|dumka|jharkhand",
+        "321|godda|jharkhand",
+        "535|murshidabad|west_bengal",
+        "655|sahibganj|jharkhand"
+    ],
+    "578|palakkad|kerala": [
+        "237|coimbatore|tamil_nadu",
+        "506|malappuram|kerala",
+        "563|nilgiris|tamil_nadu",
+        "746|thrissur|kerala"
+    ],
+    "579|palamu|jharkhand": [
+        "134|aurangabad|bihar",
+        "223|chatra|jharkhand",
+        "312|garhwa|jharkhand",
+        "315|gaya|bihar",
+        "478|latehar|jharkhand",
+        "646|rohtas|bihar"
+    ],
+    "580|palghar|maharashtra": [
+        "241|dadra_and_nagar_haveli|dadra_and_nagar_haveli_and_daman_and_diu",
+        "558|nashik|maharashtra",
+        "738|thane|maharashtra",
+        "777|valsad|gujarat"
+    ],
+    "581|pali|rajasthan": [
+        "107|ajmer|rajasthan",
+        "164|barmer|rajasthan",
+        "368|jalore|rajasthan",
+        "389|jodhpur|rajasthan",
+        "544|nagaur|rajasthan",
+        "630|rajsamand|rajasthan",
+        "699|sirohi|rajasthan",
+        "757|udaipur|rajasthan"
+    ],
+    "582|palwal|haryana": [
+        "110|aligarh|uttar_pradesh",
+        "296|faridabad|haryana",
+        "314|gautam_buddha_nagar|uttar_pradesh",
+        "332|gurugram|haryana",
+        "516|mathura|uttar_pradesh",
+        "574|nuh|haryana"
+    ],
+    "583|panchkula|haryana": [
+        "115|ambala|haryana",
+        "218|chandigarh|chandigarh",
+        "649|s.a.s._nagar|punjab",
+        "698|sirmaur|himachal_pradesh",
+        "706|solan|himachal_pradesh"
+    ],
+    "584|panchmahal|gujarat": [
+        "227|chhota_udaipur|gujarat",
+        "242|dahod|gujarat",
+        "436|kheda|gujarat",
+        "502|mahisagar|gujarat",
+        "775|vadodara|gujarat"
+    ],
+    "585|panipat|haryana": [
+        "140|baghpat|uttar_pradesh",
+        "387|jind|haryana",
+        "422|karnal|haryana",
+        "679|shamli|uttar_pradesh",
+        "709|sonipat|haryana"
+    ],
+    "586|panna|madhya_pradesh": [
+        "154|banda|uttar_pradesh",
+        "225|chhatarpur|madhya_pradesh",
+        "247|damoh|madhya_pradesh",
+        "428|katni|madhya_pradesh",
+        "669|satna|madhya_pradesh"
+    ],
+    "587|papum_pare|arunachal_pradesh": [
+        "198|biswanath|assam",
+        "287|east_kameng|arunachal_pradesh",
+        "403|kamle|arunachal_pradesh",
+        "462|kra_daadi|arunachal_pradesh",
+        "470|kurung_kumey|arunachal_pradesh",
+        "474|lakhimpur|assam",
+        "489|lower_subansiri|arunachal_pradesh",
+        "576|pakke_kessang|arunachal_pradesh"
+    ],
+    "588|parbhani|maharashtra": [
+        "171|beed|maharashtra",
+        "206|buldhana|maharashtra",
+        "346|hingoli|maharashtra",
+        "367|jalna|maharashtra",
+        "479|latur|maharashtra",
+        "552|nanded|maharashtra",
+        "791|washim|maharashtra"
+    ],
+    "589|paschim_bardhaman|west_bengal": [
+        "157|bankura|west_bengal",
+        "196|birbhum|west_bengal",
+        "264|dhanbad|jharkhand",
+        "372|jamtara|jharkhand",
+        "614|purba_bardhaman|west_bengal",
+        "618|purulia|west_bengal"
+    ],
+    "590|paschim_medinipur|west_bengal": [
+        "145|balasore|odisha",
+        "157|bankura|west_bengal",
+        "349|hooghly|west_bengal",
+        "352|howrah|west_bengal",
+        "384|jhargram|west_bengal",
+        "615|purba_medinipur|west_bengal"
+    ],
+    "591|patan|gujarat": [
+        "153|banaskantha|gujarat",
+        "472|kutch|gujarat",
+        "522|mehsana|gujarat",
+        "729|surendranagar|gujarat"
+    ],
+    "592|pathanamthitta|kerala": [
+        "109|alappuzha|kerala",
+        "354|idukki|kerala",
+        "452|kollam|kerala",
+        "460|kottayam|kerala",
+        "751|tirunelveli|tamil_nadu"
+    ],
+    "593|pathankot|punjab": [
+        "212|chamba|himachal_pradesh",
+        "331|gurdaspur|punjab",
+        "409|kangra|himachal_pradesh",
+        "426|kathua|jammu_and_kashmir"
+    ],
+    "594|patiala|punjab": [
+        "115|ambala|haryana",
+        "300|fatehgarh_sahib|punjab",
+        "387|jind|haryana",
+        "395|kaithal|haryana",
+        "469|kurukshetra|haryana",
+        "649|s.a.s._nagar|punjab",
+        "664|sangrur|punjab"
+    ],
+    "595|patna|bihar": [
+        "131|arwal|bihar",
+        "172|begusarai|bihar",
+        "188|bhojpur|bihar",
+        "379|jehanabad|bihar",
+        "476|lakhisarai|bihar",
+        "547|nalanda|bihar",
+        "658|samastipur|bihar",
+        "667|saran|bihar",
+        "776|vaishali|bihar"
+    ],
+    "596|pauri_garhwal|uttarakhand": [
+        "113|almora|uttarakhand",
+        "192|bijnor|uttar_pradesh",
+        "213|chamoli|uttarakhand",
+        "255|dehradun|uttarakhand",
+        "341|haridwar|uttarakhand",
+        "546|nainital|uttarakhand",
+        "647|rudraprayag|uttarakhand",
+        "736|tehri_garhwal|uttarakhand"
+    ],
+    "597|peddapalli|telangana": [
+        "360|jagtial|telangana",
+        "378|jayashankar_bhupalapally|telangana",
+        "421|karimnagar|telangana",
+        "510|mancherial|telangana"
+    ],
+    "598|perambalur|tamil_nadu": [
+        "130|ariyalur|tamil_nadu",
+        "239|cuddalore|tamil_nadu",
+        "400|kallakurichi|tamil_nadu",
+        "657|salem|tamil_nadu",
+        "750|tiruchirappalli|tamil_nadu"
+    ],
+    "599|peren|nagaland": [
+        "274|dima_hasao|assam",
+        "275|dimapur|nagaland",
+        "418|karbi_anglong|assam",
+        "446|kohima|nagaland",
+        "672|senapati|manipur",
+        "732|tamenglong|manipur"
+    ],
+    "600|phek|nagaland": [
+        "441|kiphire|nagaland",
+        "446|kohima|nagaland",
+        "672|senapati|manipur",
+        "763|ukhrul|manipur",
+        "810|zunheboto|nagaland"
+    ],
+    "601|pherzawl|manipur": [
+        "106|aizawl|mizoram",
+        "210|cachar|assam",
+        "215|champhai|mizoram",
+        "235|churachandpur|manipur",
+        "388|jiribam|manipur",
+        "567|noney|manipur"
+    ],
+    "602|pilibhit|uttar_pradesh": [
+        "162|bareilly|uttar_pradesh",
+        "475|lakhimpur_kheri|uttar_pradesh",
+        "677|shahjahanpur|uttar_pradesh",
+        "759|udham_singh_nagar|uttarakhand"
+    ],
+    "603|pithoragarh|uttarakhand": [
+        "113|almora|uttarakhand",
+        "139|bageshwar|uttarakhand",
+        "213|chamoli|uttarakhand",
+        "214|champawat|uttarakhand"
+    ],
+    "604|porbandar|gujarat": [
+        "260|devbhumi_dwarka|gujarat",
+        "371|jamnagar|gujarat",
+        "392|junagadh|gujarat",
+        "627|rajkot|gujarat"
+    ],
+    "605|prakasam|andhra_pradesh": [
+        "330|guntur|andhra_pradesh",
+        "468|kurnool|andhra_pradesh",
+        "543|nagarkurnool|telangana",
+        "650|s.p.s._nellore|andhra_pradesh",
+        "805|y.s.r._kadapa|andhra_pradesh"
+    ],
+    "606|pratapgarh|uttar_pradesh": [
+        "117|amethi|uttar_pradesh",
+        "301|fatehpur|uttar_pradesh",
+        "377|jaunpur|uttar_pradesh",
+        "429|kaushambi|uttar_pradesh",
+        "608|prayagraj|uttar_pradesh",
+        "619|rae_bareli|uttar_pradesh",
+        "724|sultanpur|uttar_pradesh"
+    ],
+    "607|pratapgarh|rajasthan": [
+        "158|banswara|rajasthan",
+        "234|chittorgarh|rajasthan",
+        "281|dungarpur|rajasthan",
+        "513|mandsaur|madhya_pradesh",
+        "562|neemuch|madhya_pradesh",
+        "638|ratlam|madhya_pradesh",
+        "757|udaipur|rajasthan"
+    ],
+    "608|prayagraj|uttar_pradesh": [
+        "177|bhadohi|uttar_pradesh",
+        "232|chitrakoot|uttar_pradesh",
+        "377|jaunpur|uttar_pradesh",
+        "429|kaushambi|uttar_pradesh",
+        "523|mirzapur|uttar_pradesh",
+        "606|pratapgarh|uttar_pradesh",
+        "642|rewa|madhya_pradesh"
+    ],
+    "609|puducherry|puducherry": [
+        "239|cuddalore|tamil_nadu",
+        "783|viluppuram|tamil_nadu"
+    ],
+    "610|pudukkottai|tamil_nadu": [
+        "632|ramanathapuram|tamil_nadu",
+        "703|sivaganga|tamil_nadu",
+        "739|thanjavur|tamil_nadu",
+        "750|tiruchirappalli|tamil_nadu"
+    ],
+    "611|pulwama|jammu_and_kashmir": [
+        "124|anantnag|jammu_and_kashmir",
+        "204|budgam|jammu_and_kashmir",
+        "687|shopiyan|jammu_and_kashmir",
+        "721|srinagar|jammu_and_kashmir"
+    ],
+    "612|punch|jammu_and_kashmir": [
+        "160|baramulla|jammu_and_kashmir",
+        "204|budgam|jammu_and_kashmir",
+        "465|kulgam|jammu_and_kashmir",
+        "629|rajouri|jammu_and_kashmir",
+        "641|reasi|jammu_and_kashmir"
+    ],
+    "613|pune|maharashtra": [
+        "105|ahmednagar|maharashtra",
+        "621|raigad|maharashtra",
+        "668|satara|maharashtra",
+        "707|solapur|maharashtra",
+        "738|thane|maharashtra"
+    ],
+    "614|purba_bardhaman|west_bengal": [
+        "157|bankura|west_bengal",
+        "196|birbhum|west_bengal",
+        "349|hooghly|west_bengal",
+        "535|murshidabad|west_bengal",
+        "540|nadia|west_bengal",
+        "589|paschim_bardhaman|west_bengal"
+    ],
+    "615|purba_medinipur|west_bengal": [
+        "145|balasore|odisha",
+        "352|howrah|west_bengal",
+        "590|paschim_medinipur|west_bengal",
+        "711|south_24_parganas|west_bengal"
+    ],
+    "616|puri|odisha": [
+        "240|cuttack|odisha",
+        "311|ganjam|odisha",
+        "359|jagatsinghpur|odisha",
+        "437|khordha|odisha"
+    ],
+    "617|purnia|bihar": [
+        "128|araria|bihar",
+        "180|bhagalpur|bihar",
+        "427|katihar|bihar",
+        "442|kishanganj|bihar",
+        "493|madhepura|bihar",
+        "772|uttar_dinajpur|west_bengal"
+    ],
+    "618|purulia|west_bengal": [
+        "157|bankura|west_bengal",
+        "199|bokaro|jharkhand",
+        "264|dhanbad|jharkhand",
+        "291|east_singhbhum|jharkhand",
+        "384|jhargram|west_bengal",
+        "589|paschim_bardhaman|west_bengal",
+        "634|ramgarh|jharkhand",
+        "636|ranchi|jharkhand",
+        "666|saraikela-kharsawan|jharkhand"
+    ],
+    "619|rae_bareli|uttar_pradesh": [
+        "117|amethi|uttar_pradesh",
+        "159|barabanki|uttar_pradesh",
+        "301|fatehpur|uttar_pradesh",
+        "429|kaushambi|uttar_pradesh",
+        "490|lucknow|uttar_pradesh",
+        "606|pratapgarh|uttar_pradesh",
+        "766|unnao|uttar_pradesh"
+    ],
+    "620|raichur|karnataka": [
+        "138|bagalkote|karnataka",
+        "146|ballari|karnataka",
+        "390|jogulamba_gadwal|telangana",
+        "455|koppal|karnataka",
+        "468|kurnool|andhra_pradesh",
+        "554|narayanpet|telangana",
+        "781|vijayapura|karnataka",
+        "807|yadgir|karnataka"
+    ],
+    "621|raigad|maharashtra": [
+        "613|pune|maharashtra",
+        "639|ratnagiri|maharashtra",
+        "668|satara|maharashtra",
+        "738|thane|maharashtra"
+    ],
+    "622|raigarh|chhattisgarh": [
+        "149|baloda_bazar|chhattisgarh",
+        "163|bargarh|odisha",
+        "375|janjgir_champa|chhattisgarh",
+        "376|jashpur|chhattisgarh",
+        "385|jharsuguda|odisha",
+        "457|korba|chhattisgarh",
+        "499|mahasamund|chhattisgarh",
+        "725|sundargarh|odisha",
+        "730|surguja|chhattisgarh"
+    ],
+    "623|raipur|chhattisgarh": [
+        "149|baloda_bazar|chhattisgarh",
+        "152|bametara|chhattisgarh",
+        "263|dhamtari|chhattisgarh",
+        "282|durg|chhattisgarh",
+        "313|gariaband|chhattisgarh",
+        "499|mahasamund|chhattisgarh"
+    ],
+    "624|raisen|madhya_pradesh": [
+        "189|bhopal|madhya_pradesh",
+        "350|hoshangabad|madhya_pradesh",
+        "557|narsinghpur|madhya_pradesh",
+        "652|sagar|madhya_pradesh",
+        "671|sehore|madhya_pradesh",
+        "780|vidisha|madhya_pradesh"
+    ],
+    "625|rajanna_sircilla|telangana": [
+        "360|jagtial|telangana",
+        "401|kamareddy|telangana",
+        "421|karimnagar|telangana",
+        "566|nizamabad|telangana",
+        "691|siddipet|telangana"
+    ],
+    "626|rajgarh|madhya_pradesh": [
+        "102|agar_malwa|madhya_pradesh",
+        "189|bhopal|madhya_pradesh",
+        "329|guna|madhya_pradesh",
+        "382|jhalawar|rajasthan",
+        "671|sehore|madhya_pradesh",
+        "678|shajapur|madhya_pradesh"
+    ],
+    "627|rajkot|gujarat": [
+        "119|amreli|gujarat",
+        "201|botad|gujarat",
+        "371|jamnagar|gujarat",
+        "392|junagadh|gujarat",
+        "528|morbi|gujarat",
+        "604|porbandar|gujarat",
+        "729|surendranagar|gujarat"
+    ],
+    "628|rajnandgaon|chhattisgarh": [
+        "143|balaghat|madhya_pradesh",
+        "148|balod|chhattisgarh",
+        "152|bametara|chhattisgarh",
+        "282|durg|chhattisgarh",
+        "306|gadchiroli|maharashtra",
+        "325|gondia|maharashtra",
+        "393|kabeerdham|chhattisgarh",
+        "771|uttar_bastar_kanker|chhattisgarh"
+    ],
+    "629|rajouri|jammu_and_kashmir": [
+        "370|jammu|jammu_and_kashmir",
+        "465|kulgam|jammu_and_kashmir",
+        "612|punch|jammu_and_kashmir",
+        "641|reasi|jammu_and_kashmir"
+    ],
+    "630|rajsamand|rajasthan": [
+        "107|ajmer|rajasthan",
+        "185|bhilwara|rajasthan",
+        "234|chittorgarh|rajasthan",
+        "581|pali|rajasthan",
+        "757|udaipur|rajasthan"
+    ],
+    "631|ramanagara|karnataka": [
+        "174|bengaluru_rural|karnataka",
+        "175|bengaluru_urban|karnataka",
+        "211|chamarajanagara|karnataka",
+        "464|krishnagiri|tamil_nadu",
+        "514|mandya|karnataka",
+        "756|tumakuru|karnataka"
+    ],
+    "632|ramanathapuram|tamil_nadu": [
+        "610|pudukkottai|tamil_nadu",
+        "703|sivaganga|tamil_nadu",
+        "744|thoothukkudi|tamil_nadu",
+        "784|virudhunagar|tamil_nadu"
+    ],
+    "633|ramban|jammu_and_kashmir": [
+        "124|anantnag|jammu_and_kashmir",
+        "279|doda|jammu_and_kashmir",
+        "465|kulgam|jammu_and_kashmir",
+        "641|reasi|jammu_and_kashmir",
+        "760|udhampur|jammu_and_kashmir"
+    ],
+    "634|ramgarh|jharkhand": [
+        "199|bokaro|jharkhand",
+        "345|hazaribagh|jharkhand",
+        "618|purulia|west_bengal",
+        "636|ranchi|jharkhand"
+    ],
+    "635|rampur|uttar_pradesh": [
+        "162|bareilly|uttar_pradesh",
+        "203|budaun|uttar_pradesh",
+        "527|moradabad|uttar_pradesh",
+        "759|udham_singh_nagar|uttarakhand"
+    ],
+    "636|ranchi|jharkhand": [
+        "223|chatra|jharkhand",
+        "328|gumla|jharkhand",
+        "345|hazaribagh|jharkhand",
+        "439|khunti|jharkhand",
+        "478|latehar|jharkhand",
+        "483|lohardaga|jharkhand",
+        "618|purulia|west_bengal",
+        "634|ramgarh|jharkhand",
+        "666|saraikela-kharsawan|jharkhand"
+    ],
+    "637|ranga_reddy|telangana": [
+        "353|hyderabad|telangana",
+        "497|mahabubnagar|telangana",
+        "520|medchal_malkajgiri|telangana",
+        "543|nagarkurnool|telangana",
+        "549|nalgonda|telangana",
+        "662|sangareddy|telangana",
+        "782|vikarabad|telangana",
+        "806|yadadri_bhuvanagiri|telangana"
+    ],
+    "638|ratlam|madhya_pradesh": [
+        "102|agar_malwa|madhya_pradesh",
+        "158|banswara|rajasthan",
+        "265|dhar|madhya_pradesh",
+        "380|jhabua|madhya_pradesh",
+        "382|jhalawar|rajasthan",
+        "513|mandsaur|madhya_pradesh",
+        "607|pratapgarh|rajasthan",
+        "762|ujjain|madhya_pradesh"
+    ],
+    "639|ratnagiri|maharashtra": [
+        "450|kolhapur|maharashtra",
+        "621|raigad|maharashtra",
+        "663|sangli|maharashtra",
+        "668|satara|maharashtra",
+        "695|sindhudurg|maharashtra"
+    ],
+    "640|rayagada|odisha": [
+        "307|gajapati|odisha",
+        "398|kalahandi|odisha",
+        "407|kandhamal|odisha",
+        "456|koraput|odisha",
+        "720|srikakulam|andhra_pradesh",
+        "786|vizianagaram|andhra_pradesh"
+    ],
+    "641|reasi|jammu_and_kashmir": [
+        "370|jammu|jammu_and_kashmir",
+        "465|kulgam|jammu_and_kashmir",
+        "612|punch|jammu_and_kashmir",
+        "629|rajouri|jammu_and_kashmir",
+        "633|ramban|jammu_and_kashmir",
+        "760|udhampur|jammu_and_kashmir"
+    ],
+    "642|rewa|madhya_pradesh": [
+        "232|chitrakoot|uttar_pradesh",
+        "523|mirzapur|uttar_pradesh",
+        "608|prayagraj|uttar_pradesh",
+        "669|satna|madhya_pradesh",
+        "692|sidhi|madhya_pradesh",
+        "696|singrauli|madhya_pradesh"
+    ],
+    "643|rewari|haryana": [
+        "114|alwar|rajasthan",
+        "332|gurugram|haryana",
+        "381|jhajjar|haryana",
+        "501|mahendragarh|haryana",
+        "574|nuh|haryana"
+    ],
+    "644|ribhoi|meghalaya": [
+        "288|east_khasi_hills|meghalaya",
+        "404|kamrup|assam",
+        "405|kamrup_metropolitan|assam",
+        "530|morigaon|assam",
+        "796|west_jaintia_hills|meghalaya",
+        "798|west_karbi_anglong|assam",
+        "799|west_khasi_hills|meghalaya"
+    ],
+    "645|rohtak|haryana": [
+        "187|bhiwani|haryana",
+        "222|charkhi_dadri|haryana",
+        "347|hisar|haryana",
+        "381|jhajjar|haryana",
+        "387|jind|haryana",
+        "709|sonipat|haryana"
+    ],
+    "646|rohtas|bihar": [
+        "131|arwal|bihar",
+        "134|aurangabad|bihar",
+        "188|bhojpur|bihar",
+        "209|buxar|bihar",
+        "312|garhwa|jharkhand",
+        "394|kaimur|bihar",
+        "579|palamu|jharkhand",
+        "708|sonbhadra|uttar_pradesh"
+    ],
+    "647|rudraprayag|uttarakhand": [
+        "213|chamoli|uttarakhand",
+        "596|pauri_garhwal|uttarakhand",
+        "736|tehri_garhwal|uttarakhand",
+        "774|uttarkashi|uttarakhand"
+    ],
+    "648|rupnagar|punjab": [
+        "195|bilaspur|himachal_pradesh",
+        "300|fatehgarh_sahib|punjab",
+        "351|hoshiarpur|punjab",
+        "491|ludhiana|punjab",
+        "649|s.a.s._nagar|punjab",
+        "676|shahid_bhagat_singh_nagar|punjab",
+        "706|solan|himachal_pradesh",
+        "765|una|himachal_pradesh"
+    ],
+    "649|s.a.s._nagar|punjab": [
+        "115|ambala|haryana",
+        "218|chandigarh|chandigarh",
+        "300|fatehgarh_sahib|punjab",
+        "583|panchkula|haryana",
+        "594|patiala|punjab",
+        "648|rupnagar|punjab",
+        "706|solan|himachal_pradesh"
+    ],
+    "650|s.p.s._nellore|andhra_pradesh": [
+        "233|chittoor|andhra_pradesh",
+        "605|prakasam|andhra_pradesh",
+        "741|thiruvallur|tamil_nadu",
+        "805|y.s.r._kadapa|andhra_pradesh"
+    ],
+    "651|sabarkantha|gujarat": [
+        "129|aravalli|gujarat",
+        "153|banaskantha|gujarat",
+        "309|gandhinagar|gujarat",
+        "522|mehsana|gujarat",
+        "699|sirohi|rajasthan",
+        "757|udaipur|rajasthan"
+    ],
+    "652|sagar|madhya_pradesh": [
+        "132|ashoknagar|madhya_pradesh",
+        "225|chhatarpur|madhya_pradesh",
+        "247|damoh|madhya_pradesh",
+        "477|lalitpur|uttar_pradesh",
+        "557|narsinghpur|madhya_pradesh",
+        "624|raisen|madhya_pradesh",
+        "780|vidisha|madhya_pradesh"
+    ],
+    "653|saharanpur|uttar_pradesh": [
+        "255|dehradun|uttarakhand",
+        "341|haridwar|uttarakhand",
+        "422|karnal|haryana",
+        "536|muzaffarnagar|uttar_pradesh",
+        "679|shamli|uttar_pradesh",
+        "698|sirmaur|himachal_pradesh",
+        "808|yamunanagar|haryana"
+    ],
+    "654|saharsa|bihar": [
+        "249|darbhanga|bihar",
+        "432|khagaria|bihar",
+        "493|madhepura|bihar",
+        "494|madhubani|bihar",
+        "658|samastipur|bihar",
+        "726|supaul|bihar"
+    ],
+    "655|sahibganj|jharkhand": [
+        "180|bhagalpur|bihar",
+        "321|godda|jharkhand",
+        "427|katihar|bihar",
+        "507|malda|west_bengal",
+        "535|murshidabad|west_bengal",
+        "577|pakur|jharkhand"
+    ],
+    "656|saiha|mizoram": [
+        "480|lawngtlai|mizoram"
+    ],
+    "657|salem|tamil_nadu": [
+        "211|chamarajanagara|karnataka",
+        "266|dharmapuri|tamil_nadu",
+        "293|erode|tamil_nadu",
+        "400|kallakurichi|tamil_nadu",
+        "550|namakkal|tamil_nadu",
+        "598|perambalur|tamil_nadu",
+        "750|tiruchirappalli|tamil_nadu"
+    ],
+    "658|samastipur|bihar": [
+        "172|begusarai|bihar",
+        "249|darbhanga|bihar",
+        "432|khagaria|bihar",
+        "537|muzaffarpur|bihar",
+        "595|patna|bihar",
+        "654|saharsa|bihar",
+        "776|vaishali|bihar"
+    ],
+    "659|samba|jammu_and_kashmir": [
+        "370|jammu|jammu_and_kashmir",
+        "426|kathua|jammu_and_kashmir",
+        "760|udhampur|jammu_and_kashmir"
+    ],
+    "660|sambalpur|odisha": [
+        "125|angul|odisha",
+        "163|bargarh|odisha",
+        "257|deogarh|odisha",
+        "385|jharsuguda|odisha",
+        "722|subarnapur|odisha",
+        "725|sundargarh|odisha"
+    ],
+    "661|sambhal|uttar_pradesh": [
+        "110|aligarh|uttar_pradesh",
+        "121|amroha|uttar_pradesh",
+        "203|budaun|uttar_pradesh",
+        "205|bulandshahr|uttar_pradesh",
+        "527|moradabad|uttar_pradesh"
+    ],
+    "662|sangareddy|telangana": [
+        "190|bidar|karnataka",
+        "397|kalaburagi|karnataka",
+        "401|kamareddy|telangana",
+        "519|medak|telangana",
+        "520|medchal_malkajgiri|telangana",
+        "637|ranga_reddy|telangana",
+        "782|vikarabad|telangana"
+    ],
+    "663|sangli|maharashtra": [
+        "173|belagavi|karnataka",
+        "450|kolhapur|maharashtra",
+        "639|ratnagiri|maharashtra",
+        "668|satara|maharashtra",
+        "707|solapur|maharashtra",
+        "781|vijayapura|karnataka"
+    ],
+    "664|sangrur|punjab": [
+        "165|barnala|punjab",
+        "299|fatehabad|haryana",
+        "300|fatehgarh_sahib|punjab",
+        "387|jind|haryana",
+        "491|ludhiana|punjab",
+        "515|mansa|punjab",
+        "594|patiala|punjab"
+    ],
+    "665|sant_kabir_nagar|uttar_pradesh": [
+        "116|ambedkar_nagar|uttar_pradesh",
+        "169|basti|uttar_pradesh",
+        "327|gorakhpur|uttar_pradesh",
+        "690|siddharthnagar|uttar_pradesh"
+    ],
+    "666|saraikela-kharsawan|jharkhand": [
+        "291|east_singhbhum|jharkhand",
+        "439|khunti|jharkhand",
+        "518|mayurbhanj|odisha",
+        "618|purulia|west_bengal",
+        "636|ranchi|jharkhand",
+        "802|west_singhbhum|jharkhand"
+    ],
+    "667|saran|bihar": [
+        "147|ballia|uttar_pradesh",
+        "188|bhojpur|bihar",
+        "326|gopalganj|bihar",
+        "537|muzaffarpur|bihar",
+        "595|patna|bihar",
+        "705|siwan|bihar",
+        "776|vaishali|bihar"
+    ],
+    "668|satara|maharashtra": [
+        "613|pune|maharashtra",
+        "621|raigad|maharashtra",
+        "639|ratnagiri|maharashtra",
+        "663|sangli|maharashtra",
+        "707|solapur|maharashtra"
+    ],
+    "669|satna|madhya_pradesh": [
+        "154|banda|uttar_pradesh",
+        "232|chitrakoot|uttar_pradesh",
+        "428|katni|madhya_pradesh",
+        "586|panna|madhya_pradesh",
+        "642|rewa|madhya_pradesh",
+        "675|shahdol|madhya_pradesh",
+        "692|sidhi|madhya_pradesh",
+        "764|umaria|madhya_pradesh"
+    ],
+    "670|sawai_madhopur|rajasthan": [
+        "207|bundi|rajasthan",
+        "253|dausa|rajasthan",
+        "417|karauli|rajasthan",
+        "459|kota|rajasthan",
+        "682|sheopur|madhya_pradesh",
+        "754|tonk|rajasthan"
+    ],
+    "671|sehore|madhya_pradesh": [
+        "189|bhopal|madhya_pradesh",
+        "261|dewas|madhya_pradesh",
+        "339|harda|madhya_pradesh",
+        "350|hoshangabad|madhya_pradesh",
+        "624|raisen|madhya_pradesh",
+        "626|rajgarh|madhya_pradesh",
+        "678|shajapur|madhya_pradesh"
+    ],
+    "672|senapati|manipur": [
+        "408|kangpokpi|manipur",
+        "446|kohima|nagaland",
+        "599|peren|nagaland",
+        "600|phek|nagaland",
+        "732|tamenglong|manipur",
+        "763|ukhrul|manipur"
+    ],
+    "673|seoni|madhya_pradesh": [
+        "143|balaghat|madhya_pradesh",
+        "226|chhindwara|madhya_pradesh",
+        "358|jabalpur|madhya_pradesh",
+        "512|mandla|madhya_pradesh",
+        "545|nagpur|maharashtra",
+        "557|narsinghpur|madhya_pradesh"
+    ],
+    "674|serchhip|mizoram": [
+        "106|aizawl|mizoram",
+        "215|champhai|mizoram",
+        "492|lunglei|mizoram"
+    ],
+    "675|shahdol|madhya_pradesh": [
+        "127|anuppur|madhya_pradesh",
+        "458|koriya|chhattisgarh",
+        "669|satna|madhya_pradesh",
+        "692|sidhi|madhya_pradesh",
+        "764|umaria|madhya_pradesh"
+    ],
+    "676|shahid_bhagat_singh_nagar|punjab": [
+        "351|hoshiarpur|punjab",
+        "364|jalandhar|punjab",
+        "415|kapurthala|punjab",
+        "491|ludhiana|punjab",
+        "648|rupnagar|punjab"
+    ],
+    "677|shahjahanpur|uttar_pradesh": [
+        "162|bareilly|uttar_pradesh",
+        "203|budaun|uttar_pradesh",
+        "298|farrukhabad|uttar_pradesh",
+        "340|hardoi|uttar_pradesh",
+        "475|lakhimpur_kheri|uttar_pradesh",
+        "602|pilibhit|uttar_pradesh"
+    ],
+    "678|shajapur|madhya_pradesh": [
+        "102|agar_malwa|madhya_pradesh",
+        "261|dewas|madhya_pradesh",
+        "626|rajgarh|madhya_pradesh",
+        "671|sehore|madhya_pradesh",
+        "762|ujjain|madhya_pradesh"
+    ],
+    "679|shamli|uttar_pradesh": [
+        "140|baghpat|uttar_pradesh",
+        "422|karnal|haryana",
+        "536|muzaffarnagar|uttar_pradesh",
+        "585|panipat|haryana",
+        "653|saharanpur|uttar_pradesh"
+    ],
+    "680|sheikhpura|bihar": [
+        "373|jamui|bihar",
+        "476|lakhisarai|bihar",
+        "547|nalanda|bihar",
+        "560|nawada|bihar"
+    ],
+    "681|sheohar|bihar": [
+        "283|east_champaran|bihar",
+        "537|muzaffarpur|bihar",
+        "701|sitamarhi|bihar"
+    ],
+    "682|sheopur|madhya_pradesh": [
+        "161|baran|rajasthan",
+        "417|karauli|rajasthan",
+        "459|kota|rajasthan",
+        "529|morena|madhya_pradesh",
+        "670|sawai_madhopur|rajasthan",
+        "686|shivpuri|madhya_pradesh"
+    ],
+    "683|shi_yomi|arunachal_pradesh": [
+        "689|siang|arunachal_pradesh",
+        "769|upper_siang|arunachal_pradesh",
+        "770|upper_subansiri|arunachal_pradesh",
+        "800|west_siang|arunachal_pradesh"
+    ],
+    "684|shimla|himachal_pradesh": [
+        "255|dehradun|uttarakhand",
+        "440|kinnaur|himachal_pradesh",
+        "466|kullu|himachal_pradesh",
+        "511|mandi|himachal_pradesh",
+        "698|sirmaur|himachal_pradesh",
+        "706|solan|himachal_pradesh",
+        "774|uttarkashi|uttarakhand"
+    ],
+    "685|shivamogga|karnataka": [
+        "229|chikkamagaluru|karnataka",
+        "254|davanagere|karnataka",
+        "344|haveri|karnataka",
+        "761|udupi|karnataka",
+        "773|uttara_kannada|karnataka"
+    ],
+    "686|shivpuri|madhya_pradesh": [
+        "132|ashoknagar|madhya_pradesh",
+        "161|baran|rajasthan",
+        "252|datia|madhya_pradesh",
+        "329|guna|madhya_pradesh",
+        "333|gwalior|madhya_pradesh",
+        "383|jhansi|uttar_pradesh",
+        "477|lalitpur|uttar_pradesh",
+        "529|morena|madhya_pradesh",
+        "682|sheopur|madhya_pradesh"
+    ],
+    "687|shopiyan|jammu_and_kashmir": [
+        "124|anantnag|jammu_and_kashmir",
+        "204|budgam|jammu_and_kashmir",
+        "465|kulgam|jammu_and_kashmir",
+        "611|pulwama|jammu_and_kashmir"
+    ],
+    "688|shrawasti|uttar_pradesh": [
+        "141|bahraich|uttar_pradesh",
+        "151|balrampur|uttar_pradesh",
+        "324|gonda|uttar_pradesh"
+    ],
+    "689|siang|arunachal_pradesh": [
+        "289|east_siang|arunachal_pradesh",
+        "488|lower_siang|arunachal_pradesh",
+        "683|shi_yomi|arunachal_pradesh",
+        "769|upper_siang|arunachal_pradesh",
+        "800|west_siang|arunachal_pradesh"
+    ],
+    "690|siddharthnagar|uttar_pradesh": [
+        "151|balrampur|uttar_pradesh",
+        "169|basti|uttar_pradesh",
+        "324|gonda|uttar_pradesh",
+        "327|gorakhpur|uttar_pradesh",
+        "498|maharajganj|uttar_pradesh",
+        "665|sant_kabir_nagar|uttar_pradesh"
+    ],
+    "691|siddipet|telangana": [
+        "374|jangaon|telangana",
+        "401|kamareddy|telangana",
+        "421|karimnagar|telangana",
+        "519|medak|telangana",
+        "520|medchal_malkajgiri|telangana",
+        "625|rajanna_sircilla|telangana",
+        "789|warangal_urban|telangana",
+        "806|yadadri_bhuvanagiri|telangana"
+    ],
+    "692|sidhi|madhya_pradesh": [
+        "458|koriya|chhattisgarh",
+        "642|rewa|madhya_pradesh",
+        "669|satna|madhya_pradesh",
+        "675|shahdol|madhya_pradesh",
+        "696|singrauli|madhya_pradesh"
+    ],
+    "693|sikar|rajasthan": [
+        "236|churu|rajasthan",
+        "361|jaipur|rajasthan",
+        "386|jhunjhunu|rajasthan",
+        "501|mahendragarh|haryana",
+        "544|nagaur|rajasthan"
+    ],
+    "694|simdega|jharkhand": [
+        "328|gumla|jharkhand",
+        "376|jashpur|chhattisgarh",
+        "439|khunti|jharkhand",
+        "725|sundargarh|odisha",
+        "802|west_singhbhum|jharkhand"
+    ],
+    "695|sindhudurg|maharashtra": [
+        "173|belagavi|karnataka",
+        "450|kolhapur|maharashtra",
+        "570|north_goa|goa",
+        "639|ratnagiri|maharashtra"
+    ],
+    "696|singrauli|madhya_pradesh": [
+        "150|balrampur|chhattisgarh",
+        "458|koriya|chhattisgarh",
+        "523|mirzapur|uttar_pradesh",
+        "642|rewa|madhya_pradesh",
+        "692|sidhi|madhya_pradesh",
+        "708|sonbhadra|uttar_pradesh",
+        "727|surajpur|chhattisgarh"
+    ],
+    "697|sipahijala|tripura": [
+        "323|gomati|tripura",
+        "438|khowai|tripura",
+        "716|south_tripura|tripura",
+        "803|west_tripura|tripura"
+    ],
+    "698|sirmaur|himachal_pradesh": [
+        "115|ambala|haryana",
+        "255|dehradun|uttarakhand",
+        "583|panchkula|haryana",
+        "653|saharanpur|uttar_pradesh",
+        "684|shimla|himachal_pradesh",
+        "706|solan|himachal_pradesh",
+        "808|yamunanagar|haryana"
+    ],
+    "699|sirohi|rajasthan": [
+        "153|banaskantha|gujarat",
+        "368|jalore|rajasthan",
+        "581|pali|rajasthan",
+        "651|sabarkantha|gujarat",
+        "757|udaipur|rajasthan"
+    ],
+    "700|sirsa|haryana": [
+        "170|bathinda|punjab",
+        "299|fatehabad|haryana",
+        "337|hanumangarh|rajasthan",
+        "515|mansa|punjab",
+        "719|sri_muktsar_sahib|punjab"
+    ],
+    "701|sitamarhi|bihar": [
+        "249|darbhanga|bihar",
+        "283|east_champaran|bihar",
+        "494|madhubani|bihar",
+        "537|muzaffarpur|bihar",
+        "681|sheohar|bihar"
+    ],
+    "702|sitapur|uttar_pradesh": [
+        "141|bahraich|uttar_pradesh",
+        "159|barabanki|uttar_pradesh",
+        "340|hardoi|uttar_pradesh",
+        "475|lakhimpur_kheri|uttar_pradesh",
+        "490|lucknow|uttar_pradesh"
+    ],
+    "703|sivaganga|tamil_nadu": [
+        "495|madurai|tamil_nadu",
+        "610|pudukkottai|tamil_nadu",
+        "632|ramanathapuram|tamil_nadu",
+        "750|tiruchirappalli|tamil_nadu",
+        "784|virudhunagar|tamil_nadu"
+    ],
+    "704|sivasagar|assam": [
+        "221|charaideo|assam",
+        "273|dibrugarh|assam",
+        "391|jorhat|assam",
+        "486|longleng|nagaland",
+        "505|majuli|assam",
+        "525|mokokchung|nagaland",
+        "526|mon|nagaland"
+    ],
+    "705|siwan|bihar": [
+        "147|ballia|uttar_pradesh",
+        "259|deoria|uttar_pradesh",
+        "326|gopalganj|bihar",
+        "667|saran|bihar"
+    ],
+    "706|solan|himachal_pradesh": [
+        "195|bilaspur|himachal_pradesh",
+        "511|mandi|himachal_pradesh",
+        "583|panchkula|haryana",
+        "648|rupnagar|punjab",
+        "649|s.a.s._nagar|punjab",
+        "684|shimla|himachal_pradesh",
+        "698|sirmaur|himachal_pradesh"
+    ],
+    "707|solapur|maharashtra": [
+        "105|ahmednagar|maharashtra",
+        "397|kalaburagi|karnataka",
+        "575|osmanabad|maharashtra",
+        "613|pune|maharashtra",
+        "663|sangli|maharashtra",
+        "668|satara|maharashtra",
+        "781|vijayapura|karnataka"
+    ],
+    "708|sonbhadra|uttar_pradesh": [
+        "150|balrampur|chhattisgarh",
+        "216|chandauli|uttar_pradesh",
+        "312|garhwa|jharkhand",
+        "394|kaimur|bihar",
+        "523|mirzapur|uttar_pradesh",
+        "646|rohtas|bihar",
+        "696|singrauli|madhya_pradesh"
+    ],
+    "709|sonipat|haryana": [
+        "140|baghpat|uttar_pradesh",
+        "256|delhi|delhi",
+        "381|jhajjar|haryana",
+        "387|jind|haryana",
+        "585|panipat|haryana",
+        "645|rohtak|haryana"
+    ],
+    "710|sonitpur|assam": [
+        "198|biswanath|assam",
+        "251|darrang|assam",
+        "530|morigaon|assam",
+        "541|nagaon|assam",
+        "576|pakke_kessang|arunachal_pradesh",
+        "758|udalguri|assam",
+        "797|west_kameng|arunachal_pradesh"
+    ],
+    "711|south_24_parganas|west_bengal": [
+        "352|howrah|west_bengal",
+        "451|kolkata|west_bengal",
+        "568|north_24_parganas|west_bengal",
+        "615|purba_medinipur|west_bengal"
+    ],
+    "712|south_garo_hills|meghalaya": [
+        "284|east_garo_hills|meghalaya",
+        "718|south_west_khasi_hills|meghalaya",
+        "794|west_garo_hills|meghalaya",
+        "799|west_khasi_hills|meghalaya"
+    ],
+    "713|south_goa|goa": [
+        "570|north_goa|goa",
+        "773|uttara_kannada|karnataka"
+    ],
+    "714|south_salmara_mankachar|assam": [
+        "271|dhubri|assam",
+        "320|goalpara|assam",
+        "569|north_garo_hills|meghalaya",
+        "717|south_west_garo_hills|meghalaya",
+        "794|west_garo_hills|meghalaya"
+    ],
+    "715|south_sikkim|sikkim": [
+        "250|darjeeling|west_bengal",
+        "290|east_sikkim|sikkim",
+        "399|kalimpong|west_bengal",
+        "571|north_sikkim|sikkim",
+        "801|west_sikkim|sikkim"
+    ],
+    "716|south_tripura|tripura": [
+        "323|gomati|tripura",
+        "697|sipahijala|tripura"
+    ],
+    "717|south_west_garo_hills|meghalaya": [
+        "714|south_salmara_mankachar|assam",
+        "794|west_garo_hills|meghalaya"
+    ],
+    "718|south_west_khasi_hills|meghalaya": [
+        "288|east_khasi_hills|meghalaya",
+        "712|south_garo_hills|meghalaya",
+        "799|west_khasi_hills|meghalaya"
+    ],
+    "719|sri_muktsar_sahib|punjab": [
+        "170|bathinda|punjab",
+        "297|faridkot|punjab",
+        "302|fazilka|punjab",
+        "303|ferozepur|punjab",
+        "337|hanumangarh|rajasthan",
+        "700|sirsa|haryana"
+    ],
+    "720|srikakulam|andhra_pradesh": [
+        "307|gajapati|odisha",
+        "311|ganjam|odisha",
+        "640|rayagada|odisha",
+        "786|vizianagaram|andhra_pradesh"
+    ],
+    "721|srinagar|jammu_and_kashmir": [
+        "124|anantnag|jammu_and_kashmir",
+        "155|bandipora|jammu_and_kashmir",
+        "160|baramulla|jammu_and_kashmir",
+        "204|budgam|jammu_and_kashmir",
+        "308|ganderbal|jammu_and_kashmir",
+        "611|pulwama|jammu_and_kashmir"
+    ],
+    "722|subarnapur|odisha": [
+        "125|angul|odisha",
+        "144|balangir|odisha",
+        "163|bargarh|odisha",
+        "202|boudh|odisha",
+        "660|sambalpur|odisha"
+    ],
+    "723|sukma|chhattisgarh": [
+        "168|bastar|chhattisgarh",
+        "178|bhadradri_kothagudem|telangana",
+        "191|bijapur|chhattisgarh",
+        "243|dakshin_bastar_dantewada|chhattisgarh",
+        "285|east_godavari|andhra_pradesh",
+        "508|malkangiri|odisha"
+    ],
+    "724|sultanpur|uttar_pradesh": [
+        "116|ambedkar_nagar|uttar_pradesh",
+        "117|amethi|uttar_pradesh",
+        "136|ayodhya|uttar_pradesh",
+        "137|azamgarh|uttar_pradesh",
+        "377|jaunpur|uttar_pradesh",
+        "606|pratapgarh|uttar_pradesh"
+    ],
+    "725|sundargarh|odisha": [
+        "125|angul|odisha",
+        "257|deogarh|odisha",
+        "376|jashpur|chhattisgarh",
+        "385|jharsuguda|odisha",
+        "431|kendujhar|odisha",
+        "622|raigarh|chhattisgarh",
+        "660|sambalpur|odisha",
+        "694|simdega|jharkhand",
+        "802|west_singhbhum|jharkhand"
+    ],
+    "726|supaul|bihar": [
+        "128|araria|bihar",
+        "493|madhepura|bihar",
+        "494|madhubani|bihar",
+        "654|saharsa|bihar"
+    ],
+    "727|surajpur|chhattisgarh": [
+        "150|balrampur|chhattisgarh",
+        "457|korba|chhattisgarh",
+        "458|koriya|chhattisgarh",
+        "696|singrauli|madhya_pradesh",
+        "730|surguja|chhattisgarh"
+    ],
+    "728|surat|gujarat": [
+        "183|bharuch|gujarat",
+        "556|narmada|gujarat",
+        "559|navsari|gujarat",
+        "733|tapi|gujarat"
+    ],
+    "729|surendranagar|gujarat": [
+        "104|ahmedabad|gujarat",
+        "201|botad|gujarat",
+        "472|kutch|gujarat",
+        "522|mehsana|gujarat",
+        "528|morbi|gujarat",
+        "591|patan|gujarat",
+        "627|rajkot|gujarat"
+    ],
+    "730|surguja|chhattisgarh": [
+        "150|balrampur|chhattisgarh",
+        "376|jashpur|chhattisgarh",
+        "457|korba|chhattisgarh",
+        "622|raigarh|chhattisgarh",
+        "727|surajpur|chhattisgarh"
+    ],
+    "731|suryapet|telangana": [
+        "330|guntur|andhra_pradesh",
+        "374|jangaon|telangana",
+        "433|khammam|telangana",
+        "463|krishna|andhra_pradesh",
+        "496|mahabubabad|telangana",
+        "549|nalgonda|telangana",
+        "806|yadadri_bhuvanagiri|telangana"
+    ],
+    "732|tamenglong|manipur": [
+        "210|cachar|assam",
+        "274|dima_hasao|assam",
+        "388|jiribam|manipur",
+        "408|kangpokpi|manipur",
+        "567|noney|manipur",
+        "599|peren|nagaland",
+        "672|senapati|manipur"
+    ],
+    "733|tapi|gujarat": [
+        "248|dang|gujarat",
+        "272|dhule|maharashtra",
+        "553|nandurbar|maharashtra",
+        "556|narmada|gujarat",
+        "559|navsari|gujarat",
+        "728|surat|gujarat"
+    ],
+    "734|tarn_taran|punjab": [
+        "120|amritsar|punjab",
+        "303|ferozepur|punjab",
+        "415|kapurthala|punjab"
+    ],
+    "735|tawang|arunachal_pradesh": [
+        "287|east_kameng|arunachal_pradesh",
+        "797|west_kameng|arunachal_pradesh"
+    ],
+    "736|tehri_garhwal|uttarakhand": [
+        "255|dehradun|uttarakhand",
+        "596|pauri_garhwal|uttarakhand",
+        "647|rudraprayag|uttarakhand",
+        "774|uttarkashi|uttarakhand"
+    ],
+    "737|tengnoupal|manipur": [
+        "217|chandel|manipur",
+        "396|kakching|manipur",
+        "402|kamjong|manipur",
+        "408|kangpokpi|manipur",
+        "745|thoubal|manipur"
+    ],
+    "738|thane|maharashtra": [
+        "105|ahmednagar|maharashtra",
+        "532|mumbai|maharashtra",
+        "558|nashik|maharashtra",
+        "580|palghar|maharashtra",
+        "613|pune|maharashtra",
+        "621|raigad|maharashtra"
+    ],
+    "739|thanjavur|tamil_nadu": [
+        "130|ariyalur|tamil_nadu",
+        "239|cuddalore|tamil_nadu",
+        "542|nagapattinam|tamil_nadu",
+        "610|pudukkottai|tamil_nadu",
+        "743|thiruvarur|tamil_nadu",
+        "750|tiruchirappalli|tamil_nadu"
+    ],
+    "740|theni|tamil_nadu": [
+        "276|dindigul|tamil_nadu",
+        "354|idukki|kerala",
+        "495|madurai|tamil_nadu",
+        "784|virudhunagar|tamil_nadu"
+    ],
+    "741|thiruvallur|tamil_nadu": [
+        "224|chennai|tamil_nadu",
+        "233|chittoor|andhra_pradesh",
+        "406|kancheepuram|tamil_nadu",
+        "650|s.p.s._nellore|andhra_pradesh",
+        "779|vellore|tamil_nadu"
+    ],
+    "742|thiruvananthapuram|kerala": [
+        "414|kanyakumari|tamil_nadu",
+        "452|kollam|kerala",
+        "751|tirunelveli|tamil_nadu"
+    ],
+    "743|thiruvarur|tamil_nadu": [
+        "416|karaikal|puducherry",
+        "542|nagapattinam|tamil_nadu",
+        "739|thanjavur|tamil_nadu"
+    ],
+    "744|thoothukkudi|tamil_nadu": [
+        "632|ramanathapuram|tamil_nadu",
+        "751|tirunelveli|tamil_nadu",
+        "784|virudhunagar|tamil_nadu"
+    ],
+    "745|thoubal|manipur": [
+        "355|imphal_east|manipur",
+        "356|imphal_west|manipur",
+        "396|kakching|manipur",
+        "408|kangpokpi|manipur",
+        "737|tengnoupal|manipur"
+    ],
+    "746|thrissur|kerala": [
+        "237|coimbatore|tamil_nadu",
+        "292|ernakulam|kerala",
+        "506|malappuram|kerala",
+        "578|palakkad|kerala"
+    ],
+    "747|tikamgarh|madhya_pradesh": [
+        "225|chhatarpur|madhya_pradesh",
+        "383|jhansi|uttar_pradesh",
+        "477|lalitpur|uttar_pradesh",
+        "565|niwari|madhya_pradesh"
+    ],
+    "748|tinsukia|assam": [
+        "220|changlang|arunachal_pradesh",
+        "268|dhemaji|assam",
+        "273|dibrugarh|assam",
+        "289|east_siang|arunachal_pradesh",
+        "484|lohit|arunachal_pradesh",
+        "487|lower_dibang_valley|arunachal_pradesh",
+        "551|namsai|arunachal_pradesh",
+        "749|tirap|arunachal_pradesh"
+    ],
+    "749|tirap|arunachal_pradesh": [
+        "220|changlang|arunachal_pradesh",
+        "273|dibrugarh|assam",
+        "485|longding|arunachal_pradesh",
+        "748|tinsukia|assam"
+    ],
+    "750|tiruchirappalli|tamil_nadu": [
+        "130|ariyalur|tamil_nadu",
+        "276|dindigul|tamil_nadu",
+        "423|karur|tamil_nadu",
+        "495|madurai|tamil_nadu",
+        "550|namakkal|tamil_nadu",
+        "598|perambalur|tamil_nadu",
+        "610|pudukkottai|tamil_nadu",
+        "657|salem|tamil_nadu",
+        "703|sivaganga|tamil_nadu",
+        "739|thanjavur|tamil_nadu"
+    ],
+    "751|tirunelveli|tamil_nadu": [
+        "354|idukki|kerala",
+        "414|kanyakumari|tamil_nadu",
+        "452|kollam|kerala",
+        "592|pathanamthitta|kerala",
+        "742|thiruvananthapuram|kerala",
+        "744|thoothukkudi|tamil_nadu",
+        "784|virudhunagar|tamil_nadu"
+    ],
+    "752|tiruppur|tamil_nadu": [
+        "237|coimbatore|tamil_nadu",
+        "276|dindigul|tamil_nadu",
+        "293|erode|tamil_nadu",
+        "354|idukki|kerala",
+        "423|karur|tamil_nadu"
+    ],
+    "753|tiruvannamalai|tamil_nadu": [
+        "266|dharmapuri|tamil_nadu",
+        "400|kallakurichi|tamil_nadu",
+        "406|kancheepuram|tamil_nadu",
+        "464|krishnagiri|tamil_nadu",
+        "779|vellore|tamil_nadu",
+        "783|viluppuram|tamil_nadu"
+    ],
+    "754|tonk|rajasthan": [
+        "107|ajmer|rajasthan",
+        "185|bhilwara|rajasthan",
+        "207|bundi|rajasthan",
+        "253|dausa|rajasthan",
+        "361|jaipur|rajasthan",
+        "670|sawai_madhopur|rajasthan"
+    ],
+    "755|tuensang|nagaland": [
+        "441|kiphire|nagaland",
+        "486|longleng|nagaland",
+        "525|mokokchung|nagaland",
+        "526|mon|nagaland",
+        "810|zunheboto|nagaland"
+    ],
+    "756|tumakuru|karnataka": [
+        "123|anantapur|andhra_pradesh",
+        "174|bengaluru_rural|karnataka",
+        "228|chikkaballapura|karnataka",
+        "229|chikkamagaluru|karnataka",
+        "231|chitradurga|karnataka",
+        "342|hassan|karnataka",
+        "514|mandya|karnataka",
+        "631|ramanagara|karnataka"
+    ],
+    "757|udaipur|rajasthan": [
+        "129|aravalli|gujarat",
+        "234|chittorgarh|rajasthan",
+        "281|dungarpur|rajasthan",
+        "581|pali|rajasthan",
+        "607|pratapgarh|rajasthan",
+        "630|rajsamand|rajasthan",
+        "651|sabarkantha|gujarat",
+        "699|sirohi|rajasthan"
+    ],
+    "758|udalguri|assam": [
+        "142|baksa|assam",
+        "251|darrang|assam",
+        "710|sonitpur|assam",
+        "797|west_kameng|arunachal_pradesh"
+    ],
+    "759|udham_singh_nagar|uttarakhand": [
+        "162|bareilly|uttar_pradesh",
+        "192|bijnor|uttar_pradesh",
+        "214|champawat|uttarakhand",
+        "527|moradabad|uttar_pradesh",
+        "546|nainital|uttarakhand",
+        "602|pilibhit|uttar_pradesh",
+        "635|rampur|uttar_pradesh"
+    ],
+    "760|udhampur|jammu_and_kashmir": [
+        "279|doda|jammu_and_kashmir",
+        "370|jammu|jammu_and_kashmir",
+        "426|kathua|jammu_and_kashmir",
+        "633|ramban|jammu_and_kashmir",
+        "641|reasi|jammu_and_kashmir",
+        "659|samba|jammu_and_kashmir"
+    ],
+    "761|udupi|karnataka": [
+        "229|chikkamagaluru|karnataka",
+        "245|dakshina_kannada|karnataka",
+        "685|shivamogga|karnataka",
+        "773|uttara_kannada|karnataka"
+    ],
+    "762|ujjain|madhya_pradesh": [
+        "102|agar_malwa|madhya_pradesh",
+        "261|dewas|madhya_pradesh",
+        "265|dhar|madhya_pradesh",
+        "357|indore|madhya_pradesh",
+        "638|ratlam|madhya_pradesh",
+        "678|shajapur|madhya_pradesh"
+    ],
+    "763|ukhrul|manipur": [
+        "402|kamjong|manipur",
+        "408|kangpokpi|manipur",
+        "600|phek|nagaland",
+        "672|senapati|manipur"
+    ],
+    "764|umaria|madhya_pradesh": [
+        "127|anuppur|madhya_pradesh",
+        "277|dindori|madhya_pradesh",
+        "358|jabalpur|madhya_pradesh",
+        "428|katni|madhya_pradesh",
+        "669|satna|madhya_pradesh",
+        "675|shahdol|madhya_pradesh"
+    ],
+    "765|una|himachal_pradesh": [
+        "195|bilaspur|himachal_pradesh",
+        "336|hamirpur|himachal_pradesh",
+        "351|hoshiarpur|punjab",
+        "409|kangra|himachal_pradesh",
+        "648|rupnagar|punjab"
+    ],
+    "766|unnao|uttar_pradesh": [
+        "301|fatehpur|uttar_pradesh",
+        "340|hardoi|uttar_pradesh",
+        "413|kanpur_nagar|uttar_pradesh",
+        "490|lucknow|uttar_pradesh",
+        "619|rae_bareli|uttar_pradesh"
+    ],
+    "767|unokoti|tripura": [
+        "262|dhalai|tripura",
+        "572|north_tripura|tripura"
+    ],
+    "768|upper_dibang_valley|arunachal_pradesh": [
+        "487|lower_dibang_valley|arunachal_pradesh",
+        "769|upper_siang|arunachal_pradesh"
+    ],
+    "769|upper_siang|arunachal_pradesh": [
+        "289|east_siang|arunachal_pradesh",
+        "487|lower_dibang_valley|arunachal_pradesh",
+        "683|shi_yomi|arunachal_pradesh",
+        "689|siang|arunachal_pradesh",
+        "768|upper_dibang_valley|arunachal_pradesh"
+    ],
+    "770|upper_subansiri|arunachal_pradesh": [
+        "403|kamle|arunachal_pradesh",
+        "462|kra_daadi|arunachal_pradesh",
+        "470|kurung_kumey|arunachal_pradesh",
+        "482|lepa_rada|arunachal_pradesh",
+        "488|lower_siang|arunachal_pradesh",
+        "683|shi_yomi|arunachal_pradesh",
+        "800|west_siang|arunachal_pradesh"
+    ],
+    "771|uttar_bastar_kanker|chhattisgarh": [
+        "148|balod|chhattisgarh",
+        "263|dhamtari|chhattisgarh",
+        "306|gadchiroli|maharashtra",
+        "454|kondagaon|chhattisgarh",
+        "555|narayanpur|chhattisgarh",
+        "628|rajnandgaon|chhattisgarh"
+    ],
+    "772|uttar_dinajpur|west_bengal": [
+        "244|dakshin_dinajpur|west_bengal",
+        "250|darjeeling|west_bengal",
+        "427|katihar|bihar",
+        "442|kishanganj|bihar",
+        "507|malda|west_bengal",
+        "617|purnia|bihar"
+    ],
+    "773|uttara_kannada|karnataka": [
+        "173|belagavi|karnataka",
+        "267|dharwad|karnataka",
+        "344|haveri|karnataka",
+        "570|north_goa|goa",
+        "685|shivamogga|karnataka",
+        "713|south_goa|goa",
+        "761|udupi|karnataka"
+    ],
+    "774|uttarkashi|uttarakhand": [
+        "213|chamoli|uttarakhand",
+        "255|dehradun|uttarakhand",
+        "440|kinnaur|himachal_pradesh",
+        "647|rudraprayag|uttarakhand",
+        "684|shimla|himachal_pradesh",
+        "736|tehri_garhwal|uttarakhand"
+    ],
+    "775|vadodara|gujarat": [
+        "122|anand|gujarat",
+        "183|bharuch|gujarat",
+        "227|chhota_udaipur|gujarat",
+        "436|kheda|gujarat",
+        "556|narmada|gujarat",
+        "584|panchmahal|gujarat"
+    ],
+    "776|vaishali|bihar": [
+        "537|muzaffarpur|bihar",
+        "595|patna|bihar",
+        "658|samastipur|bihar",
+        "667|saran|bihar"
+    ],
+    "777|valsad|gujarat": [
+        "241|dadra_and_nagar_haveli|dadra_and_nagar_haveli_and_daman_and_diu",
+        "246|daman|dadra_and_nagar_haveli_and_daman_and_diu",
+        "558|nashik|maharashtra",
+        "559|navsari|gujarat",
+        "580|palghar|maharashtra"
+    ],
+    "778|varanasi|uttar_pradesh": [
+        "177|bhadohi|uttar_pradesh",
+        "216|chandauli|uttar_pradesh",
+        "317|ghazipur|uttar_pradesh",
+        "377|jaunpur|uttar_pradesh",
+        "523|mirzapur|uttar_pradesh"
+    ],
+    "779|vellore|tamil_nadu": [
+        "233|chittoor|andhra_pradesh",
+        "406|kancheepuram|tamil_nadu",
+        "464|krishnagiri|tamil_nadu",
+        "741|thiruvallur|tamil_nadu",
+        "753|tiruvannamalai|tamil_nadu"
+    ],
+    "780|vidisha|madhya_pradesh": [
+        "132|ashoknagar|madhya_pradesh",
+        "189|bhopal|madhya_pradesh",
+        "329|guna|madhya_pradesh",
+        "624|raisen|madhya_pradesh",
+        "652|sagar|madhya_pradesh"
+    ],
+    "781|vijayapura|karnataka": [
+        "138|bagalkote|karnataka",
+        "173|belagavi|karnataka",
+        "397|kalaburagi|karnataka",
+        "620|raichur|karnataka",
+        "663|sangli|maharashtra",
+        "707|solapur|maharashtra",
+        "807|yadgir|karnataka"
+    ],
+    "782|vikarabad|telangana": [
+        "397|kalaburagi|karnataka",
+        "497|mahabubnagar|telangana",
+        "554|narayanpet|telangana",
+        "637|ranga_reddy|telangana",
+        "662|sangareddy|telangana"
+    ],
+    "783|viluppuram|tamil_nadu": [
+        "239|cuddalore|tamil_nadu",
+        "400|kallakurichi|tamil_nadu",
+        "406|kancheepuram|tamil_nadu",
+        "609|puducherry|puducherry",
+        "753|tiruvannamalai|tamil_nadu"
+    ],
+    "784|virudhunagar|tamil_nadu": [
+        "354|idukki|kerala",
+        "495|madurai|tamil_nadu",
+        "632|ramanathapuram|tamil_nadu",
+        "703|sivaganga|tamil_nadu",
+        "740|theni|tamil_nadu",
+        "744|thoothukkudi|tamil_nadu",
+        "751|tirunelveli|tamil_nadu"
+    ],
+    "785|visakhapatnam|andhra_pradesh": [
+        "285|east_godavari|andhra_pradesh",
+        "456|koraput|odisha",
+        "508|malkangiri|odisha",
+        "786|vizianagaram|andhra_pradesh"
+    ],
+    "786|vizianagaram|andhra_pradesh": [
+        "456|koraput|odisha",
+        "640|rayagada|odisha",
+        "720|srikakulam|andhra_pradesh",
+        "785|visakhapatnam|andhra_pradesh"
+    ],
+    "787|wanaparthy|telangana": [
+        "390|jogulamba_gadwal|telangana",
+        "468|kurnool|andhra_pradesh",
+        "497|mahabubnagar|telangana",
+        "543|nagarkurnool|telangana",
+        "554|narayanpet|telangana"
+    ],
+    "788|warangal_rural|telangana": [
+        "374|jangaon|telangana",
+        "378|jayashankar_bhupalapally|telangana",
+        "496|mahabubabad|telangana",
+        "531|mulugu|telangana",
+        "789|warangal_urban|telangana"
+    ],
+    "789|warangal_urban|telangana": [
+        "374|jangaon|telangana",
+        "378|jayashankar_bhupalapally|telangana",
+        "421|karimnagar|telangana",
+        "691|siddipet|telangana",
+        "788|warangal_rural|telangana"
+    ],
+    "790|wardha|maharashtra": [
+        "118|amravati|maharashtra",
+        "219|chandrapur|maharashtra",
+        "545|nagpur|maharashtra",
+        "809|yavatmal|maharashtra"
+    ],
+    "791|washim|maharashtra": [
+        "108|akola|maharashtra",
+        "118|amravati|maharashtra",
+        "206|buldhana|maharashtra",
+        "346|hingoli|maharashtra",
+        "588|parbhani|maharashtra",
+        "809|yavatmal|maharashtra"
+    ],
+    "792|wayanad|kerala": [
+        "211|chamarajanagara|karnataka",
+        "411|kannur|kerala",
+        "444|kodagu|karnataka",
+        "461|kozhikode|kerala",
+        "506|malappuram|kerala",
+        "538|mysuru|karnataka",
+        "563|nilgiris|tamil_nadu"
+    ],
+    "793|west_champaran|bihar": [
+        "283|east_champaran|bihar",
+        "326|gopalganj|bihar",
+        "471|kushinagar|uttar_pradesh",
+        "498|maharajganj|uttar_pradesh"
+    ],
+    "794|west_garo_hills|meghalaya": [
+        "284|east_garo_hills|meghalaya",
+        "320|goalpara|assam",
+        "569|north_garo_hills|meghalaya",
+        "712|south_garo_hills|meghalaya",
+        "714|south_salmara_mankachar|assam",
+        "717|south_west_garo_hills|meghalaya"
+    ],
+    "795|west_godavari|andhra_pradesh": [
+        "178|bhadradri_kothagudem|telangana",
+        "285|east_godavari|andhra_pradesh",
+        "433|khammam|telangana",
+        "463|krishna|andhra_pradesh"
+    ],
+    "796|west_jaintia_hills|meghalaya": [
+        "274|dima_hasao|assam",
+        "286|east_jaintia_hills|meghalaya",
+        "288|east_khasi_hills|meghalaya",
+        "644|ribhoi|meghalaya",
+        "798|west_karbi_anglong|assam"
+    ],
+    "797|west_kameng|arunachal_pradesh": [
+        "287|east_kameng|arunachal_pradesh",
+        "576|pakke_kessang|arunachal_pradesh",
+        "710|sonitpur|assam",
+        "735|tawang|arunachal_pradesh",
+        "758|udalguri|assam"
+    ],
+    "798|west_karbi_anglong|assam": [
+        "274|dima_hasao|assam",
+        "348|hojai|assam",
+        "530|morigaon|assam",
+        "541|nagaon|assam",
+        "644|ribhoi|meghalaya",
+        "796|west_jaintia_hills|meghalaya"
+    ],
+    "799|west_khasi_hills|meghalaya": [
+        "284|east_garo_hills|meghalaya",
+        "288|east_khasi_hills|meghalaya",
+        "404|kamrup|assam",
+        "569|north_garo_hills|meghalaya",
+        "644|ribhoi|meghalaya",
+        "712|south_garo_hills|meghalaya",
+        "718|south_west_khasi_hills|meghalaya"
+    ],
+    "800|west_siang|arunachal_pradesh": [
+        "482|lepa_rada|arunachal_pradesh",
+        "488|lower_siang|arunachal_pradesh",
+        "683|shi_yomi|arunachal_pradesh",
+        "689|siang|arunachal_pradesh",
+        "770|upper_subansiri|arunachal_pradesh"
+    ],
+    "801|west_sikkim|sikkim": [
+        "250|darjeeling|west_bengal",
+        "571|north_sikkim|sikkim",
+        "715|south_sikkim|sikkim"
+    ],
+    "802|west_singhbhum|jharkhand": [
+        "431|kendujhar|odisha",
+        "439|khunti|jharkhand",
+        "518|mayurbhanj|odisha",
+        "666|saraikela-kharsawan|jharkhand",
+        "694|simdega|jharkhand",
+        "725|sundargarh|odisha"
+    ],
+    "803|west_tripura|tripura": [
+        "438|khowai|tripura",
+        "697|sipahijala|tripura"
+    ],
+    "804|wokha|nagaland": [
+        "322|golaghat|assam",
+        "391|jorhat|assam",
+        "446|kohima|nagaland",
+        "525|mokokchung|nagaland",
+        "810|zunheboto|nagaland"
+    ],
+    "805|y.s.r._kadapa|andhra_pradesh": [
+        "123|anantapur|andhra_pradesh",
+        "233|chittoor|andhra_pradesh",
+        "468|kurnool|andhra_pradesh",
+        "605|prakasam|andhra_pradesh",
+        "650|s.p.s._nellore|andhra_pradesh"
+    ],
+    "806|yadadri_bhuvanagiri|telangana": [
+        "374|jangaon|telangana",
+        "520|medchal_malkajgiri|telangana",
+        "549|nalgonda|telangana",
+        "637|ranga_reddy|telangana",
+        "691|siddipet|telangana",
+        "731|suryapet|telangana"
+    ],
+    "807|yadgir|karnataka": [
+        "397|kalaburagi|karnataka",
+        "554|narayanpet|telangana",
+        "620|raichur|karnataka",
+        "781|vijayapura|karnataka"
+    ],
+    "808|yamunanagar|haryana": [
+        "115|ambala|haryana",
+        "422|karnal|haryana",
+        "469|kurukshetra|haryana",
+        "653|saharanpur|uttar_pradesh",
+        "698|sirmaur|himachal_pradesh"
+    ],
+    "809|yavatmal|maharashtra": [
+        "101|adilabad|telangana",
+        "118|amravati|maharashtra",
+        "219|chandrapur|maharashtra",
+        "346|hingoli|maharashtra",
+        "552|nanded|maharashtra",
+        "790|wardha|maharashtra",
+        "791|washim|maharashtra"
+    ],
+    "810|zunheboto|nagaland": [
+        "441|kiphire|nagaland",
+        "446|kohima|nagaland",
+        "525|mokokchung|nagaland",
+        "600|phek|nagaland",
+        "755|tuensang|nagaland",
+        "804|wokha|nagaland"
+    ]
+}
