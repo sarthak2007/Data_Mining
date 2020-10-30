@@ -10,7 +10,7 @@
 
 ## How to run the entire assignment in one-go:
 ```
-chmod 700 \*.sh
+chmod 700 *.sh
 bash assign1.sh
 ```
 
@@ -22,28 +22,44 @@ rm -f *.csv states.json neighbor-districts-modified.json
 ```
 
 1. Question1(**NOTE**: Running this script is necessary before other questions if you want to run the questions individually)
-`bash neighbor-districts-modified.sh`
+```
+bash neighbor-districts-modified.sh
+```
 
 2. Question2
-`bash case-generator.sh`
+```
+bash case-generator.sh
+```
 
 3. Question3
-`bash edge-generator.sh`
+```
+bash edge-generator.sh
+```
 
 4. Question4
-`bash neighbor-generator.sh`
+```
+bash neighbor-generator.sh
+```
 
 5. Question5
-`bash state-generator.sh`
+```
+bash state-generator.sh
+```
 
 6. Question6
-`bash zscore-generator.sh`
+```
+bash zscore-generator.sh
+```
 
 7. Question7
-`bash method-spot-generator.sh`
+```
+bash method-spot-generator.sh
+```
 
 8. Question8
-`bash top-generator.sh`
+```
+bash top-generator.sh
+```
 
 ## Description of bash script for Question1:
 The bash script calls 2 python files data.py and modified_neighbors.py.
